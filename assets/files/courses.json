@@ -1,0 +1,539 @@
+{
+    "null": [],
+    "course": [
+        "Diploma",
+        "UG",
+        "PG"
+    ],
+    "Diploma": [
+        "Diploma in Computer Application",
+        "Diploma in Yoga",
+        "PGDRD",
+        "PGDCA"
+    ],
+    "UG": [
+        "Bachelor's in Agriculture",
+        "Bachelor's in Library Science",
+        "Bachelor's in Arts(English)",
+        "Bachelor's in Arts(Economics)",
+        "Bachelor's in Arts(Geography)",
+        "Bachelor's in Arts(Hindi)",
+        "Bachelor's in Arts(History)",
+        "Bachelor's in Arts(Sociology)",
+        "Bachelor's in Arts(Political Science)",
+        "Bachelor's in Commerce",
+        "Bachelor's in Business Administration",
+        "Bachelor's in Fine Arts",
+        "Bachelor's in Computer Application",
+        "Bachelor's in Information Technology",
+        "Bachelor's in Journalism & Mass Communication",
+        "Bachelor's in Performing Arts",
+        "Bachelor's in Zoology",
+        "Bachelor's in Psychology",
+        "Bachelor's in Mathematics",
+        "Bachelor's in Chemistry",
+        "Bachelor's in Chemistry",
+        "Bachelor's in Physics",
+        "Bachelor's in Botany"
+    ],
+    "PG": [
+        "Masters in Agriculture",
+        "Masters in Economics",
+        "Masters in Sociology",
+        "Masters in Political Science",
+        "Masters in Hindi",
+        "Masters in History",
+        "Masters in English",
+        "Masters in BA-Executive",
+        "Masters in Psychology",
+        "Masters in Business Administration",
+        "Masters in Geography",
+        "Masters in Education",
+        "Masters in Library Science",
+        "Masters in Social Work",
+        "Masters in Commerce",
+        "Masters in Fine Arts",
+        "Masters in Computer Application",
+        "Masters in Information Technology",
+        "Masters in Journalism & Mass Communication",
+        "Masters in Performing Arts",
+        "Masters in Maths",
+        "Masters in Physics",
+        "Masters in Chemistry",
+        "Masters in Yoga",
+        "Masters in Botany"
+    ],
+    "semester": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+    ],
+    "admissionSem": [
+        "Fresher"
+    ],
+    "admissionBatch": [
+        "Fresher"
+    ],
+    "cateogery": [
+        "General",
+        "OBC",
+        "SC",
+        "ST"
+    ],
+    "batch": [
+        "2019-22",
+        "2019-2022",
+        "2019-2023",
+        "2023-2024",
+        "2020-23",
+        "2020-2024",
+        "2021-24",
+        "2021-2025",
+        "2021-2022",
+        "2022-2023",
+        "2022-2024",
+        "2022-25",
+        "2022-2026",
+        "2023-2024",
+        "2023-2025",
+        "2023-2026",
+        "2023-2027"
+    ],
+    "Diploma in Computer Application": {
+        "departement": "Department: Computer Application",
+        "course": "Course Full Name : Diploma in Computer Application",
+        "csn": "Course Short Name : D.C.A",
+        "duration": "Duration : 1 year",
+        "Fee": "Fee : 12000",
+        "eligiblity": "Eligibility : Graduation"
+    },
+    "Diploma in Yoga": {
+        "departement": "Department: Yoga",
+        "course": "Course Full Name : Diploma in Yoga",
+        "csn": "Course Short Name : D.Y",
+        "duration": "Duration : 1 year",
+        "Fee": "Fee : 15000",
+        "eligiblity": "Eligibility : Graduation"
+    },
+    "Bachelor's in Agriculture": {
+        "deraprtement": "Department: Agriculture",
+        "course": "Course Full Name : Bachelor's in Agriculture",
+        "csn": "Course Short Name : B.Sc Agriculture",
+        "duration": "Duration : 4 Years",
+        "Fee": "Fee : 15000",
+        "eligiblity": "Eligibility : 10th+2"
+    },
+    "Bachelor's in Chemistry": {
+        "deraprtement": "Department: Chemisty",
+        "course": "Course Full Name : Bachelor's in Chemisty",
+        "csn": "Course Short Name : B.Sc Chemisty",
+        "duration": "Duration : 3 Years",
+        "Fee": "Fee : 15000",
+        "eligiblity": "Eligibility : 10th+2"
+    },
+    "Bachelor's in Physics": {
+        "deraprtement": "Department: Physics",
+        "course": "Course Full Name : Bachelor's in Physics",
+        "csn": "Course Short Name : B.Sc Physics",
+        "duration": "Duration : 3 Years",
+        "Fee": "Fee : 15000",
+        "eligiblity": "Eligibility : 10th+2"
+    },
+    "Bachelor's in Botany": {
+        "deraprtement": "Department: Botany",
+        "course": "Course Full Name : Bachelor's in Botany",
+        "csn": "Course Short Name : B.Sc Botany",
+        "duration": "Duration : 3 Years",
+        "Fee": "Fee : 15000",
+        "eligiblity": "Eligibility : 10th+2"
+    },
+    "Bachelor's in Mathematics": {
+        "deraprtement": "Department: Mathmatics",
+        "course": "Course Full Name : Bachelor's in Mathmatics",
+        "csn": "Course Short Name : B.Sc(Maths)",
+        "duration": "Duration : 3 Years",
+        "Fee": "Fee : 15000",
+        "eligiblity": "Eligibility : 10th+2"
+    },
+    "Bachelor's in Psychology": {
+        "deraprtement": "Department: Arts",
+        "course": "Course Full Name : Bachelor of Psychology",
+        "csn": "Course Short Name : BA(Psychology)",
+        "duration": "Duration : 3 Years",
+        "Fee": "Fee : 15000",
+        "eligiblity": "Eligibility : 10th+2"
+    },
+    "Bachelor's in Polotical Science": {
+        "deraprtement": "Department: Arts",
+        "course": "Course Full Name : Bachelor of Polotical Science",
+        "csn": "Course Short Name : B.(P.S.)",
+        "duration": "Duration : 3 Years",
+        "Fee": "Fee : 15000",
+        "eligiblity": "Eligibility : 10th+2"
+    },
+    "Bachelor's in Zoology": {
+        "deraprtement": "Department: Science",
+        "course": "Course Full Name : Bachelor of Zoology",
+        "csn": "Course Short Name : B.Sc(Zoology)",
+        "duration": "Duration : 3 Years",
+        "Fee": "Fee : 15000",
+        "eligiblity": "Eligibility : 10th+2"
+    },
+    "Bachelor's in Arts(Sociology)": {
+        "deraprtement": "Department: Arts",
+        "course": "Course Full Name : Bachelor of Sociology",
+        "csn": "Course Short Name : BA(Sociology)",
+        "duration": "Duration : 3 Years",
+        "Fee": "Fee : 15000",
+        "eligiblity": "Eligibility : 10th+2"
+    },
+    "Bachelor's in Arts(Political Science)": {
+        "deraprtement": "Department: Arts",
+        "course": "Course Full Name : Bachelor of Politcal Science",
+        "csn": "Course Short Name : BA(P.S)",
+        "duration": "Duration : 3 Years",
+        "Fee": "Fee : 15000",
+        "eligiblity": "Eligibility : 10th+2"
+    },
+    "Bachelor's in Arts(Geography)": {
+        "deraprtement": "Department: Arts",
+        "course": "Course Full Name : Bachelor of Geography",
+        "csn": "Course Short Name : BA(Geography)",
+        "duration": "Duration : 1 Years",
+        "Fee": "Fee : 15000",
+        "eligiblity": "Eligibility : 10th+2"
+    },
+    "Bachelor's in Arts(Economics)": {
+        "deraprtement": "Department: Arts",
+        "course": "Course Full Name : Bachelor of Economics",
+        "csn": "Course Short Name : BA(Economics)",
+        "duration": "Duration : 3 Years",
+        "Fee": "Fee : 15000",
+        "eligiblity": "Eligibility : 10th+2"
+    },
+    "Bachelor's in Arts(English)": {
+        "deraprtement": "Department: Arts",
+        "course": "Course Full Name : Bachelor of English",
+        "csn": "Course Short Name : BA(English)",
+        "duration": "Duration : 3 Years",
+        "Fee": "Fee : 15000",
+        "eligiblity": "Eligibility : 10th+2"
+    },
+    "Bachelor's in Arts(History)": {
+        "deraprtement": "Department: Arts",
+        "course": "Course Full Name : Bachelor of History",
+        "csn": "Course Short Name : BA(History)",
+        "duration": "Duration : 3 Years",
+        "Fee": "Fee : 15000",
+        "eligiblity": "Eligibility : 10th+2"
+    },
+    "Bachelor's in Arts(Hindi)": {
+        "deraprtement": "Department: Arts",
+        "course": "Course Full Name : Bachelor of Hindi",
+        "csn": "Course Short Name : BA(Hindi)",
+        "duration": "Duration : 3 Years",
+        "Fee": "Fee : 15000",
+        "eligiblity": "Eligibility : 10th+2"
+    },
+    "Bachelor's in Arts & Humanities(Hons)": {
+        "deraprtement": "Department: Arts",
+        "course": "Course Full Name : Bachelor of Arts(Arts & Humanities)",
+        "csn": "Course Short Name : BA(Arts & Humanities)",
+        "duration": "Duration : 3 Years",
+        "Fee": "Fee : 15000",
+        "eligiblity": "Eligibility : 10th+2"
+    },
+    "Bachelor's in Library Science": {
+        "departement": "Department: Arts",
+        "course": "Course Full Name : Bachelor of Library Science",
+        "csn": "Course Short Name : B.Lib",
+        "duration": "Duration : 3 Years",
+        "Fee": "Fee : 15000",
+        "eligiblity": "Eligibility : 10th+2"
+    },
+    "Bachelor's in Commerce": {
+        "departement": "Department: Commerce",
+        "course": "Course Full Name : Bachelor of Commerce(Hons)",
+        "csn": "Course Short Name : B.COM(Hons)",
+        "duration": "Duration : 3 Years",
+        "Fee": "Fee : 15000",
+        "eligiblity": "Eligibility : 10th+2"
+    },
+    "Bachelor's in Fine Arts": {
+        "departement": "Department: Fine Arts",
+        "course": "Course Full Name : Bachelor of Fine Arts",
+        "csn": "Course Short Name : BFA",
+        "duration": "Duration : 3 Years",
+        "Fee": "Fee : 15000",
+        "eligiblity": "Eligibility : 10th+2"
+    },
+    "Bachelor's in Computer Application": {
+        "departement": "Department: CS & IT",
+        "course": "Course Full Name : Bachelor Of Computer Application",
+        "csn": "Course Short Name : BCA",
+        "duration": "Duration : 3 Years",
+        "Fee": "Fee : 15000",
+        "eligiblity": "Eligibility : 10th+2"
+    },
+    "Bachelor's in Information Technology": {
+        "departement": "Department: CS & IT",
+        "course": "Course Full Name : Bachelor Of Information Tchnology",
+        "csn": "Course Short Name : B.Sc(IT)",
+        "duration": "Duration : 3 Years",
+        "Fee": "Fee : 15000",
+        "eligiblity": "Eligibility : 10th+2"
+    },
+    "Bachelor's in Journalism & Mass Communication": {
+        "departement": "Department: Journalism & Mass Communication",
+        "course": "Course Full Name : Bachelor in Journalism & Mass Communication",
+        "csn": "Course Short Name : BJM",
+        "duration": "Duration : 1 Years",
+        "Fee": "Fee : 15000",
+        "eligiblity": "Eligibility : 10th+2"
+    },
+    "Bachelor's in Business Administration": {
+        "departement": "Department: Management",
+        "course": "Course Full Name : Bachelor of Business Administration",
+        "csn": "Course Short Name : BBA",
+        "duration": "Duration : 3 years",
+        "Fee": "Fee : 15000",
+        "eligiblity": "Eligibility : 10th+2"
+    },
+    "Bachelor's in Performing Arts": {
+        "departement": "Department: Performing Arts",
+        "course": "Course Full Name : Bachelor of Performing Arts",
+        "csn": "Course Short Name : BPA",
+        "duration": "Duration : 3 Years",
+        "Fee": "Fee : 15000",
+        "eligiblity": "Eligibility : 10th+2"
+    },
+    "Bachelor's in Science": {
+        "departement": "Department: Zoology",
+        "course": "Course Full Name : Bachelor Of Science(Zoology)",
+        "csn": "Course Short Name : B.Sc (Zoology)",
+        "duration": "Duration : 3 Years",
+        "Fee": "Fee : 15000",
+        "eligiblity": "Eligibility : 10th+2"
+    },
+    "Masters in Agriculture": {
+        "departement": "Department: Agriculture",
+        "course": "Course Full Name : Master of Science in Agriculture",
+        "csn": "Course Short Name : M.Sc(Agri)",
+        "duration": "Duration : 2 years",
+        "Fee": "Fee : 20000",
+        "eligiblity": "Eligibility : Graduation"
+    },
+    "Masters in Economics": {
+        "departement": "Department: Arts",
+        "course": "Course Full Name : Masters of Arts(Economics)",
+        "csn": "Course Short Name : MA(Economic)",
+        "duration": "Duration : 2 Years",
+        "Fee": "Fee : 20000",
+        "eligiblity": "Eligibility : Graduation"
+    },
+    "Masters in Sociology": {
+        "departement": "Department: Arts",
+        "course": "Course Full Name : Masters of Arts(Sociology)",
+        "csn": "Course Short Name : MA(Sociology)",
+        "duration": "Duration : 2 Years",
+        "Fee": "Fee : 20000",
+        "eligiblity": "Eligibility : Graduation"
+    },
+    "Masters in Political Science": {
+        "departement": "Department: Arts",
+        "course": "Course Full Name : Masters of Arts(Political Science)",
+        "csn": "Course Short Name : MA(Pol.Sc)",
+        "duration": "Duration : 2 Years",
+        "Fee": "Fee : 20000",
+        "eligiblity": "Eligibility : Graduation"
+    },
+    "Masters in Hindi": {
+        "departement": "Department: Arts",
+        "course": "Course Full Name : Masters of Arts(Hindi)",
+        "csn": "Course Short Name : MA(Hindi)",
+        "duration": "Duration : 2 years",
+        "Fee": "Fee : 20000",
+        "eligiblity": "Eligibility : Graduation"
+    },
+    "Masters in History": {
+        "departement": "Department: Arts",
+        "course": "Course Full Name : Masters of Arts(History)",
+        "csn": "Course Short Name : MA(History)",
+        "duration": "Duration : 2 Years",
+        "Fee": "Fee : 20000",
+        "eligiblity": "Eligibility : Graduation"
+    },
+    "Masters in English": {
+        "departement": "Department: Arts",
+        "course": "Course Full Name : Masters of Arts(English)",
+        "csn": "Course Short Name : MA(English)",
+        "duration": "Duration : 2 years",
+        "Fee": "Fee : 20000",
+        "eligiblity": "Eligibility : Graduation"
+    },
+    "Masters in BA-Executive": {
+        "departement": "Department: Arts",
+        "course": "Course Full Name : Masters of Arts(BA-Executive)",
+        "csn": "Course Short Name : MA(BA-Executive)",
+        "duration": "Duration : 2 years",
+        "Fee": "Fee : 20000",
+        "eligiblity": "Eligibility : Graduation"
+    },
+    "Masters in Psychology": {
+        "departement": "Department: Commerce",
+        "course": "Course Full Name : Masters of Arts(Psychology)",
+        "csn": "Course Short Name : MA(Psychology)",
+        "duration": "Duration : 2 years",
+        "Fee": "Fee : 20000",
+        "eligiblity": "Eligibility : Graduation"
+    },
+    "Masters in Geography": {
+        "departement": "Department: Arts",
+        "course": "Course Full Name : Masters of Arts(Geography)",
+        "csn": "Course Short Name : MA(Geography)",
+        "duration": "Duration : 2 years",
+        "Fee": "Fee : 20000",
+        "eligiblity": "Eligibility : Graduation"
+    },
+    "Masters in Education": {
+        "departement": "Department: Arts",
+        "course": "Course Full Name : Masters of Arts(Education)",
+        "csn": "Course Short Name : MA(Education)",
+        "duration": "Duration : 2 years",
+        "Fee": "Fee : 20000",
+        "eligiblity": "Eligibility : Graduation"
+    },
+    "Masters in Library Science": {
+        "departement": "Department: Arts",
+        "course": "Course Full Name : Masters of Library Science",
+        "csn": "Course Short Name : M.Lib",
+        "duration": "Duration : 1 years",
+        "Fee": "Fee : 20000",
+        "eligiblity": "Eligibility : Graduation"
+    },
+    "Masters in Social Work": {
+        "departement": "Department: Arts",
+        "course": "Course Full Name : Masters of Social Work",
+        "csn": "Course Short Name : MSW",
+        "duration": "Duration : 2 years",
+        "Fee": "Fee : 20000",
+        "eligiblity": "Eligibility : Graduation"
+    },
+    "Masters in Commerce": {
+        "departement": "Department: Commerce",
+        "course": "Course Full Name : Master of Commerce",
+        "csn": "Course Short Name : M.COM",
+        "duration": "Duration : 2 Years",
+        "Fee": "Fee : 20000",
+        "eligiblity": "Eligibility : Graduation"
+    },
+    "Masters in Computer Application": {
+        "departement": "Department: CS & IT",
+        "course": "Course Full Name : Masters in Computer Application",
+        "csn": "Course Short Name : MCA",
+        "duration": "Duration : 2 Years",
+        "Fee": "Fee : 20000",
+        "eligiblity": "Eligibility : Graduation"
+    },
+    "Masters in Maths": {
+        "departement": "Department: Maths",
+        "course": "Course Full Name : Master of Mathematics",
+        "csn": "Course Short Name : Masters(Maths)",
+        "duration": "Duration : 2 Years",
+        "Fee": "Fee : 20000",
+        "eligiblity": "Eligibility : Graduation"
+    },
+    "Masters in Physics": {
+        "departement": "Department: Physics",
+        "course": "Course Full Name : Master of Physics",
+        "csn": "Course Short Name : Masters(Physics)",
+        "duration": "Duration : 2 Years",
+        "Fee": "Fee : 20000",
+        "eligiblity": "Eligibility : Graduation"
+    },
+    "Masters in Chemistry": {
+        "departement": "Department: Chemistry",
+        "course": "Course Full Name : Master of Chemistry",
+        "csn": "Course Short Name : Masters(Chemistry)",
+        "duration": "Duration : 2 Years",
+        "Fee": "Fee : 20000",
+        "eligiblity": "Eligibility : Graduation"
+    },
+    "Masters in Fine Arts": {
+        "departement": "Department: Fine Arts",
+        "course": "Course Full Name : Master of Fine Arts",
+        "csn": "Course Short Name : MFA",
+        "duration": "Duration : 2 Years",
+        "Fee": "Fee : 20000",
+        "eligiblity": "Eligibility : Graduation"
+    },
+    "Masters in Information Technology": {
+        "departement": "Department: Information Technology",
+        "course": "Course Full Name : Master of Science in Information Technology",
+        "csn": "Course Short Name : M.Sc(IT)",
+        "duration": "Duration : 2 Years",
+        "Fee": "Fee : 20000",
+        "eligiblity": "Eligibility : Graduation"
+    },
+    "Masters in Journalism & Mass Communication": {
+        "departement": "Department: Journalism & Mass Communication",
+        "course": "Course Full Name : Master in Journalism & Mass Communication",
+        "csn": "Course Short Name : MJMC",
+        "duration": "Duration : 1 Years",
+        "Fee": "Fee : 20000",
+        "eligiblity": "Eligibility : Graduation"
+    },
+    "Masters in Business Administration": {
+        "departement": "Department: Management",
+        "course": "Course Full Name : Master of Business Administration",
+        "csn": "Course Short Name : MBA",
+        "duration": "Duration : 2 Years",
+        "Fee": "Fee : 20000",
+        "eligiblity": "Eligibility : Graduation"
+    },
+    "Masters in Performing Arts": {
+        "departement": "Department: Performing Arts",
+        "course": "Course Full Name : Master of Performing Arts",
+        "csn": "Course Short Name : MPA",
+        "duration": "Duration : 2 Years",
+        "Fee": "Fee : 20000",
+        "eligiblity": "Eligibility : Graduation"
+    },
+    "Masters in Yoga": {
+        "departement": "Department: Yoga",
+        "course": "Course Full Name : Master in Yoga",
+        "csn": "Course Short Name : M.Sc(Yoga",
+        "duration": "Duration : 2 Years",
+        "Fee": "Fee : 20000",
+        "eligiblity": "Eligibility : Graduation"
+    },
+    "PGDCA": {
+        "departement": "Department: CS & IT",
+        "course": "Course Full Name : Master in PGDCA",
+        "csn": "Course Short Name : M.Sc(PGDCA)",
+        "duration": "Duration : 2 Years",
+        "Fee": "Fee : 20000",
+        "eligiblity": "Eligibility : Graduation"
+    },
+    "PGDRD": {
+        "departement": "Department: --",
+        "course": "Course Full Name : PGDRD",
+        "csn": "Course Short Name : PGDRD",
+        "duration": "Duration : 2 Years",
+        "Fee": "Fee : 15000",
+        "eligiblity": "Eligibility : Graduation"
+    },
+    "Masters in Botany": {
+        "departement": "Department: Science",
+        "course": "Course Full Name : Master in Botany",
+        "csn": "Course Short Name : M.Sc(Botany)",
+        "duration": "Duration : 2 Years",
+        "Fee": "Fee : 15000",
+        "eligiblity": "Eligibility : Graduation"
+    }
+}

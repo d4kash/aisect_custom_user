@@ -1,0 +1,2117 @@
+{
+   "null": [],
+   "Bachelor's in Commerce 1": {
+      "1": "3HBEL201 : English Language and Indian Culture",
+      "2": "3MBFE101 : Fundamental of Entrepreneureship",
+      "3": "3CBCH101 : Financial Accounting",
+      "4": "3CHCH102 : Business Regulatory Framework",
+      "5": "3CBCH103 : Micro Economics"
+   },
+   "Bachelor's in Commerce 2": {
+      "1": "3HBHL101 : Hindi Bhasha aaur sanrachana",
+      "2": "3CBCA201 : Basic Information Computer Technology - I",
+      "3": "3CBCH201 : Corporate Law",
+      "4": "3CBCH202 : Business Mathematics",
+      "5": "3CBCH203 : Macro Economics"
+   },
+   "Bachelor's in Commerce 3": {
+      "1": "3HBEL402 : English language and scientific temper",
+      "2": "3CBES501 : Environmental Studies",
+      "3": "3CBCH301 : Cost Accounting",
+      "4": "3CBCH302 : Management Principles & Application",
+      "5": "3CBCH303 : Business Statistics"
+   },
+   "Bachelor's in Commerce 4": {
+      "1": "3HBHL302H :  Hindi Bhasha samvedana awaim sanchar saadhan",
+      "2": "3HBEL401 : Corporate Accounting",
+      "3": "3CBCH402 : Computer Application in Business",
+      "4": "3CBCH403 : Indian Economy",
+      "5": "3HBEL501 : Introduction to Soft Skill & Team Building"
+   },
+   "Bachelor's in Commerce 5": {
+      "1": "3CBCH501 : Incom Tax Law & Practice ",
+      "2": "3CBCH502 : Auditing and Corporate Governance ",
+      "3": "3CBCH503 : Human Resourse Management ",
+      "4": "3CBCH504 : Discipline Specific Elective-1 (Group A)",
+      "5": "3CBCH505 : Discipline Specific Elective-2 (Group A)"
+   },
+   "Bachelor's in Commerce 6": {
+      "1": "3CBCH601 : Goods & Service Tax ",
+      "2": "3CBCH602 : Fundamental of Financial Management",
+      "3": "3CBCH603 : Principles of Marketing",
+      "4": "3CBCH604 : Discipline Specific Elective-3 (Group B)",
+      "5": "3CBCH605 : Discipline Specific Elective-4 (Group B)",
+      "Practical": {
+         "1": "***** : Project & Viva Voce"
+      }
+   },
+   "Master's in Commerce 1": {
+      "1": "6CMCO101 : Management Process & Organizational Behaviour",
+      "2": "6CMCO102 : Managerial Economics",
+      "3": "6CMCO103 : Environmental Analysis",
+      "4": "6CMCO104 : Advanced Financial Accounting",
+      "5": "6CMCO105 : Entrepreneurial Skill Development"
+   },
+   "Master's in Commerce 2": {
+      "1": "6CMCO201 : Computer Application for Managers",
+      "2": "6CMCO202 : Cost Analysis and Control ",
+      "3": "6CMCO203 : Strategic Management",
+      "4": "6CMCO204 : Corporate Legal Framework",
+      "5": "6CMCO205 : Advance Statistical Analysis"
+   },
+   "Master's in Commerce 3": {
+      "1": "6CMCO301 : International Business",
+      "2": "6CMCO302 : Business Ethics and Corporate Social Responsibility",
+      "3": "6CMCO303 : Advanced Corporate Accounting",
+      "4": "* : Group Elective I",
+      "5": "* : Group Elective II"
+   },
+   "Master's in Commerce 4": {
+      "1": "6CMCO401 : Corporate Tax Planning & Management ",
+      "2": "6CMCO402 : Research Methodology",
+      "3": "* : Group Elective III Finance/Management Taxation /Banking/Computer Application",
+      "Practical": {
+         "1": "*** : Project/Dissertation/Internship & Viva Voce"
+      }
+   },
+   "Bachelor's in Library Science 1": {
+      "1": "3HBLS101 : Library and Society ",
+      "2": "3HBLS102 : Library Management",
+      "3": "3HBLS103 : Library Classification Theory",
+      "4": "3HBLS104 : Library Classification Practice ",
+      "5": "3HBLS105 : Foundation of Library and Information Science"
+   },
+   "Bachelor's in Library Science 2": {
+      "1": "3HBLS201 : Library Cataloguing Theory",
+      "2": "3HBLS202 : Library Cataloguing Practice",
+      "3": "3HBLS203 : Reference and Information Sources & Services",
+      "4": "3HBLS204 : Information Technology Basics",
+      "5": "3HBLS205 : History of Library and Information Science ",
+      "Practical": {
+         "1": "*** : Project/Dissertation/Internship & Viva Voce"
+      }
+   },
+   "Master's in Library Science  1": {
+      "1": "6HMLS101 : Information, Communication And Society",
+      "2": "6HMLS102 : Management of Library And Information Centres ",
+      "3": "6HMLS103 : Information Processing and Retrieval",
+      "4": "6HMLS104 : Fundamentals of Information Communication Technologie",
+      "5": "6HMLS105 : Information Retrieval & Network Centers"
+   },
+   "Master's in Library Science 2": {
+      "1": "6HMLS201 : Preservation and Conservation of Library Material",
+      "2": "6HMLS202 : Research Methodology",
+      "3": "6HMLS203 : Academic Library System & Services",
+      "4": "6HMLS204 : Public Library System & Services",
+      "5": "6HMLS205 : Universe of Knowledge, Information and Communication",
+      "Practical": {
+         "1": "*** : Project/Dissertation/Internship & Viva Voce"
+      }
+   },
+   "Bachelor's in Arts(English) 1": {
+      "1": "3HBHL101H : Hindi Bhasha aaur sanrachana",
+      "2": "3CBCA201H : Basic Information Computer Technology - I",
+      "3": "3HBEN101H : Paper: Poetry",
+      "4": "3HBEN102H : Women’s Writing",
+      "5": "3HBPS101H/3HBHY101H/3HBHS101H/3HBEC101H/3HBSO101H : Political Science I- / History-I, / Hindi Lit.-I/ Economics-I / Sociology-I",
+      "Practical": {
+         "1": "3CBCA201H : Basic Information Computer Technology - I"
+      }
+   },
+   "Bachelor's in Arts(English) 2": {
+      "1": "3HBEL201H : English Language and Indian Culture",
+      "2": "3MBFE101H : Fundamental of Entrepreneurship",
+      "3": "3HBEN202H : English Literature II-Prose ",
+      "4": "3HBEN203H : Indian Writing in English",
+      "5": "3HBPS202H/3HBHY202H/3HBHS202H/3HBEC202H/3HBSO202H : Political Science -II- / History-II, / Hindi Lit.-II/ Economics-II / Sociology-II"
+   },
+   "Bachelor's in Arts(English) 3": {
+      "1": "3HBHL302H :  Hindi Bhasha samvedana awaim sanchar sadhan",
+      "2": "3CBCA502H : Basic Information Computer Technology - II",
+      "3": "3HBEN303H : Paper:Drama",
+      "4": "3HBEN304H : Indian Classical Literature",
+      "5": "3HBPS303H/3HBHY303H/3HBHS303H/3HBEC303H/3HBSO303H :  Political Science -III- / History-III, / Hindi Lit.-III/ Economics-III / Sociology-III",
+      "Practical": {
+         "1": "3CBCA502H : Basic Information Computer Technology - II"
+      }
+   },
+   "Bachelor's in Arts(English) 4": {
+      "1": "3HBEL402H : English language and scientific temper",
+      "2": "3HBHP401H : Human Values & Ethics",
+      "3": "3HBEN404H : Paper: Fiction ",
+      "4": "3HBEN405H : Popular Literature",
+      "5": "3HBPS404H/3HBHY404H/3HBHS404H/3HBEC404H/3HBSO404H :  Political Science -IV- / History-IV, / Hindi Lit.-IV/ Economics-IV / Sociology-IV"
+   },
+   "Bachelor's in Arts(English) 5": {
+      "1": "3HBEN505H : British Romantic Literature ",
+      "2": "3HBEN506H : British Literature: The Early 20th Century",
+      "3": "3HBEN507H : Modern European Drama",
+      "4": "3HBEN508H : Literary Criticism ",
+      "5": "3HBEN509H : Literature and Cinema"
+   },
+   "Bachelor's in Arts(English) 6": {
+      "1": "3HBEN606H : British Poetry and Drama: 14th -17th Century",
+      "2": "3HBEN607H : American Literature ",
+      "3": "3HBEN608H : British Literature: 19th Century",
+      "4": "3HBEN609H : Methodology of Research",
+      "5": "3HBEN610H : Dessertation ",
+      "Practical": {
+         "1": "*** : Project & Viva Voce"
+      }
+   },
+   "Bachelor's in Arts(Economics) 1": {
+      "1": "3HBHL101H : Hindi Bhasha aaur sanrachana",
+      "2": "3CBCA201H : Basic Information Computer Technology - I",
+      "3": "3HBEC101H : Micro Economics",
+      "4": "3HBEC102H : Indian Economy-I",
+      "5": "3HBPS101H/3HBHY101H/3HBHS101H/3HBEC101H3HBSO101H :  Political Science I- / History-I, /English Lit-I/Hindi Lit-I./ Sociology -I"
+   },
+   "Bachelor's in Arts(Economics) 2": {
+      "1": "3HBEL201H : English Language and Indian Culture",
+      "2": "3MBFE101H : Fundamental of Entrepreneurship",
+      "3": "3HBEN202H : Indian Economy",
+      "4": "3HBEN203H : Intermediate Microeconomics - I",
+      "5": "3HBPS202H/3HBHY202H/3HBHS202H/3HBEC202H/3HBSO202H :  Political Science -II- / History-II, /English Lit-II/Hindi Lit-II./ Sociology -II"
+   },
+   "Bachelor's in Arts(Economics) 3": {
+      "1": "3HBHL302H :  Hindi Bhasha samvedana awaim sanchar sadhan",
+      "2": "3CBCA502H : Basic Information Computer Technology - II",
+      "3": "3HBEN303H : Macro Economics and Money & Banking",
+      "4": "3HBEN304H : Money And Financial Markets",
+      "5": "3HBPS303H/3HBHY303H/3HBHS303H/3HBEC303H/3HBSO303H :  Political Science -III- / History-III, /English Lit-III/Hindi Lit-III./ Sociology -III"
+   },
+   "Bachelor's in Arts(Economics) 4": {
+      "1": "3HBEL402H : English language and scientific temper",
+      "2": "3HBHP401H : Human Values & Ethics",
+      "3": "3HBEN404H : nternational Economics & Public Finance",
+      "4": "3HBEN405H : Intermediate Macroeconomics - II",
+      "5": "3HBPS404H/3HBHY404H/3HBHS404H/3HBEC404H/3HBSO404H :  Political Science -IV- / History-IV, /English Lit-IV/Hindi Lit-IV./ Sociology -IV"
+   },
+   "Bachelor's in Arts(Economics) 5": {
+      "1": "3HBEN505H : Agriculture Economics I ",
+      "2": "3HBEN506H : Development Economics-I",
+      "3": "3HBEN507H : Statistical Methods for Economics ",
+      "4": "3HBEN508H : Economics of Health and Education",
+      "5": "3HBEN509H : Public Economics "
+   },
+   "Bachelor's in Arts(Economics) 6": {
+      "1": "3HBEN606H : Agriculture Economics II",
+      "2": "3HBEN607H : Development Economics-II",
+      "3": "3HBEN608H : Economic History Of India (1857-1947) ",
+      "4": "3HBEN609H : Environmental Economics ",
+      "5": "3HBEN610H : Dissertation",
+      "Practical": {
+         "1": "*** : Project & Viva Voce"
+      }
+   },
+   "Bachelor's in Arts(Geography) 1": {
+      "1": "3HBHL101H : Hindi Bhasha aaur sanrachana",
+      "2": "3CBCA201H : Basic Information Computer Technology - I",
+      "3": "3HBEN101H : Introduction to Geography",
+      "4": "3HBEN102H : Contemporary Issues in Geography",
+      "5": "3HBPS101H/3 : HBHY101H/3HBHS101H/3HBEC101H3HBSO101H : History-I, /English Lit-I/ Hindi Lit-I./ Economics - I,/Pol Sc-I/Sociology-I",
+      "Practical": {
+         "": "3CBCA201H : Basic Information Computer Technology - I"
+      }
+   },
+   "Bachelor's in Arts(Geography) 2": {
+      "1": "3HBEL201H : English Language and Indian Culture",
+      "2": "3MBFE101H : Fundamental of Entrepreneurship",
+      "3": "3HBEN202H : Geomorphology",
+      "4": "3HBEN203H : Human Geograph",
+      "5": "3HBPS202H/3HBHY202H/3HBHS202H/3HBEC202H/3HBSO202H : History-II, /English Lit-II/ Hindi Lit-II./ Economics - II,/Pol Sc-II/Sociology-II"
+   },
+   "Bachelor's in Arts(Geography) 3": {
+      "1": "3HBHL302H :  Hindi Bhasha samvedana awaim sanchar sadhan",
+      "2": "3CBCA502H : Basic Information Computer Technology - II",
+      "3": "3HBEN303H : Oceanography",
+      "4": "3HBEN304H : Climatology",
+      "5": "3HBGE303(P) : Practical",
+      "Practical": {
+         "": "3CBCA502H : Basic Information Computer Technology - II"
+      }
+   },
+   "Bachelor's in Arts(Geography) 4": {
+      "1": "3HBEL402H : English language and scientific temper",
+      "2": "3HBHP401H : Human Values & Ethics",
+      "3": "3HBEN404H : History of Geographical Thought",
+      "4": "3HBEN405H : Travel and Tourism/ GIS & Remote Sensing",
+      "5": "3HBGE403(P) : Practical"
+   },
+   "Bachelor's in Arts(Geography) 5": {
+      "1": "3CBES501 : Environmental Studies",
+      "2": "3HBEL501 : Introduction to soft skill & Team Building",
+      "3": "3HBGE501 : Geography of India & Jharkhand",
+      "4": "3HBGE502 : Bio-Geography/ Regional Planning & Development",
+      "5": "3HBGE503 : Social Geography/ Political Geography"
+   },
+   "Bachelor's in Arts(Geography) 6": {
+      "1": "3HBGE601 : Population Geography",
+      "2": "3HBEN607H : Settlement & Urban Geography/ Economic Geography",
+      "3": "3HBEN608H : Agriculture & Soil Geography ",
+      "Practical": {
+         "": "3HBGE604 : Project & Viva Voce "
+      }
+   },
+   "Bachelor's in Arts(Hindi) 1": {
+      "1": "3HBHL101H : Hindi Bhasha aaur sanrachana",
+      "2": "3CBCA201H : Basic Information Computer Technology - I",
+      "3": "3HBHS101H : Prachin awam madhyakaleen kavya",
+      "4": "3HBHS102H : hindi sahitya ka itihash",
+      "5": "3HBPS101H/3HBHY101H/3HBEN101H/3HBEC101H/3HBSO101H : History-I, /English Lit-I/ Economics - I,/Pol Sc-I/Sociology-I"
+   },
+   "Bachelor's in Arts(Hindi) 2": {
+      "1": "3HBEL201H : English Language and Indian Culture",
+      "2": "3MBFE101H : Fundamental of Entrepreneurship",
+      "3": "3HBHS202H : Katha Sahitya",
+      "4": "3HBHS203H : Hindi sahitya ka itihash",
+      "5": "3HBPS201H/3HBHY201H/3HBEN201H/3HBEC201H/3HBSO201H : History-II, /English Lit-II/ Economics - II,/Pol Sc-II/Sociology-II"
+   },
+   "Bachelor's in Arts(Hindi) 3": {
+      "1": "3HBHL302H :  Hindi Bhasha samvedana awaim sanchar sadhan",
+      "2": "3CBCA502H : Basic Information Computer Technology - II",
+      "3": "3HBHS303H : Arwarchin hindi Kavya",
+      "4": "3HBEN304H : Hindi Kahani",
+      "5": "3HBPS303H/3HBHY303H/3HBEN303H/3HBEC303H/3HBSO303H : History-III, /English Lit-III/ Economics - III,/Pol Sc-III/Sociology-III"
+   },
+   "Bachelor's in Arts(Hindi) 4": {
+      "1": "3HBEL402H : English language and scientific temper",
+      "2": "3HBHP401H : Human Values & Ethics",
+      "3": "3HBHS404H : Hindi bhasha sahitya ka itihash aur kavyang vivechana",
+      "4": "3HBHS405H : Bhartiya Kavyasashtra",
+      "5": "3HBPS404H/3HBHY404H/3HBEN404H/3HBEC404H/3HBSO404H : History-IV, /English Lit-IV/ Economics - IV,/Pol Sc-IV/Sociology-IV"
+   },
+   "Bachelor's in Arts(Hindi) 5": {
+      "1": "3HBEL505H : Pachatya Kavyasashtra",
+      "2": "3HBHP506H : Ashmita Mulak bimarsh aur hindi sahitya",
+      "3": "3HBHS507H : lok sahitya",
+      "4": "3HBHS508H : hindi ki sahitya patrakarita",
+      "5": "3HBHS509H : Prayojan mulak Hindi"
+   },
+   "Bachelor's in Arts(Hindi) 6": {
+      "1": "3HBHS606H : Bhartiya sahitya",
+      "2": "3HBHS607H : Prawasi sahitya",
+      "3": "3HBHS608H : Hindi upanayash",
+      "4": "3HBHS609H : Disseration",
+      "5": "3HBHS610H"
+   },
+   "Bachelor's in Arts(History) 1": {
+      "1": "3HBHL101H : Hindi Bhasha aaur sanrachana",
+      "2": "3CBCA201H : Basic Information Computer Technology - I",
+      "3": "3HBHY101H : History of India from Earliest Time to 1200 A.D.",
+      "4": "3HBHY102H : Social formationa & Cultural patterans of the Ancient world",
+      "5": "3HBPS101H/BEN101H/3HBHS101H/3HBEC101H/ HBSO101H : Political Science I- /English Lit-I/ Hindi Lit-I./ Economics-I / Sociology-I"
+   },
+   "Bachelor's in Arts(History) 2": {
+      "1": "3HBEL201H : English Language and Indian Culture",
+      "2": "3MBFE101H : Fundamental of Entrepreneurship",
+      "3": "3HBHY202H : Westerm Warld Form Mid 15th Century To 1870 AD",
+      "4": "3HBHY203H : Social formationa & Cultural patterans of the Medieval world",
+      "5": "3HBPS202H/BEN202H/3HBHS202H/3HBEC202H/ HBSO202H : Political Science -II- /English Lit-II/ Hindi Lit-II./ Economics-II / Sociology-II"
+   },
+   "Bachelor's in Arts(History) 3": {
+      "1": "3HBHL302H :  Hindi Bhasha samvedana awaim sanchar sadhan",
+      "2": "3CBCA502H : Basic Information Computer Technology - II",
+      "3": "3HBHY303H : History of india from 1200 Ad to1739 Ad",
+      "4": "3HBHY304H : Rise of the Modern West-I",
+      "5": "3HBPS303H/BEN303H/3HBHS303H/3HBEC303H/ HBSO303H : Political Science -III- /English Lit-III/ Hindi Lit-III./ Economics-III / Sociology-III"
+   },
+   "Bachelor's in Arts(History) 4": {
+      "1": "3HBEL402H : English language and scientific temper",
+      "2": "3HBHP401H : Human Values & Ethics",
+      "3": "3HBHY404H : Main currents of world Histroy From 1871to1945ad ",
+      "4": "3HBHY405H : Rise of the Modern West -II",
+      "5": "3HBPS404H/BEN404H/3HBHS404H/3HBEC404H/ HBSO404H : Political Science -IV- /English Lit-IV/ Hindi Lit-IV./ Economics-IV / Sociology-IV"
+   },
+   "Bachelor's in Arts(History) 5": {
+      "1": "3HBHY505H : History of India From 1740AD to1857AD ",
+      "2": "3HBHY506H : History of Modern Europe- I (c. 1780-1939)",
+      "3": "3HBHY507H : History of Modern Europe- II (c. 1780-1939)",
+      "4": "3HBHY508H : History Of United States Of America -1(C. 1776 - 1945)",
+      "5": "3HBHY509H : History Of United States Of America -II(C. 1776 - 1945)"
+   },
+   "Bachelor's in Arts(History) 6": {
+      "1": "3HBHY606H : History of India From 1858 AD to 1950AD",
+      "2": "3HBHY607H : History Of The USSR-I (c. 1917- 1964)",
+      "3": "3HBHY608H : History Of The USSR-II (c. 1917- 1964)",
+      "4": "3HBHY609H : History of Modern East Asia-I (c.1840-1919)",
+      "5": "3HBHY610H : Dissertation ",
+      "Practical": {
+         "1": "***** : Project & Viva Voce"
+      }
+   },
+   "Bachelor's in Arts(Sociology) 1": {
+      "1": "3HBHL101H : Hindi Bhasha aaur sanrachana",
+      "2": "3CBCA201H : Basic Information Computer Technology - I",
+      "3": "3HBSO101H : Introduction to Sociology-I",
+      "4": "3HBSO102H : Sociology of Kingship ",
+      "5": "3HBPS101H/3HBHY101H/3HBEN101H/3HBHS101H/3HBEC101H : Political Science I- / History-I, /English Lit-I/ Hindi Lit-I./ Economics-I",
+      "Practical": {
+         "1": "3CBCA201H : Basic Information Computer Technology - I"
+      }
+   },
+   "Bachelor's in Arts(Sociology) 2": {
+      "1": "3HBEL201H : English Language and Indian Culture",
+      "2": "3MBFE101H : Fundamental of Entrepreneurship",
+      "3": "3HBSO202H : Indian Society",
+      "4": "3HBSO203H : Sociology of India",
+      "5": "3HBPS202H/3HBHY202H/3HBHS202H/3HBEC202H/3HBSO202H : Political Science -II- / History-II, /English Lit-II/ Hindi Lit-II./ Economics-II"
+   },
+   "Bachelor's in Arts(Sociology) 3": {
+      "1": "3HBHL302H : Hindi Bhasha samvedana awaim sanchar sadhan",
+      "2": "3CBCA502H : Basic Information Computer Technology - II",
+      "3": "3HBSO303H : Rural and Urban Sociology",
+      "4": "3HBSO304H : Political Sociology",
+      "5": "3HBPS303H/3HBHY303H/3HBHS303H/3HBEC303H/HBSO303H : Political Science -III- / History-III, /English Lit-III/ Hindi Lit-III./ Economics-III",
+      "Practical": {
+         "1": "3CBCA502H : Basic Information Computer Technology - I"
+      }
+   },
+   "Bachelor's in Arts(Sociology) 4": {
+      "1": "3HBEL402H : English language and scientific temper",
+      "2": "3HBHP401H : Human Values & Ethics",
+      "3": "3HBSO404H : Sociology of Tribal Society ",
+      "4": "3HBSO405H : Sociology of Religion",
+      "5": "3HBPS404H/3HBHY404H/3HBEN404H/3HBHS404H/3HBEC404H : Political Science -IV- / History-IV, /English Lit-IV/ Hindi Lit-IV./ Economics-IV"
+   },
+   "Bachelor's in Arts(Sociology) 5": {
+      "1": "3HBSO505H : Sociological Thinkers I ",
+      "2": "3HBSO506H : Economic Sociology ",
+      "3": "3HBSO507H : Social Stratification ",
+      "4": "3HBSO508H : Theory and Practice of Development ",
+      "5": "3HBSO509H : Gender Sensitization "
+   },
+   "Bachelor's in Arts(Sociology) 6": {
+      "1": "3HBSO606H : Methods of Sociological Enquiry-I",
+      "2": "3HBSO607H : Sociological Thinkers-II ",
+      "3": "3HBSO608H : Methods of Sociological Enquriy-II",
+      "4": "3HBSO609H : Urban Society in India",
+      "5": "3HBSO610H : Dissertation",
+      "Practical": {
+         "1": "***** : Project & Viva Voce "
+      }
+   },
+   "Bachelor's in Arts(Political Science) 1": {
+      "1": "3HBHL101H : Hindi Bhasha aaur sanrachana",
+      "2": "3CBCA201H : Basic Information Computer Technology - I",
+      "3": "3HBPS101H : ntroduction to Political Science",
+      "4": "3HBPS102H : Political Process in India",
+      "5": "3HBHY101/3HBEN101/3HBH101/3HBEC101/3HBSO101 : History-I, /English Lit-I/Hindi Lit-I./ Economics -I,/ Sociology-I"
+   },
+   "Bachelor's in Arts(Political Science) 2": {
+      "1": "3HBEL201H : English Language and Indian Culture",
+      "2": "3MBFE101H : Fundamental of Entrepreneurship",
+      "3": "3HBPS202H : Indian Govt. and Politics",
+      "4": "3HBPS203H : Understanding Political Theory ",
+      "5": "3HBHY202/3HBEN202/3HBHS202/3HBEC202/3HBSO202 : History-II, /English Lit-II/Hindi Lit-II./ Economics -II,/ Sociology-II"
+   },
+   "Bachelor's in Arts(Political Science) 3": {
+      "1": "3HBHL302H :  Hindi Bhasha samvedana awaim sanchar sadhan",
+      "2": "3CBCA502H : Basic Information Computer Technology - II",
+      "3": "3HBPS303H : Representative Political Thinkers",
+      "4": "3HBPS304H : Global Politics",
+      "5": "3HBHY303/3HBEN303/3HBHS303/3HBEC303/3HBSO303 : History-III, /English Lit-III/Hindi Lit-III./ Economics -III,/ Sociology-III",
+      "Practical": {
+         "1": "3CBCA502H : Basic Information Computer Technology - II"
+      }
+   },
+   "Bachelor's in Arts(Political Science) 4": {
+      "1": "3HBEL402H : English language and scientific temper",
+      "2": "3HBHP401H : Human Values & Ethics",
+      "3": "3HBPS404H : Comparative Government And Politics",
+      "4": "3HBPS405H : Political Theory-Concepts and Debates",
+      "5": "3HBHY404/3HBEN404/3HBHS404/3HBEC404/3HBSO404 : History-IV /English Lit-IV/Hindi Lit-IV./ Economics -IV,/ Sociology-IV"
+   },
+   "Bachelor's in Arts(Political Science) 5": {
+      "1": "3HBPS505H : Indian Foreign Policy ",
+      "2": "3HBPS506H : Perspectives on International Relations and World History",
+      "3": "3HBPS507H : Political Processes and Institutions in Comparative Perspective",
+      "4": "3HBPS508H : Citizenship in a Globalizing World",
+      "5": "3HBPS509H : Women, Power and Politics"
+   },
+   "Bachelor's in Arts(Political Science) 6": {
+      "1": "3HBPS606H : Public Administration",
+      "2": "3HBPS607H : Classical Political Philosophy",
+      "3": "3HBPS608H : Modern Political Philosophy",
+      "4": "3HBPS609H : Human Rights in a Comparative Perspective",
+      "5": "3HBPS610H : Dissertation",
+      "Practical": {
+         "1": "***** : Project & Viva Voce "
+      }
+   },
+   "Masters in Education 1": {
+      "1": "HMED101 : Educational Philosophy",
+      "2": "HMED102 : Advanced Educational Psychology",
+      "3": "HMED103 : Sociological Foundation Of Education",
+      "4": "HMED104 : History Of Indian Education",
+      "5": "*"
+   },
+   "Masters in Education 2": {
+      "1": "HMED201 : Advanced Educational Technology",
+      "2": "HMED202 : Advanced Research And Statistics",
+      "3": "HMED203 : Computer Education",
+      "4": "HMED204 : Environmental Education",
+      "5": "*"
+   },
+   "Masters in Education 3": {
+      "1": "HMED301 : Comparative Education.",
+      "2": "HMED302 : Population Education",
+      "3": "*** : Methods of Teaching",
+      "4": "HMED303 : Educational Administration And Management",
+      "5": "*"
+   },
+   "Masters in Education 4": {
+      "1": "HMED401 : Research methodology",
+      "2": "HMED402 : Extension Education",
+      "3": "HMED403 : Educational, Guidance And Counseling",
+      "4": "HMED404 : ADVANCE SPECIAL EDUCATION",
+      "5": "*"
+   },
+   "Masters in Economics 1": {
+      "1": "6HMEC101 : Advanced Economics Analysis-III",
+      "2": "6HMEC102 : Quantitative Method",
+      "3": "6HMEC103 : Macro Economics ",
+      "4": "6HMEC104 : Public Economics ",
+      "5": "6HMEC105 : Agriculture Economics"
+   },
+   "Masters in Economics 2": {
+      "1": "6HMEC201 : Advanced Economics Analysis-II ",
+      "2": "6HMEC202 : Monetary Economics and Banking",
+      "3": "6HMEC203 : International Economics",
+      "4": "6HMEC204 : Demography",
+      "5": "6HMEC205 : Economics of social sector & environment"
+   },
+   "Masters in Economics 3": {
+      "1": "6HMEC301 : History of Economic Thought",
+      "2": "6HMEC302 : Economics of Growth & Development-I ",
+      "3": "6HMEC303 : Industrial Economics",
+      "4": "* : Elective Paper I ",
+      "5": "* : Elective Paper II "
+   },
+   "Masters in Economics 4": {
+      "1": "6HMEC401 : Research Methodology",
+      "2": "6HMEC402 : India’s Foreign Trade and International Institutions",
+      "3": "* : Elective Paper -I",
+      "Practical": {
+         "1": "6HMEC405 : Project/Dissertation/Internship & Viva Voce"
+      }
+   },
+   "Masters in Psychology 1": {
+      "1": "PSYF01 : Foundation of Psychology",
+      "2": "PSYC02 : Research Methodology",
+      "3": "PSYC03 : Social Psychology",
+      "4": "PSYC/P04 : Practical",
+      "5": "*"
+   },
+   "Masters in Psychology 2": {
+      "1": "PSYS05A/PSYS05B : Counseling/Viva-voce",
+      "2": "PSYC06 : Abnormal Psychology",
+      "3": "PSYC07 : Organizational Psychology.",
+      "4": "PSYC/P08 : Practical",
+      "5": "*"
+   },
+   "Masters in Psychology 3": {
+      "1": "PSYA09 : Health Psychology",
+      "2": "PSYC10 : Statistics",
+      "3": "PSYC11 : Educational psychology",
+      "4": "PSYC/P012 : Practical",
+      "5": "*"
+   },
+   "Masters in Psychology 4": {
+      "1": "PSYE13 : Environmental Psychology",
+      "2": "PSYE14 : Clinical Psychology",
+      "3": "PSYE15 : Personality Theories ",
+      "4": "PSYD16 : Dissertation",
+      "5": "*"
+   },
+   "Masters in Social Work 1": {
+      "1": "6HMSO101 : Social Work - an Introduction",
+      "2": "6HMSO102 : Social Research",
+      "3": "6HMSO103 : Indian Social Problems",
+      "4": "6HMSO104 : Sociology & Social Work",
+      "5": "6HMSO105 : Social Thoughts on society "
+   },
+   "Masters in Social Work 2": {
+      "1": "6HMSO201 : Social Psychology, Communication and Social Work",
+      "2": "6HMSO202 : Social Case Work and Counseling",
+      "3": "6HMSO203 : Social Group Work",
+      "4": "6HMSO204 : Social Welfare Administration and Legislation ",
+      "5": "6HMSO205 :Practice In The Field Of Social Work "
+   },
+   "Masters in Social Work 3": {
+      "1": "6HMSO301 : Social Development and Social Work ",
+      "2": "6HMSO302 : Community Organizations and Social Operations",
+      "3": "6HMSO303 : NGO Management",
+      "4": "* : Elective - I",
+      "5": "* : Elective - II"
+   },
+   "Masters in Social Work 4": {
+      "1": "6HMSO401 : Research Methodology",
+      "2": "6HMSO402 : Human Rescores Management & Industrial Relations",
+      "3": "* : Elective - I ",
+      "Practical": {
+         "1": "6HMSW407 : Project/Dissertation/Internship & Viva Voce "
+      }
+   },
+   "Masters in Sociology 1": {
+      "1": "6HMSO101 : Classical Sociological Tradition-I ",
+      "2": "6HMSO102 : Methodology of Social Research I",
+      "3": "6HMSO103 : Rural Society in India –I ",
+      "4": "6HMSO104 : Urban Society in India-I",
+      "5": "6HMSO105 : Tribes In India"
+   },
+   "Masters in Sociology 2": {
+      "1": "6HMSO201 : Classical Sociological Tradition-II ",
+      "2": "6HMSO202 : Methodology of Social Research II",
+      "3": "6HMSO203 : Rural Society in India –II ",
+      "4": "6HMSO204 : Urban Society in India-II",
+      "5": "6HMSO205 : Social Psychology"
+   },
+   "Masters in Sociology 3": {
+      "1": "6HMSO301 : Theoretical Perspective in Sociology",
+      "2": "6HMSO302 : Indian Society and Culture",
+      "3": "6HMSO303 : Sociological Essay ",
+      "4": "* : Elective Paper-I",
+      "5": "* : Elective Paper-II"
+   },
+   "Masters in Sociology 4": {
+      "1": "6HMSO401 : Sociology of Change & Development",
+      "2": "6HMSO402 : Criminology",
+      "3": "* : Elective Paper-I ",
+      "Practical": {
+         "1": "* : Project/Dissertation/Internship & Viva Voce"
+      }
+   },
+   "Masters in History 1": {
+      "1": "6HMHY101 : Historiography, Concepts, Methods and Tools-I",
+      "2": "6HMHY102 : Twentieth Century World-I ",
+      "3": "6HMHY103 : (Modern India)- History of India 1757-1857 A.D.- I",
+      "4": "6HMHY104 : World History (18 and 19 Century) -I",
+      "5": "6HMHY105 : History of Ideas"
+   },
+   "Masters in History 2": {
+      "1": "6HMHY201 : Historiography, Concepts, Methods and Tools-II",
+      "2": "6HMHY202 : Twentieth Century World-II ",
+      "3": "6HMHY203 : (Modern India)- History of India 1757-1857 A.D.- II",
+      "4": "6HMHY204 : World History (18 and 19 Century) -I",
+      "5": "6HMHY205 : Outline of Indian Culture"
+   },
+   "Masters in History 3": {
+      "1": "6HMHY301 : History ofIndia 1858-1975",
+      "2": "6HMHY302 : History of Marathas 1627-1818",
+      "3": "6HMHY303 : Women in Indian History - I",
+      "4": "* : Elective Paper-I",
+      "5": "* : Elective Paper-II"
+   },
+   "Masters in History 4": {
+      "1": "6HMHY401 : Research Methodology",
+      "2": "6HMHY402 : History of India – II 1858-1975",
+      "3": "* : Elective Paper-I",
+      "Practical": {
+         "6HMHY405": "Project/Dissertation/Internship & Viva Voce "
+      }
+   },
+   "Masters in Political Science 1": {
+      "1": "6HMPS101 : Western Political Thought ",
+      "2": "6HMPS102 : Indian Government & Politics ",
+      "3": "6HMPS103 : Comparative Politics",
+      "4": "6HMPS104 : International Politics ",
+      "5": "6HMPS105 : Politics in India "
+   },
+   "Masters in Political Science 2": {
+      "1": "6HMPS201 : Modern Indian Political Thought",
+      "2": "6HMPS202 : State Politics in India",
+      "3": "6HMPS203 : Politics of Developing Countries ",
+      "4": "6HMPS204 : International Relations And Contemporary Political Issues",
+      "5": "6HMPS205 : Constitutionalism & Indian Political System "
+   },
+   "Masters in Political Science 3": {
+      "1": "6HMPS301 : Public Administration",
+      "2": "6HMPS302 : Indian Foreign Policy ",
+      "3": "6HMPS303 : International Law",
+      "4": "* : Elective I ",
+      "5": "* : Elective I "
+   },
+   "Masters in Political Science 4": {
+      "1": "6HMPS401 : Research Methodology",
+      "2": "6HMPS402 : Diplomacy & Human Rights",
+      "3": "* : Elective I ",
+      "Practical": {
+         "1": "6HMPS405 : Project/Dissertation/Intern ship & Viva Voce"
+      }
+   },
+   "Masters in Hindi 1": {
+      "1": "6HMHL101 : Prachin awam madhyakalin kavya tatha uska itihash-I",
+      "2": "6HMHL102 : Audhunik Hindi Gadya aur uska Ithihash - I",
+      "3": "6HMHL103 : Bhartiya kavyasashtra",
+      "4": "6HMHL104 : Prayojanmulk hindi",
+      "5": "6HMHL105 : samkaleen vishram"
+   },
+   "Masters in Hindi 2": {
+      "1": "6HMHL201 : Prachin awam madhyakalin kavya tatha uska itihash-II",
+      "2": "6HMHL202 : Audhunik Hindi Gadya aur uska Ithihash - II",
+      "3": "6HMHL203 : Pashchtya kavya sashtra",
+      "4": "6HMHL204 : Loksahitya",
+      "5": "6HMHL205"
+   },
+   "Masters in Hindi 3": {
+      "1": "6HMHL301 : Prachin awam madhyakalin kavya tatha uska itihash",
+      "2": "6HMHL302 : Bhasha vigyan awam hindi bhasha",
+      "3": "6HMHL303 : Hindi sahitya ka ithihash",
+      "4": "* : vaikalpik patra -I",
+      "5": "* : vaikalpik patra -II"
+   },
+   "Masters in Hindi 4": {
+      "1": "6HMHL401 : sodh pravidhi",
+      "2": "6HMHL402 : drishya-shravya maadhyam lekhan",
+      "3": "* : vaikalpik patra -I",
+      "Practical": {
+         "1": "6HMHL405 Project/Dissertation/Internship & Viva Voce"
+      }
+   },
+   "Masters in English 1": {
+      "1": "6HMEN101 : POETRY-I",
+      "2": "6HMEN102 : DRAMA-1",
+      "3": "6HMEN103 : PROSE-1 ",
+      "4": "6HMEN104 : FICTION-I",
+      "5": "6HMEN105 : Linguistics And Phonetics "
+   },
+   "Masters in English 2": {
+      "1": "6HMEN201 : POETRY – II ",
+      "2": "6HMEN202 : DRAMA-II",
+      "3": "6HMEN203 :PROSE-II",
+      "4": "6HMEN204 : FICTION-II ",
+      "5": "6HMEN205 :Women’s Writings In English"
+   },
+   "Masters in English 3": {
+      "1": "6HMEN301 : Literary Theory & Criticism",
+      "2": "6HMEN302 : American Literature-1",
+      "3": "6HMEN303 : Indian Writing in English",
+      "4": "* : Elective Paper-I",
+      "5": "* : Elective Paper-I-II"
+   },
+   "Masters in English 4": {
+      "1": "6HMEN401 : Research Methodology ",
+      "2": "6HMEN402 : Literary theory & Criticism-II",
+      "3": "* : Elective Paper-I",
+      "Practical": {
+         "1": "6HMEN405 : Project/Dissertation/Internship & Viva Voce "
+      }
+   },
+   "Masters in Geography 1": {
+      "1": "HMGE101 : History of Geographical Thought",
+      "2": "HMGE102 : Climatology ",
+      "3": "HMGE103 : Geomorphology",
+      "Practical": {
+         "1": "HMGE104 : Practical Paper "
+      }
+   },
+   "Masters in Geography 2": {
+      "1": "HMGE201 : Regional Geography: India and Jharkhand",
+      "2": "HMGE202 : Population Geograph",
+      "3": "HMGE203 : Research Methodology",
+      "4": "SMGT802 : Entrepreneurship Developmen",
+      "5": "*",
+      "Practical": {
+         "1": "HMGE204 : Practical Paper ",
+         "2": "SMGT802 : Entrepreneurship Development"
+      }
+   },
+   "Masters in Geography 3": {
+      "1": "HMGE301 : Regional Planning and Development (India)",
+      "2": "HMGE302 : Settlement Geography",
+      "3": "HMGE303 : Oceanography",
+      "4": "SCIT201 : Web Development ",
+      "5": "*",
+      "Practical": {
+         "1": "HMGE304 : Practical Paper ",
+         "2": "SCIT201 : Web Development"
+      }
+   },
+   "Masters in Geography 4": {
+      "1": "HMGE401 : (Urban Geography and Planning; European  Union : A Meso Regional Study; Political Geography",
+      "2": "HMGE402 : (Geography of Tourism and Transport; Geography of Energy; Social Geography)",
+      "3": "HMGE403 : (Geography of Ecosystem and  Resource Management; Biogeography; Soil Geography)",
+      "4": "* : ",
+      "5": "*",
+      "Practical": {
+         "1": "HMGE404 : Elective Practical"
+      }
+   },
+   "Masters in BA-Executive 1": {
+      "1": "EMBA101 : Human Resource Managemen",
+      "2": "EMBA102 : Quantitative Method",
+      "3": "EMBA103 : Managerial Economics",
+      "4": "EMBA104 : Business Environment",
+      "5": "EMBA105 : Marketing Management",
+      "6": "EMBA106 : Accounting for Managers",
+      "7": "EMBA107 : MIS & Decision Making",
+      "8": "EMBA108 : Business Communication"
+   },
+   "Masters in BA-Executive 2": {
+      "1": "EMBA201 : Business Policy & Strategic Analysis",
+      "2": "EMBA202 : Business Policy & Strategic Analysis",
+      "3": "# : Elective - Paper I ",
+      "4": "# : Elective - Paper II",
+      "5": "# : Elective - Paper III",
+      "6": "# :Elective - Paper IV ",
+      "7": "# : Elective - Paper V",
+      "8": "#",
+      "Practical": {
+         "1": "EMBA218 : Project & Viva"
+      }
+   },
+   "Masters in Business Administration 1": {
+      "1": "6MMBA101 : Management Process and Organizational Behavior",
+      "2": "6MMBA102 : Quantitative Method",
+      "3": "6MMBA103 : Managerial Economics",
+      "4": "6MMBA104 : Environment Analysis and Management",
+      "5": "6MMBA105 : Managerial Skill Development",
+      "6": "6MMBA106 : Accounting for Managers ",
+      "7": "6MMBA107 : Computer Application for Managers",
+      "8": "6MMBA108 : Business ethics & CSR",
+      "Practical": {
+         "1": "MMBA 107 : Computer Application for Managers"
+      }
+   },
+   "Masters in Business Administration 2": {
+      "1": "6MMBA201 : Business policy and Strategic analysis ",
+      "2": "6MMBA202 : Management science",
+      "3": "6MMBA203 : Human Resource Managemen",
+      "4": "6MMBA204 : Financial Management",
+      "5": "6MMBA205 : Marketing Management",
+      "6": "6MMBA206 : Production & operation Management",
+      "7": "6MMBA207 : Research Methodology",
+      "8": "6MMBA208 : International Business"
+   },
+   "Masters in Business Administration 3": {
+      "1": "6MMBA301 : Business legislation",
+      "2": "# : Group 1 - Paper I",
+      "3": "# : Group 1 - Paper II",
+      "4": "# : Group 1 - Paper III",
+      "5": "# : Group 2 - Paper I",
+      "6": "# : Group 2 - Paper II",
+      "7": "# : Group 2 - Paper III",
+      "8": "#",
+      "Practical": {
+         "1": "6MMBA342 : Summer Training Project & Viva"
+      }
+   },
+   "Masters in Business Administration 4": {
+      "1": "6MMBA401 : MIS & Decision Support System",
+      "2": "# : Group 1 - Paper IV",
+      "3": "# : Group 1 - Paper V",
+      "4": "# : Group 1 - Paper VI",
+      "5": "# : Group 2 - Paper IV",
+      "6": "# : Group 2 - Paper V",
+      "7": "# : Group 2 - Paper VI",
+      "8": "#",
+      "Practical": {
+         "1": "6MMBA442 : Final Project & Viva Voce"
+      }
+   },
+   "Bachelor's in Business Administration 1": {
+      "1": "3MBFE101 : Fundamental of Entrepreneureship",
+      "2": "3MBBA102 : Principles of Management ",
+      "3": "3MBBA103 : Business Math",
+      "4": "3MBBA104 : Business Environment",
+      "5": "3MBBA105 : Managerial Economics",
+      "Practical": {
+         "1": "3MBBA104 Business Environment",
+         "2": "3MBBA105 Managerial Economics"
+      }
+   },
+   "Bachelor's in Business Administration 2": {
+      "1": "3HBHL101 : Hindi Bhasha aaur sanrachana",
+      "2": "3MBBA202 : Organizational Behavior",
+      "3": "3MBBA203 : Business Communication ",
+      "4": "3MBBA204 : Introduction to Accountancy",
+      "5": "3MBBA205 : Macro Economics",
+      "Practical": {
+         "1": "3MBBA202 : Organizational Behavior",
+         "2": "3MBBA203 : Business Communication "
+      }
+   },
+   "Bachelor's in Business Administration 3": {
+      "1": "3HBEL402 : English language and scientific temper",
+      "2": "3MBBA302 : Business Statistics ",
+      "3": "3MBBA303 : Business Law",
+      "4": "3MBBA304 : Business Ethics and CSR ",
+      "5": "3MBBA305 :Retail Management",
+      "Practical": {
+         "1": "3MBBA304 : Business Ethics and CSR",
+         "2": "3MBBA305 : Retail Management"
+      }
+   },
+   "Bachelor's in Business Administration 4": {
+      "1": "3HBEL501 : Introduction to soft skill & Team Building",
+      "2": "3MBBA402 : Financial Management",
+      "3": "3MBBA403 : Marketing Management",
+      "4": "3MBBA404 : Production & Operation Management",
+      "5": "3MBBA405 : Human Resource Management ",
+      "Practical": {
+         "1": "3MBBA403 : Marketing Management ",
+         "2": "3MBBA405 : Human Resource Management"
+      }
+   },
+   "Bachelor's in Business Administration 5": {
+      "1": "3HBHP401 : Human Values & Ethics",
+      "2": "3MBBA502 : Public Relation & Corporate Image",
+      "3": "3MBBA503 : Case Study Analysis ",
+      "4": "# : Discipline Specific Elective-I",
+      "5": "# : Discipline Specific Elective-II",
+      "Practical": {
+         "1": "3MBBA502 : Public Relation & Corporate Image ",
+         "2": "3MBBA503 : Case Study Analysis"
+      }
+   },
+   "Bachelor's in Business Administration 6": {
+      "1": "3HBHP601 : Business Research",
+      "2": "3MBBA602 : Corporate Strategy",
+      "3": "# : Discipline Specific Elective-I",
+      "4": "# : Discipline Specific Elective-II",
+      "Practical": {
+         "1": "3MBBA603 : Entrepreneurial Project Work & Viva Voce",
+         "2": "3MBBA601 : Business Research "
+      }
+   },
+   "PGDRD 1": {
+      "1": "MPGDRD101 : Rural Development – Indian Context",
+      "2": "MPGDRD102 : Rural Development  – Programme",
+      "3": "MPGDRD103 : Rural Development – Planning And Management",
+      "4": "* : ",
+      "5": "*"
+   },
+   "PGDRD 2": {
+      "1": "MPGDRD201 : Rural Social  Development",
+      "2": "MPGDRD202 : Rural Health Care",
+      "3": "MPGDRD203 : Communication and Extension in Rural  Development",
+      "Practical": {
+         "1": "MPGDRD204 Project Work & Viva"
+      }
+   },
+   "Masters in Journalism & Mass Communication 1": {
+      "1": "MJMC01 : Communication theories",
+      "2": "MJMC02 : Journalism in practice",
+      "3": "MJMC03 : Advance Journalism",
+      "4": "MJMC04 : Media law and ethics"
+   },
+   "Masters in Journalism & Mass Communication 2": {
+      "1": "MJMC-05 : Advertising and Public Relation",
+      "2": "MJMC-06 : Communication Research",
+      "3": "MJMC-07 : IT applications",
+      "4": "MJMC-08 : Practical & Viva-voce "
+   },
+   "Bachelor's in Computer Application 1": {
+      "1": "3MBFE101 : Fundamental of Entrepreneureship",
+      "2": "3IBEC101 : Fundamentals of Computers & Information Technology",
+      "3": "3IBCA102 : Windows & MS Office(word, power point, Excel, Outlook Express)",
+      "4": "3IBCA103 : Programming in C ",
+      "5": "3IBDM101 : Discrete Mathematics",
+      "Practical": {
+         "1": "3IBCA102 : Windows & MS Office(word, power point, Excel, Outlook Express)",
+         "2": "3IBCA103 : Programming in C "
+      }
+   },
+   "Bachelor's in Computer Application 2": {
+      "1": "3HBHL101 : Hindi Bhasha aaur sanrachana",
+      "2": "3IBEC201 : Digital Computer Organization ",
+      "3": "3IBCA201 : Object Oriented Programming with C++",
+      "4": "3IBCA202 : Operating Systems  ",
+      "5": "3IBCA203 : Internet programming (HTML, DHTML & JavaScript)",
+      "Practical": {
+         "1": "3IBCA201 : Object Oriented Programming with C++",
+         "2": "3IBCA203 : Internet programming (HTML, DHTML & JavaScript)"
+      }
+   },
+   "Bachelor's in Computer Application 3": {
+      "1": "3HBEL401 : English Language and Scientific Temper",
+      "2": "3IBCA301 : Data Base Management System (SQL/MS Access)",
+      "3": "3IBCA302 : Data Structure",
+      "4": "3IBCA303 : Computer Communication & Networks",
+      "5": "3IBCA304 : Programming with JAVA",
+      "Practical": {
+         "1": "3IBCA301 : Data Base Management System (SQL/MS Access)",
+         "2": "3IBCA304 : Programming with JAVA"
+      }
+   },
+   "Bachelor's in Computer Application 4": {
+      "1": "3HBEL501 : Introduction to soft skill & Team Building",
+      "2": "3IBCA401 : Linux Operating System—Operations & Management",
+      "3": "3IBCA402 : RDBMS with Oracle",
+      "4": "3IBCA403 : Programming with VB.NET",
+      "5": "3IBCA404 : Network & Web Security",
+      "Practical": {
+         "1": "3IBCA401 : Linux Operating System—Operations & Management",
+         "2": "3IBCA403 : Programming with VB.NET"
+      }
+   },
+   "Bachelor's in Computer Application 5": {
+      "1": "3HBHP401 : Human Values & Ethics",
+      "2": "3IBCA501 : Professional Elective I ",
+      "3": "3IBCA502 : Professional Elective II ",
+      "4": "3IBCA503 : Data Warehousing & Mining ",
+      "5": "3IBCA504 : Multimedia Systems ",
+      "Practical": {
+         "1": "3IBCA501 : Professional Elective I ",
+         "2": "3IBCA504 : Multimedia Systems"
+      }
+   },
+   "Bachelor's in Computer Application 6": {
+      "1": "3IBCA601 : PHP, MySql",
+      "2": "3IBCA602 : Information Technology Trends ",
+      "3": "3IBCA603 : Embedded Systems",
+      "4": "3IBCA604 : Software Engineering ",
+      "Practical": {
+         "1": "3IBCA601 : PHP, MySql ",
+         "2": "3IBCA605 : Project Development & Implementation"
+      }
+   },
+   "Masters in Computer Application 1": {
+      "1": "6IMCA101 : Programming in C and data Structure",
+      "2": "6IMCA102 : Statistical Mathematics ",
+      "3": "6IMCA103 : Operating System and Architecture",
+      "4": "6IMCA104 : Information Technology",
+      "5": "6IMCA105 : Communication Skills",
+      "Practical": {
+         "1": "6IMCA101 : C and data Structure Lab",
+         "2": "6IMCA103 : Operating System and Architecture"
+      }
+   },
+   "Masters in Computer Application 2": {
+      "1": "6IMCA201 : DBMS ",
+      "2": "6IMCA202 : Computer Network",
+      "3": "6IMCA203 : Software Engineering and UML",
+      "4": "6IMCA204 : Algorithm Design ",
+      "5": "6IMCA205 : Object oriented Programming with JAVA",
+      "Practical": {
+         "1": "6IMCA 206 Java and OOPS Lab",
+         "3": "6IMCA207 DBMS"
+      }
+   },
+   "Masters in Computer Application 3": {
+      "1": "6IMCA301 : Data Mining",
+      "2": "6IMCA302 : Artificial Intelligence",
+      "3": "6IMCA303 : Elective – I ",
+      "4": "6IMCA304 : Elective – II",
+      "5": "6IMCA305 : Elective – III",
+      "Practical": {
+         "1": "6IMCA306 Minor Project",
+         "2": "6IMCA307 Elective -1 Lab"
+      }
+   },
+   "Masters in Computer Application 4": {
+      "1": "6IMCA401 : Elective –IV",
+      "2": "6IMCA402 : Elective –V",
+      "3": "6IMCA403 : Elective –VI",
+      "4": "6IMCA403 : Major project",
+      "5": "6IMCA404 : Lab of Elective-IV ,V and VI"
+   },
+   "Bachelor's in Journalism & Mass Communication 1": {
+      "1": "MSBJMC101 : Introduction to Communication",
+      "2": "MSBJMC102 : Print Journalism",
+      "3": "MSBJMC103 : Introduction to Radio Journalism ",
+      "4": "MSBJMC104 : Introduction to Television Journalism",
+      "Practical": {
+         "1": "MSBJMC102 Print Journalism",
+         "2": "MSBJMC103 Introduction to Radio Journalism",
+         "3": " MSBJMC104 Introduction to Television Journalism"
+      }
+   },
+   "Bachelor's in Journalism & Mass Communication 2": {
+      "1": "MSBJMC201 :  New Media",
+      "2": "MSBJMC202 : Public Relation",
+      "3": "MSBJMC203 : Advertising Practises",
+      "4": "MSBJMC204 : Media Laws",
+      "Practical": {
+         "1": "MSBJMC204 :  Media Laws",
+         "2": "MSBJMC202 : Public Relation",
+         "3": "MSBJMC203 : Advertising Practices",
+         "4": "MSBJMC205 :Dissertation & Viva Voce"
+      }
+   },
+   "PGDCA 1": {
+      "1": "4TPDC-101 : Fundamentals of Computers & Information Technology",
+      "2": "4TPDC-102 : Windows & MS Office ",
+      "3": "4TPDC-103 : DBMS With MS Access",
+      "4": "4TPDC-104 : Computer Network & Internet",
+      "5": "4TPDC-105 : Communication Skills & Personality Development",
+      "Practical": {
+         "1": "4TPDC-102 : Windows & MS Office ",
+         "2": "4TPDC-103 Programming Methodology & Programming in FoxPro"
+      }
+   },
+   "PGDCA 2": {
+      "1": "4TPDC-201 : Objects Oriented Programming With C++",
+      "2": "4TPDC-202 : RDBMS and SQL",
+      "3": "4TPDC-205 : Programming with VB.Net",
+      "4": "4TPDC-203 : Computerised Accounting With Tally",
+      "5": "4TPDC-204 : Introduction To Internet & Web Technology",
+      "Practical": {
+         "1": "4TPDC-201 Objects Oriented  Programming With C++",
+         "2": " 4TPDC-202 Dbms & SQL (With Ms Access / Ms SQL Server/ Oracle)",
+         "3": " 4TPDC-205 Programming with VB.Net",
+         "4": " 4TPDC 206 Project Report ",
+         "5": " 4TPDC-203 Computerised Accounting With Tally",
+         "6": " 4TPDC-204 Introduction To Internet &  Web Technology"
+      }
+   },
+   "Masters in Performing Arts 1": {
+      "1": "6PAMVM101 : Concert Apprasial",
+      "2": "6PAMVM102 : Music Theory 1.1",
+      "3": "6PAMVM103 : Music Theory 1.2",
+      "4": "*",
+      "5": "*",
+      "Practical": {
+         "1": "6PAMVM102 :Compareative & Analytical Study of Ragas & Talas - I"
+      }
+   },
+   "Masters in Performing Arts 2": {
+      "1": "6PAMVM201 : Sound Engineering",
+      "2": "6PAMVM202 : Music Theory 2.1",
+      "3": "6PAMVM203 : Music Theory 2.2",
+      "4": "*",
+      "5": "*",
+      "Practical": {
+         "1": "6PAMVM202 : Compareative & Analytical Study of Ragas & Talas - II"
+      }
+   },
+   "Masters in Performing Arts 3": {
+      "1": "6PAMVM301 : Subsidiary ",
+      "2": "6PAMVM302 : Music Theory 3.1",
+      "3": "6PAMVM303 : Music Theory 3.2",
+      "4": "*",
+      "5": "*",
+      "Practical": {
+         "1": "6PAMV302 : Compareative & Analytical Study of Ragas & Talas - III"
+      }
+   },
+   "Masters in Performing Arts 4": {
+      "1": "6PAMVM401 : Self-Compositions",
+      "2": "6PAMVM402 : Music Theory 4.1",
+      "3": "6PAMVM403 : Music Theory 4.2",
+      "4": "*",
+      "5": "*",
+      "Practical": {
+         "1": "6PAMV402 : Compareative & Analytical Study of Ragas & Talas - IV"
+      }
+   },
+   "Bachelor's in Information Technology 1": {
+      "1": "3MBFE101 : Fundamental of Entrepreneureship",
+      "2": "3IBIT101 : Fundamentals of Computers & Information Technology",
+      "3": "3IBIT103 : Problem solving methodologies & programming in C",
+      "4": "3IBEC101 : Basic Electronics - I",
+      "5": "3IBMA101 : Advanced Calculus and Matrices ",
+      "Practical": {
+         "1": "3IBIT101 : Fundamentals of Computers & Information Technology",
+         "2": "3IBIT103 : programming in C"
+      }
+   },
+   "Bachelor's in Information Technology 2": {
+      "1": "3HBHL101H : Hindi Bhasha aaur sanrachana ",
+      "2": "3IBIT202 : Object Oriented Programming with c++",
+      "3": "3IBIT201 :Data Base Management Systems",
+      "4": "3IBMA201 : Discrete Structures",
+      "5": "3IBEC201 : Basic Electronics & Instrumentation –II",
+      "Practical": {
+         "1": "3IBIT202 :Programming with c++",
+         "2": "3IBIT201 :Data Base Management Systems"
+      }
+   },
+   "Bachelor's in Information Technology 3": {
+      "1": "3HBEL401 : English Language and Scientific Temper",
+      "2": "3IBIT301 : Data structure",
+      "3": "3IBIT303 : Web Technology",
+      "4": "3IBIT304 : Introduction to Information Technology",
+      "5": "3IBMA301 : Counting Principles, Probability and Statistics ",
+      "Practical": {
+         "1": "3IBIT301 : Data structure",
+         "2": "3IBIT303 : Web Technology"
+      }
+   },
+   "Bachelor's in Information Technology 4": {
+      "1": "3HBEL501 : Introduction to soft skill & Team Building",
+      "2": "3IBIT401 : Computer Networks",
+      "3": "3IBIT402 : Operating System Concepts",
+      "4": "3IBIT403 : E-Commerce and Governance",
+      "5": "3IBEC401 :Data Communication",
+      "Practical": {
+         "1": "3IBIT401 : Computer Networks",
+         "2": "3IBIT402 : Operating System Concepts"
+      }
+   },
+   "Bachelor's in Information Technology 5": {
+      "1": "3HBHP401 : Human Values & Ethics",
+      "2": "3IBIT501 : Professional Elective I",
+      "3": "3IBIT502 : Professional Elective II",
+      "4": "3IBIT503 : GUI Programming With Visual Basic.Net",
+      "5": "3IBIT504 : Java Technology ",
+      "Practical": {
+         "1": "3IBIT503 : GUI Programming With Visual Basic.Net",
+         "2": "3IBIT504 : Java Technology "
+      }
+   },
+   "Bachelor's in Information Technology 6": {
+      "1": "3IBIT601 : Data Mining & Warehousing",
+      "2": "3IBIT602 : Embedded Systems",
+      "3": "3IBIT603 : Programming With Asp.Net ",
+      "4": "3IBIT604 : Compiler Design",
+      "Practical": {
+         "1": "3IBIT603 : Computer Lab XI:Asp.Net ",
+         "2": "3IBIT605 : Major Project"
+      }
+   },
+   "Diploma in Computer Application 1": {
+      "1": "2TDCA101 : Fundamentals of Computers & Information Technology",
+      "2": "2TDCA102 : Operating Systems (DOS, Windows, Linux)",
+      "3": "2TDCA103 : Computers in Office–I (MS Word & MS Excel)",
+      "4": "2TDCA104 : Computers in Office– II (MS PowerPoint, MS Access & MS Outlook)",
+      "5": "2TDCA105 : Communication Skills & Personality Development",
+      "Practical": {
+         "1": "2TDCA102 : Operating Systems (DOS, Windows, Linux)",
+         "2": "2TDCA103 : Computers in Office–I (MS Word & MS Excel)",
+         "3": "2TDCA104 : Computers in Office– II (MS PowerPoint, MS Access & MS Outlook)"
+      }
+   },
+   "Diploma in Computer Application 2": {
+      "1": "2TDCA201 : Introduction to Internet and web Technology",
+      "2": "2TDCA202 : Introduction to financial Accounting with Tally",
+      "3": "2TDCA203 : Programming in C",
+      "4": "2TDCA204 : DBMS With MS Access",
+      "Practical": {
+         "1": "2TDCA201 : Introduction to Internet and web Technology",
+         "2": "2TDCA202 : Introduction to financial Accounting with Tally",
+         "3": "2TDCA203 : Programming in C",
+         "4": "2TDCA204 : DBMS With MS Access",
+         "5": "Project Report"
+      }
+   },
+   "Bachelor's in Fine Arts 1": {
+      "1": "3HBHL101H : Hindi Bhasha aaur sanrachana",
+      "2": "3FABVA101 : Analysis of Indoor & Outdoor composition",
+      "3": "3FABVA102 : Introduction of Basic Design ",
+      "4": "3FABVA103 : Method of Still life",
+      "Practical": {
+         "1": "3FABVA101(P) : Pictrorial Design/Paiting/Still life/Indoor & Outdoor Sketching"
+      }
+   },
+   "Bachelor's in Fine Arts 2": {
+      "1": "3CBCA201 : Basic Information Computer Technology - I",
+      "2": "3FABVA201 : Description of Art Material",
+      "3": "3FABVA202 : Description of Round & Flat Composition",
+      "4": "3FABVA203 : History of Art",
+      "Practical": {
+         "1": "3FABVA201(P) : Drawing/Design-2D & 3D/ Pictorial Design/Clay  Modeling/Geometry/Pre spective"
+      }
+   },
+   "Bachelor's in Fine Arts 3": {
+      "1": "3HBEL201 : English Language and Indian Culture",
+      "2": "3FABVA301 : Advance Study and Pictorial Composition-I",
+      "3": "3FABVA302 : Graphic Art ",
+      "4": "3FABVA303 : History of Art (western art)",
+      "Practical": {
+         "1": "3FABVA301(P) : Head Study, Landscape Object & Portrait Study, Collage art, Text art design"
+      }
+   },
+   "Masters in Information Technology 1": {
+      "1": "6IMIT101 : Fundamentals of Computers & MS Office ",
+      "2": "6IMIT102 : Programming Methodology & Programming in C",
+      "3": "6IMIT103 : Computer Networks & Internet",
+      "4": "6IMIT104 : Digital Electronics & Logic Design",
+      "Practical": {
+         "1": "6IMIT101 : Fundamentals of Computers & MS Office ",
+         "2": "6IMIT102 : Programming Methodology & Programming in C"
+      }
+   },
+   "Masters in Information Technology 2": {
+      "1": "6IMIT201 : Objects Oriented Programming with C++ ",
+      "2": "6IMIT202 : DBMS & SQL ",
+      "3": "6IMIT203 : Data Structure",
+      "4": "6IMIT204 : Operating Systems",
+      "Practical": {
+         "1": "6IMIT201 : Objects Oriented Programming with C++ ",
+         "2": "6IMIT202 : DBMS & SQL "
+      }
+   },
+   "Masters in Information Technology 3": {
+      "1": "6IMIT301 : Programming with VB.Net",
+      "2": "6IMIT302 : Java Programming",
+      "3": "6IMIT303 : A)Software Engineering, (B)Computer Architecture",
+      "4": "6IMIT304 : A. Compiler Design, B. Artificial Intelligence and Expert System, C. Data warehousing & Mining",
+      "Practical": {
+         "1": "6IMIT301 : Programming with VB.Net",
+         "2": "6IMIT302 : Java Programming"
+      }
+   },
+   "Masters in Information Technology 4": {
+      "1": "6IMIT401 : Soft Computing",
+      "2": "6IMIT402 : Advanced Java Programming",
+      "3": "6IMMA401 : Numerical Methods",
+      "Practical": {
+         "1": "6IMIT402 : Advanced Java Programming",
+         "2": "6IMIT403 : Major Project"
+      }
+   },
+   "Bachelor's in Performing Arts 1": {
+      "1": "3HBHL101H : Hindi Bhasha aaur sanrachana",
+      "2": "3PABVM101 : Fundamentals Music – I",
+      "3": "3PABVM102 : Folk/Tribal Music of India – I",
+      "4": "3PABVM103 : Basic of Acting – I",
+      "Practical": {
+         "1": "3PABVM101 : Fundamentals Music – I"
+      }
+   },
+   "Bachelor's in Performing Arts 2": {
+      "1": "3CBCA201 : Basic Information Computer Technology - IT",
+      "2": "3PABVM201 : Fundamentals Music – II",
+      "3": "3PABVM202 : Folk/Tribal Music of India – II",
+      "4": "3PABVM203 : Introduction to Indian Theatre",
+      "Practical": {
+         "1": "3CBCA201 : Basic Information Computer Technology - IT",
+         "2": "3PABVM201 : Fundamentals Music – II"
+      }
+   },
+   "Bachelor's in Performing Arts 3": {
+      "1": "3HBEL201 : English Language and Indian Culture",
+      "2": "3PABVM301 : Fundamentals Music – III",
+      "3": "3PABVM302 : Folk/Tribal Music of India – III",
+      "4": "3PABVM303 : Basic of Acting – II(MIME,Movement, and Improvission)",
+      "Practical": {
+         "1": "3PABVM301 : Critical & Compareative Study of Components of Ragas & Talas and Different Generes of Vocal Music -III"
+      }
+   },
+   "Bachelor's in Performing Arts 4": {
+      "1": "3HBYO401 : Yoga and Pranayam",
+      "2": "3PABVM401 : Music Theory IV – (I)",
+      "3": "3PABVM402 : Introduction to Modern Theatre (Indian & World)",
+      "4": "3PABVM403 : Music Theory IV-(II)",
+      "Practical": {
+         "1": "3PABVM401 : Critical & Compareative Study of Components of Ragas & Talas and Different Generes of Vocal Music -IV"
+      }
+   },
+   "Bachelor's in Performing Arts 5": {
+      "1": "3SBES501H(T : Environmental Studies ",
+      "2": "3PABVM501 : Music Theory 5.1",
+      "3": "3PABVM502 :  Music Theory 5.2",
+      "4": "3PABVM503 : Western Music – I",
+      "Practical": {
+         "1": "3PABVM501 : Critical & Compareative Study of Components of Ragas & Talas and Different Generes of Vocal Music -V"
+      }
+   },
+   "Bachelor's in Performing Arts 6": {
+      "1": "3MBFE101 : Fundamental of Entrepreneureship",
+      "2": "3PABVM601 : Music Theory VI-(I)",
+      "3": "3PABVM602 : Music Theory VI-(II)",
+      "4": "3PABVM603 : Western Music – II",
+      "Practical": {
+         "1": "3PABVM601 : Critical & Compareative Study of Components of Ragas & Talas and Different Generes of Vocal Music -VI"
+      }
+   },
+   "Bachelor's in Performing Arts 7": {
+      "1": "3PABVM701 : Music Theory VII - (I)",
+      "2": "3PABVM702 : Music Theory VII - (II)",
+      "Practical": {
+         "1": "3PABVM601 : Critical & Compareative Study of Components of Ragas & Talas and Different Generes of Vocal Music -VII"
+      }
+   },
+   "Bachelor's in Performing Arts 8": {
+      "1": "3PABVM801 : Music Theory VIII - (I)",
+      "2": "3PABVM802 : Music Theory VIII - (II)",
+      "Practical": {
+         "1": "3PABVM601 : Critical & Compareative Study of Components of Ragas & Talas and Different Generes of Vocal Music -VIII"
+      }
+   },
+   "Bachelor's in Psychology 1": {
+      "1": "3CBCA201  : Basic Information Computer Technology - I ",
+      "2": "3HBHL101 : Hindi Bhasha aur sanrachana",
+      "3": "3HBPSY101 : Foundation of Psychology ",
+      "4": "3HBPSY102 : Statistical method for psychological research.",
+      "5": "3HBPSY103 : Practical",
+      "6": "3HBPS101/3HBHY101/3HBEN101/3HBHS01/3HBEC101 : Political Science I- /History-I, /English Lit-I/Hindi Lit-I./ Economics-I"
+   },
+   "Bachelor's in Psychology 2": {
+      "1": "3HBEL201 : English Language and Indian culture",
+      "2": "3MBFE101 :Fundamental of Entreprenurship ",
+      "3": "3HBPSY201 : Bio Psychology",
+      "4": "3HBPSY202 : Educational Psychology - I",
+      "5": "3HBPSY203 : Practical",
+      "6": "3HBPS202/3HBHY202/3HBEN202/3HBHS202/3HBEC202 : olitical Science- II / History-II, /English Lit-II/ Hindi Lit.-II/ Economics-I",
+      "Practical": {
+         "1": ""
+      }
+   },
+   "Bachelor's in Psychology 3": {
+      "1": "3HBHL302H :  Hindi Bhasha samvedana awaim sanchar sadhan :  Hindi Bhasha samvedana awaim sanchar sadhan",
+      "2": "3CBCA502H : Basic Information Computer Technology - II : Basic Information Computer Technology - II",
+      "3": "3HBPSY301 : Research Methodology",
+      "4": "3HBPSY302 : Health Psychology",
+      "5": "3HBPSY303  : Practical",
+      "6": "3HBPS303H/3HBGG303H/3HBHT303H/3HBEC303H :  Political Science III-/Geography-III/History-III./Economics-III /Sociology-III",
+      "Practical": {
+         "1": "3CBCA502H : Basic Information Computer Technology - II : Basic Information Computer Technology - II"
+      }
+   },
+   "Bachelor's in Psychology 4": {
+      "1": "3HBSO303H",
+      "2": "3MBFE401 : Development of Entrepreneurship",
+      "3": "3HBPSY401 : Emergence and growth of Psychology",
+      "4": "3HBPSY402 : Statistics II",
+      "5": "3HBPSY403 : Practical",
+      "6": "** : General Elective- IV : (i) History.(ii) Geography. (iii) Political Science. (iv) Economics. (v) Anthropology. (vi) Sociology.",
+      "Practical": {
+         "1": ""
+      }
+   },
+   "Bachelor's in Psychology 5": {
+      "1": "3HBPSY501 : Organizational Psychology ",
+      "2": "3HBPSY502 : Abnormal Psychology ",
+      "3": "3HBPSY503 : Educational Psychology - II",
+      "4": "3HBPSY504 : Practical & Tour Report (Field Survey)",
+      "5": "",
+      "6": "",
+      "Practical": {
+         "1": ""
+      }
+   },
+   "Bachelor's in Psychology 6": {
+      "1": "3HBPSY601 : Clinical Psychology",
+      "2": "3HBPSY602 : Counseling Psychology",
+      "3": "3HBPSY603 : Human Resource Management ",
+      "4": "3HBPSY604 : Practical & Dissertation",
+      "5": "",
+      "6": "",
+      "Practical": {
+         "1": ""
+      }
+   },
+   "Bachelor's in Botany 1": {
+      "1": "3HBHL101H : Hindi Bhasha aaur sanrachana ",
+      "2": "3CBCA201H : Basic Information Computer Technology - I",
+      "3": "3SBBO103H : Diversity of microbes and cryptogams ",
+      "4": "3SBBO106H : Anatomy of Angiosperms",
+      "5": "Generic Elective-1 : Zoology 3SBZO105H Invertebrates & Cell Biology",
+      "6": "Generic Elective-1 : Chemistry 3SBCH104H Chemistry - I",
+      "Practical": {
+         "1": "3SBBO103H : Practical : Diversity of microbes and cryptogams",
+         "2": "3SBBO106H Practical Anatomy of Angiosperms",
+         "3": "Practical (Select From Below Given Specialized Subject)*",
+         "4": "Basic Information Computer Technology – I"
+      }
+   },
+   "Bachelor's in Botany 2": {
+      "1": "3HBEL201H : English Language and Indian Culture",
+      "2": "3MBFE101H : Fundamental of Entrepreneurship",
+      "3": "3SBBO203H : Cell biology and genetics",
+      "4": "3SBBO206H : Economic botany",
+      "5": "*Generic Elective -2 : Zoology : 3SBZO205H Vertebrates & developmental biology",
+      "6": "*Generic Elective -2 : Chemistry : 3SBCH204H Chemistry - II",
+      "Practical": {
+         "1": "3SBBO203H Practical Cell biology and genetics",
+         "2": "3SBBO206H : Practical Economic botany",
+         "3": "*Generic Elective -2 : Practical (Select From Below Given Specialized Subject)*"
+      }
+   },
+   "Bachelor's in Botany 3": {
+      "1": "3HBHL302H :  Hindi Bhasha samvedana awaim sanchar saadhan",
+      "2": "3CBCA502H : Basic Information Computer Technology - II",
+      "3": "3SBBO303H : Bio-Diversity and systematic of seed plants",
+      "4": "3SBBO306H : Molecular biology",
+      "5": "Generic Elective -3 : Zoology : 3SBZO305H : Genetics",
+      "6": "Generic Elective -3 : Chemistry :3SBCH304H : Chemistry – III",
+      "Practical": {
+         "1": "3SBBO303H : Practical : Bio-Diversity and systematic of seed plants",
+         "2": "3SBBO306H : Practical : Molecular biology",
+         "3": "Generic Elective -3 : Practical (Select From Below Given Specialized Subject)*",
+         "4": "3CBCA502H : Practical Basic Information Computer Technology - II"
+      }
+   },
+   "Bachelor's in Botany 4": {
+      "1": "3HBEL402H : English language and scientific temper",
+      "2": "3HBHP401H : Human Values & Ethics",
+      "3": "3SBBO403H : Structure developments & reproduction in flowering plant",
+      "4": "3SBBO406H : Plant metabolism",
+      "5": "Generic Elective -4 : Zoology 3SBZO405H Animal Physiology",
+      "6": "Generic Elective -4 : Chemistry 3SBCH404H Chemistry –IV",
+      "Practical": {
+         "1": "3SBBO403H : Practical : Structure developments & reproduction in flowering plant",
+         "2": "3SBBO406H : Practical : Plant metabolism ",
+         "3": "Generic Elective -4 : Practical : (Select From Below Given Specialized Subject)*"
+      }
+   },
+   "Bachelor's in Botany 5": {
+      "1": "3SBBO501H : Plant physiology and biochemistry",
+      "2": "3SBBO502H : Plant Pathology",
+      "3": "3SBBO503H : Plant Resource Utilization And Conservation",
+      "4": "3SBBO504H Plant structure and Development",
+      "5": "3SBBO505H : Biology and diversity of Gymnosperms",
+      "Practical": {
+         "1": "3SBBO501H : Practical Plant physiology and biochemistry",
+         "2": "3SBBO502H : Plant Pathology ",
+         "3": "3SBBO503H : Plant Resource Utilization And Conservation",
+         "4": "3SBBO504H : Plant structure and Development",
+         "5": "3SBBO505H : Biology and diversity of Gymnosperms"
+      }
+   },
+   "Bachelor's in Botany 6": {
+      "1": "3SBBO601H : Plant ecology, biodiversity and phytogeography",
+      "2": "3SBBO602H : ETHNOBOTANY",
+      "3": "3SBBO603H : Plant Systematics ",
+      "4": "3SBBO604H : Plants & Society",
+      "5": "3SBBO605H : Plant cell ,Tissue and Organ Culture",
+      "Practical": {
+         "1": "3SBBO501 : Project&Viva Voice"
+      }
+   },
+   "Bachelor's in Mathematics 1": {
+      "1": "3HBHL101H : Hindi Bhasha aaur sanrachana",
+      "2": "3CBCA201H : Basic Information Computer Technology - I",
+      "3": "3SBMA105H : Algebra, Trigonometry & Geometry ",
+      "4": "3SBMA106H : Logic & Sets",
+      "Generic Elective": {
+         "1": "Physics :3SBPH103H : Mechanics, Oscillations and Properties of Matter",
+         "2": "Chemistry : 3SBCH104H : Chemistry –I"
+      },
+      "Practical": {
+         "1": "3CBCA201H : Basic Information Computer Technology - I"
+      }
+   },
+   "Bachelor's in Mathematics 2": {
+      "1": "3HBEL201H : English Language and Indian Culture",
+      "2": "3MBFE101H : Fundamental of Entrepreneurship",
+      "3": "3SBMA205H : Calculus, Differential Equations & Vector Calculus",
+      "4": "3SBMA206H : Theory of real functions",
+      "Generic Elective": {
+         "1": "Physics : 3SBPH203H : Mathematical Background, Electrostatics, and Steady",
+         "2": "Chemistry : 3SBCH204H : Chemistry –II"
+      },
+      "Practical": {
+         "1": "* :(Select From Given G.E. Subject)"
+      }
+   },
+   "Bachelor's in Mathematics 3": {
+      "1": "3HBHL302H :  Hindi Bhasha samvedana awaim sanchar sadhan",
+      "2": "3CBCA502H : Basic Information Computer Technology - II",
+      "3": "3SBMA305H : Calculus, Differential Equation and Mechanics",
+      "4": "3SBMA306H : Multivariate Calculus ",
+      "Generic Elective": {
+         "1": "Physics : 3SBPH303H Kinetic Theory of Gases, Thermo-dynamics and Statistical Mechanics.",
+         "2": "Chemistry : 3SBCH304H : Chemistry –III"
+      },
+      "Practical": {
+         "1": "3CBCA201H : Basic Information Computer Technology - II"
+      }
+   },
+   "Bachelor's in Mathematics 4": {
+      "1": "3HBEL402H : English language and scientific temper",
+      "2": "3HBHP401H : Human Values & Ethics",
+      "3": "3SBMA405H : Advanced Calculus, Partial Differential Equations, Complex Analysis and Abstract Algebra",
+      "4": "3SBMA406H : Probability & Statistics",
+      "Generic Elective": {
+         "1": "Physics : 3SBPH403H : Group Waves, Acoustics and Optics",
+         "2": "Chemistry : 3SBCH404H : Chemistry –IV"
+      },
+      "Practical": {
+         "1": "* :(Select From Given G.E. Subject)"
+      }
+   },
+   "Bachelor's in Mathematics 5": {
+      "1": "3SBPH501H : Physics-V (Quantum Mechanics, Atomic, Molecular and Nuclear Physics)",
+      "2": "3SBPH502H : Physics-V (Astro Physics & Atmospheric Science)",
+      "3": "3SBPH503H : Analog Systems And Applications",
+      "4": "** : Elective table-I",
+      "5": "*** : Elective table-II",
+      "Practical": {
+         "1": "3SBPH501H : Physics-V (Quantum Mechanics, Atomic, Molecular and Nuclear Physics)",
+         "2": "3SBPH502H : Physics-V (Astro Physics & Atmospheric Science) ",
+         "3": "3SBPH503H : Analog Systems and applications",
+         "4": "** : Elective table-I",
+         "5": "*** : Elective table-II"
+      }
+   },
+   "Bachelor's in Mathematics 6": {
+      "1": "3SBPH601H : Physics-VI (Solid State Physics, Electronics and Laser)",
+      "2": "3SBPH602H : Physics-VI (Nano Technology and Material Science)",
+      "3": "3SBPH603H : Nuclear and Particle Physics",
+      "4": "** : Elective table-III",
+      "5": "*** : Elective table-IV / Group B DISSERTATION",
+      "Practical": {
+         "1": "3SBPH601H : Physics-VI (Solid State Physics, Electronics and Laser)",
+         "2": "3SBPH602H : Physics-VI (Nano Technology and Material Science)",
+         "3": "3SBPH603H : Nuclear and Particle Physics",
+         "4": "** : Elective table-III",
+         "5": "*** :Elective table-IV / Group B DISSERTATION"
+      }
+   },
+   "Bachelor's in Chemistry 1": {
+      "1": "3HBHL101H : Hindi Bhasha aaur sanrachana",
+      "2": "3CBCA201H : Basic Information Computer Technology - I",
+      "3": "3SBCH104H : Chemistry –I (Physical Inorganic & Organic Chemistry)",
+      "4": "3SBCH106H : POLYMER CHEMISTRY",
+      "Generic Elective": {
+         "1": "Physics : 3SBPH103H :Mechanics,Oscillations and Properties of Matter",
+         "2": "Maths : 3SBMA105H : Algebra,Trigonometry& Geometry"
+      },
+      "Practical": {
+         "1": "3SBCH104H : Chemistry –I (Physical Inorganic & Organic Chemistry)",
+         "2": "3SBCH106H : POLYMER CHEMISTRY",
+         "3": "Practical-III (Select From Below Given G.E. Subject)*",
+         "4": "3CBCA201H : Basic Information Computer Technology - I"
+      }
+   },
+   "Bachelor's in Chemistry 2": {
+      "1": "3HBEL201H : English Language and Indian Culture",
+      "2": "3MBFE101H : Fundamental of Entrepreneurship",
+      "3": "3SBCH204H : Chemistry –II (Physical Inorganic & Organic Chemistry)",
+      "4": "3SBCH206H : APPLICATION OF COMPUTERS IN CHEMISTRY",
+      "Generic Elective": {
+         "1": "Physics : 3SBPH203H : Mathematical Background, Electrostatics of Matter",
+         "2": "Maths : 3SBMA205H : Calculus, Differential Equations& Vector Calculus"
+      },
+      "Practical": {
+         "1": "3SBCH204H : Chemistry –II (Physical Inorganic & Organic Chemistry)",
+         "2": "3SBCH206H : APPLICATION OF COMPUTERS IN CHEMISTRY",
+         "3": "Practical-III (Select From Below Given G.E. Subject)*"
+      }
+   },
+   "Bachelor's in Chemistry 3": {
+      "1": "3HBHL302H :  Hindi Bhasha samvedana awaim sanchar sadhan",
+      "2": "3CBCA502H : Basic Information Computer Technology - II",
+      "3": "3SBCH304H : Chemistry –III (Physical Inorganic & Organic Chemistry)",
+      "4": "3SBCH306H : ANALYTICAL METHODS IN CHEMISTRY",
+      "Generic Elective": {
+         "1": "Physics : 3SBPH303H : Kinetic Theory of Gases, Thermodynamics and Statistical Mechanics",
+         "2": "Maths : 3SBMA305H : Calculus, Differential Equation and Mechanics"
+      },
+      "Practical": {
+         "1": "3SBCH304H : Chemistry –III (Physical Inorganic & Organic Chemistry)",
+         "2": "3SBCH306H :  ANALYTICAL METHODS IN CHEMISTRY",
+         "3": "Practical-III (Select From Below Given G.E. Subject)*",
+         "4": "3CBCA201H : Basic Information Computer Technology - II"
+      }
+   },
+   "Bachelor's in Chemistry 4": {
+      "1": "3HBEL402H : English language and scientific temper",
+      "2": "3HBHP401H : Human Values & Ethics",
+      "3": "3SBCH404H : Chemistry –III (Physical Inorganic & Organic Chemistry)",
+      "4": "3SBCH406H : NDUSTRIAL CHEMICAL & ENVIRONMENT",
+      "Generic Elective": {
+         "1": "Physics : 3SBPH403H : Group Waves, Acoustics and Optics",
+         "2": "Maths : 3SBMA405H : Advanced Calculus, Partial Differential Equations, Complex Analysis and Abstract Algebra"
+      },
+      "Practical": {
+         "1": "3SBCH404H : Chemistry –IV (Physical Inorganic & Organic Chemistry)",
+         "2": "3SBCH406H :  NDUSTRIAL CHEMICAL & ENVIRONMENT",
+         "3": "Practical-III (Select From Below Given G.E. Subject)*"
+      }
+   },
+   "Bachelor's in Chemistry 5": {
+      "1": "3SBCH501H : Coordination Chemistry",
+      "2": "3SBCH502H : Industrial Chemistry",
+      "3": "3SBCH503H : Organic Chemistry & Spectroscopy ",
+      "4": "* : Elective table-I",
+      "5": "** : Elective table-II",
+      "Practical": {
+         "1": "3SBCH501H : Coordination Chemistry",
+         "2": "3SBCH502H : Industrial Chemistry",
+         "3": "3SBCH503H : Organic Chemistry & Spectroscopy ",
+         "4": "3CBCA504H : Elective table-I",
+         "5": "3CBCA505H : Elective table-II"
+      }
+   },
+   "Bachelor's in Chemistry 6": {
+      "1": "3SBCH601H : Nano-Chemistry",
+      "2": "3SBCH602H : NORGANIC MATERIALS OF INDUSTRIAL IMPORTANCE",
+      "3": "3SBCH603H : GREEN CHEMISTRY",
+      "4": "* : Elective table-III",
+      "5": "** : Elective table-IV / Group B DISSERTATION",
+      "Practical": {
+         "1": "3SBCH601H : Nano-Chemistry",
+         "2": "3SBCH602H : NORGANIC MATERIALS OF INDUSTRIAL IMPORTANCE",
+         "3": "3SBCH603H : GREEN CHEMISTRY",
+         "4": "* : Elective table-III"
+      }
+   },
+   "Bachelor's in Zoology 1": {
+      "1": "3HBHL101H : Hindi Bhasha aaur sanrachana",
+      "2": "3CBCA201H : Basic Information Computer Technology - I",
+      "3": "3SBZO105H : nvertebrates & cell biology",
+      "4": "3SBZO106H : Principal of ecology",
+      "Generic Elective": {
+         "1": "Botany : 3SBBO103H : Bio-Diversity of microbes and cryptogams",
+         "2": "Chemistry 3SBCH104H Chemistry –I"
+      },
+      "Practical": {
+         "1": "3SBZO105H : nvertebrates & cell biology",
+         "2": "3SBZO106H : Principal of ecology",
+         "3": "Practical-III (Select From Below Given G.E. Subject)*",
+         "4": "3CBCA201H : Basic Information Computer Technology - I"
+      }
+   },
+   "Bachelor's in Zoology 2": {
+      "1": "3HBEL201H : English Language and Indian Culture",
+      "2": "3MBFE101H : Fundamental of Entrepreneurship",
+      "3": "3SBZO205H :Vertebrates & development biology",
+      "4": "3SBZO206H : Molecular biology ",
+      "Generic Elective": {
+         "1": "Botany : 3SBBO203H : Cell biology and genetics",
+         "2": "Chemistry 3SBCH204H Chemistry –II"
+      },
+      "Practical": {
+         "1": "3HBEL201H : English Language and Indian Culture",
+         "2": "3MBFE101H : Fundamental of Entrepreneurship",
+         "3": "Practical-III (Select From Below Given G.E. Subject)*"
+      }
+   },
+   "Bachelor's in Zoology 3": {
+      "1": "3HBHL302H :  Hindi Bhasha samvedana awaim sanchar sadhan",
+      "2": "3CBCA502H : Basic Information Computer Technology - II",
+      "3": "3SBZO305H : Genetics",
+      "4": "3SBZO306H : Physical controlling and Coordinating system",
+      "Generic Elective": {
+         "1": "Botany : 3SBBO303H : Bio-Diversity and systematic of seed plants",
+         "2": "Chemistry 3SBCH304H Chemistry –III"
+      },
+      "Practical": {
+         "1": "3SBZO305H : Genetics",
+         "2": "3SBZO306H : Physical controlling and Coordinating system",
+         "3": "Practical-III (Select From Below Given G.E. Subject)*",
+         "4": "3CBCA502H : Basic Information Computer Technology - II"
+      }
+   },
+   "Bachelor's in Zoology 4": {
+      "1": "3HBEL402H : English language and scientific temper",
+      "2": "3HBHP401H : Human Values & Ethics",
+      "3": "3SBZO405H : Animal Physiology ",
+      "4": "3SBZO406H : Biochemistry of metabolic process",
+      "Generic Elective": {
+         "1": "Botany : 3SBBO403H : Structure developments reproduction in flowering plant",
+         "2": "Chemistry 3SBCH404H Chemistry –IV"
+      },
+      "Practical": {
+         "1": "3SBZO405H : Animal Physiology ",
+         "2": "3SBZO406H : Biochemistry of metabolic process",
+         "3": "Practical-III (Select From Below Given G.E. Subject)*"
+      }
+   },
+   "Bachelor's in Zoology 5": {
+      "1": "3SBZO501H : Applied Zoology ",
+      "2": "3SBZO502H : Animal Behaviour & Chronobiology",
+      "3": "3SBZO503H : Comparative Anatomy of Vertebrates",
+      "4": "3SBZO504H : Group A",
+      "5": "3SBZO505H : Group A",
+      "Practical": {
+         "1": "3SBZO501H : Applied Zoology ",
+         "2": "3SBZO502H : Animal Behaviour & Chronobiology",
+         "3": "3SBZO503H : Comparative Anatomy of Vertebrates",
+         "4": "3SBZO504H : Group A",
+         "5": "3SBZO505H : Group A"
+      }
+   },
+   "Bachelor's in Zoology 6": {
+      "1": "3SBZO601H : Environmental Biology & Evolution",
+      "2": "3SBZO602H : Development Biology ",
+      "3": "3SBZO603H : Aquatic Biology",
+      "4": "3SBZO604H : Group B",
+      "5": "3SBZO605H : Group B",
+      "Practical": {
+         "1": "3SBZO601H : Environmental Biology & Evolution",
+         "2": "3SBZO602H : Development Biology ",
+         "3": "3SBZO603H : Aquatic Biology",
+         "4": "3SBZO604H : Group B",
+         "5": "3SBZO605H : Group B"
+      }
+   },
+   "Bachelor's in Physics 1": {
+      "1": "3HBHL101H : Hindi Bhasha aaur sanrachana",
+      "2": "3CBCA201H : Basic Information Computer Technology - I",
+      "3": "3SBPH103H : Mechanics, Oscillations and Properties of Matter",
+      "4": "3SBPH106H : Mathematical Physics -I",
+      "Generic Elective": {
+         "1": "Mathematics : 3SBMA105H : Algebra, Trigonometry & Geometry",
+         "2": "Chemistry : 3SBCH104H Chemistry –I"
+      },
+      "Practical": {
+         "1": "3SBCH104H Chemistry –I",
+         "2": "3CBCA201H : Basic Information Computer Technology - I",
+         "3": "3SBPH103H : Mechanics, Oscillations and Properties of Matter",
+         "4": "3SBPH106H : Mathematical Physics -I"
+      }
+   },
+   "Bachelor's in Physics 2": {
+      "1": "3HBEL201H : English Language and Indian Culture",
+      "2": "3MBFE101H : Fundamental of Entrepreneurship",
+      "3": "3SBPH203H : Mathematical Background, Electrostatics, and Steady Currents",
+      "4": "3SBPH206H : Mathematical Physics -II ",
+      "Generic Elective": {
+         "1": "Mathematics : 3SBMA205H : Calculus, Differential Equations& Vector Calculus",
+         "2": "Chemistry : 3SBCH204H Chemistry –II"
+      },
+      "Practical": {
+         "1": "3SBCH204H Chemistry –II",
+         "2": "3SBMA203H : Mathematical Background, Electrostatics, and Steady Currents",
+         "3": "3SBPH206H : Mathematical Physics -II "
+      }
+   },
+   "Bachelor's in Physics 3": {
+      "1": "3HBHL302H :  Hindi Bhasha samvedana awaim sanchar sadhan",
+      "2": "3CBCA502H : Basic Information Computer Technology - II",
+      "3": "3SBPH303H : Kinetic Theory of Gases, Thermo-dynamics and Statistical Mechanics",
+      "4": "3SBPH306H : Mathematical Physics -III",
+      "Generic Elective": {
+         "1": "Mathematics : 3SBMA305H : Calculus, Differential Equation and Mechanics",
+         "2": "Chemistry : 3SBCH304H Chemistry –III"
+      },
+      "Practical": {
+         "1": "3SBCH304H Chemistry –III",
+         "2": "3CBCA502H : Basic Information Computer Technology - II",
+         "3": "3SBPH303H : Kinetic Theory of Gases, Thermo-dynamics and Statistical Mechanics",
+         "4": "3SBPH306H : Mathematical Physics -III"
+      }
+   },
+   "Bachelor's in Physics 4": {
+      "1": "3HBEL402H : English language and scientific temper",
+      "2": "3HBHP401H : Human Values & Ethics",
+      "3": "3SBPH403H : Group Waves, Acoustics and Optics ",
+      "4": "3SBPH406H : Digital System & Application",
+      "Generic Elective": {
+         "1": "Mathematics : 3SBPH405H : Advanced Calculus, Partial Differential Equations, Complex Analysis and Abstract Algebra",
+         "2": "Chemistry : 3SBCH404H Chemistry –IV"
+      },
+      "Practical": {
+         "1": "3SBCH404H Chemistry –IV",
+         "2": "3SBPH403H : Group Waves, Acoustics and Optics ",
+         "3": "3SBPH406H : Digital System & Application"
+      }
+   },
+   "Bachelor's in Physics 5": {
+      "1": "3SBPH501H : Physics-V (Quantum Mechanics, Atomic, Molecular and Nuclear Physics)",
+      "2": "3SBPH502H : Physics-V (Astro Physics & Atmospheric Science)",
+      "3": "3SBPH503H : Analog Systems And Applications",
+      "4": "** : Elective table-I",
+      "5": "*** : Elective table-II",
+      "Practical": {
+         "1": "3SBPH501H : Physics-V (Quantum Mechanics, Atomic, Molecular and Nuclear Physics)",
+         "2": "3SBPH502H : Physics-V (Astro Physics & Atmospheric Science)",
+         "3": "3SBPH503H : Analog Systems And Applications",
+         "4": "** : Elective table-I",
+         "5": "*** : Elective table-II"
+      }
+   },
+   "Bachelor's in Physics 6": {
+      "1": "3SBPH601H : Physics-VI (Solid State Physics, Electronics and Laser)",
+      "2": "3SBPH602H : Physics-VI (Nano Technology and Material Science)",
+      "3": "3SBPH603H : Nuclear and Particle Physics",
+      "4": "** : Elective table-III",
+      "5": "*** : Elective table-IV / Group B DISSERTATION",
+      "Practical": {
+         "1": "3SBPH601H : Physics-VI (Solid State Physics, Electronics and Laser)",
+         "2": "3SBPH602H : Physics-VI (Nano Technology and Material Science)",
+         "3": "3SBPH603H : Nuclear and Particle Physics",
+         "4": "** : Elective table-III",
+         "5": "*** : Elective table-IV / Group B DISSERTATION"
+      }
+   },
+   "Masters in Botany 1": {
+      "1": "6SMBO101 : Biology and Diversity of algae,Bryophytes,pteridophytes and Gymnosperms",
+      "2": "6SMBO102 : Biology and Diversity of Viruses, Bacteria and Fungi ",
+      "3": "6SMBO103 : Morphology, anatomy and taxonomy of angiospermic plant",
+      "4": "6SMBO104 : Plant structure and Development ",
+      "Practical": {
+         "1": "6SMBO105 Practical LAB - I",
+         "": " 6SMBO106 Practical LAB - II "
+      }
+   },
+   "Masters in Botany 2": {
+      "1": "6SMBO201 : Plant physiology, Biochemistry and Metabolism",
+      "2": "6SMBO202 : Biology and Diversity of Gymnosperms",
+      "3": "6SMBO203 : Plant Resource Utilization And Conservation ",
+      "4": "6SMBO204 : Cell Biology and Genetics",
+      "Practical": {
+         "1": "6SMBO205 Practical LAB - I",
+         "": " 6SMBO206 Practical LAB - II "
+      }
+   },
+   "Masters in Botany 3": {
+      "1": "6SMBO301 : Biotechnology and tissue culture",
+      "2": "6SMBO302 : Molecular biology of plant",
+      "3": "**** : Elective –I (Select anyone from below given Elective-I)",
+      "4": "**** : Elective –II (Select anyone from below given Elective-I)",
+      "Practical": {
+         "1": "**** Practical LAB - I",
+         "": " **** Practical LAB - II "
+      }
+   },
+   "Masters in Botany 4": {
+      "1": "**** : Elective –III (Select anyone from below given Elective-I)",
+      "2": "**** : Elective –IV (Select anyone from below given Elective-I)",
+      "Practical": {
+         "1": "**** Practical LAB - I",
+         "2": " **** Practical LAB - II ",
+         "3": "**** Project/Internship/Field work & Viva Voce "
+      }
+   },
+   "Masters in Chemistry 1": {
+      "1": "6SMCH101 : Inorganic Chemistry - I",
+      "2": "6SMCH102 : Organic Chemistry – I ",
+      "3": "6SMCH103 : Physical Chemistry – I ",
+      "4": "6SMCH104 : Analytical Chemistry - I",
+      "Practical": {
+         "1": " 6SMCH105 Practical LAB - I",
+         "2": "6SMCH106 Practical LAB - II "
+      }
+   },
+   "Masters in Chemistry 2": {
+      "1": "6SMCH201 : Inorganic Chemistry – II",
+      "2": "6SMCH202 : Organic Chemistry – II",
+      "3": "6SMCH203 : Physical Chemistry – I",
+      "4": "6SMCH204 : Analytical Chemistry - II",
+      "Practical": {
+         "1": " 6SMCH105 Practical LAB - I",
+         "2": "6SMCH106 Practical LAB - II "
+      }
+   },
+   "Masters in Chemistry 3": {
+      "1": "6SMCH301 : Application of Spectroscopy",
+      "2": "6SMCH302 : Bio Organic& Inorganic chemistry ",
+      "3": "**** : Elective –I (Select anyone from below given Elective-I)",
+      "4": "**** : Elective –II (Select anyone from below given Elective-I)",
+      "Practical": {
+         "1": "**** Practical LAB - I",
+         "2": " **** Practical LAB - II "
+      }
+   },
+   "Masters in Chemistry 4": {
+      "1": "**** : Elective –III (Select anyone from below given Elective-I)",
+      "2": "**** : Elective –IV (Select anyone from below given Elective-I)",
+      "Practical": {
+         "1": "**** Practical LAB - I",
+         "2": " **** Practical LAB - II ",
+         "3": "**** Project/Internship/Field work & Viva Voce "
+      }
+   },
+   "Masters in Physics 1": {
+      "1": "6SMPH101 : Mathematical Physics",
+      "2": "6SMPH102 : Classical Mechanics",
+      "3": "6SMPH103 : Quantum Mechanics I",
+      "4": "6SMPH104 : Electronic Devices",
+      "Practical": {
+         "1": " 6SMPH105 Practical LAB - I",
+         "2": "6SMCH106 Practical LAB - II "
+      }
+   },
+   "Masters in Physics 2": {
+      "1": "6SMPH201 : Quantum Mechanics II",
+      "2": "6SMPH201 : Statistical Mechanics",
+      "3": "6SMPH203 : Solid State Physics",
+      "4": "6SMPH204 : Atomic & Molecular Physics",
+      "Practical": {
+         "1": " 6SMPH205 Practical LAB - I",
+         "2": "6SMCH206 Practical LAB - II "
+      }
+   },
+   "Masters in Physics 3": {
+      "1": "6SMPH301 :  Condensed Matter Physics",
+      "2": "6SMPH302 : Nuclear Physics ",
+      "3": "**** : Elective –I",
+      "4": "**** : Elective –II",
+      "Practical": {
+         "1": " 6SMPH307 Practical LAB - I",
+         "2": "6SMCH308 Practical LAB - II "
+      }
+   },
+   "Masters in Physics 4": {
+      "1": "**** : Elective –III",
+      "2": "**** : Elective –IV",
+      "Practical": {
+         "1": "6SMPH405  Practical LAB - I",
+         "2": "6SMPH406  Practical LAB - II ",
+         "3": "**** Project/Internship/Field work & Viva Voce "
+      }
+   },
+   "Masters in Maths 1": {
+      "1": "6SMMA101 : Advance Abstract Algebra-I",
+      "2": "6SMMA102 : Real Analysis-I",
+      "3": "6SMMA103 : Topology-I",
+      "4": "6SMMA104 : Complex Analysis-I",
+      "5": "6SMMA105 : Differential Equation-I "
+   },
+   "Masters in Maths 2": {
+      "1": "6SMMA201 : Advance Abstract Algebra-II",
+      "2": "6SMMA202 : Real Analysis-II",
+      "3": "6SMMA203 : Topology-II",
+      "4": "6SMMA204 : Complex Analysis-II",
+      "5": "6SMMA205 : Differential Equation-II "
+   },
+   "Masters in Maths 3": {
+      "1": "6SMMA301 : Functional Analysis-I ",
+      "2": "6SMMA302 : Integral Equation-I",
+      "3": "6SMMA303 : Special Function -I ",
+      "4": "**** : Elective –I ",
+      "5": "**** : Elective –II ",
+      "Practical": {
+         "1": ""
+      }
+   },
+   "Masters in Maths 4": {
+      "1": "6SMMA401 : Functional Analysis -I",
+      "2": "** : Elective –III ",
+      "3": "** : Elective –IV ",
+      "Practical": {
+         "1": "  *** : Project/Internship/Dissertation/Fieldwork & Viva Voce"
+      }
+   },
+   "Bachelor's in Agriculture 1": {
+      "1": "ABAG101 : Fundamentals of Agronomy",
+      "2": "ABSC101 : Fundamentals of Soil Science ",
+      "3": "ABEN101 : Fundamentals of Entomology",
+      "4": "ABAE101 : Soil and Water Conservation Engineering",
+      "5": "ABHO101 : Fundamental of Horticulture",
+      "6": "ABEX101 : Rural Sociology & Educational Psychology",
+      "7": "HBEN101 : Comprehension & Communication Skill in English",
+      "8": "ABPD101 : Human Value and Ethics",
+      "9": "* : ",
+      "10": "* : ",
+      "Practical": {
+         "1": "ABAG101 : Fundamentals of Agronomy",
+         "2": "ABSC101 : Fundamentals of Soil Science ",
+         "3": "ABEN101 : Fundamentals of Entomology",
+         "4": "ABAE101 : Soil and Water Conservation Engineering",
+         "5": "ABHO101 : Fundamental of Horticulture",
+         "6": "HBEN101 : Comprehension & Communication Skill in English"
+      }
+   },
+   "Bachelor's in Agriculture 2": {
+      "1": "ABAG202 : Farming System and Sustainable Agriculture",
+      "2": "ABGP201 : Fundamentals of Genetics",
+      "3": "ABHO202 : Production Technology for Fruit and Plantation Crops",
+      "4": "ABSC202 : Manures, Fertilizers and Soil Fertility Management",
+      "5": "ABCP201 : Fundamentals of Crop Physiology ",
+      "6": "ABPP201 : Fundamentals of Plant Pathology",
+      "7": "ABEC201 : Fundamentals of Agricultural Economics",
+      "8": "ABEX202 : Fundamentals of Agricultural Extension Education",
+      "9": "ABEN202 : Pests of Crops and Stored Grain and their Management",
+      "10": "* : ",
+      "Practical": {
+         "1": "ABGP201 : Fundamentals of Genetics",
+         "2": "ABHO202 : Production Technology for Fruit and Plantation Crops",
+         "3": "ABSC202 : Manures, Fertilizers and Soil Fertility Management",
+         "4": "ABCP201 : Fundamentals of Crop Physiology ",
+         "5": "ABPP201 : Fundamentals of Plant Pathology",
+         "6": "ABEX202 : Fundamentals of Agricultural Extension Education",
+         "7": "ABEN202 : Pests of Crops and Stored Grain and their Management"
+      }
+   },
+   "Bachelor's in Agriculture 3": {
+      "1": "ABAG303 : Crop Production Technology – I(Kharif Crop) ",
+      "2": "ABPB301 : Fundamentals of Plant Breeding",
+      "3": "ABHO303 : Production Technology of Vegetables and spices",
+      "4": "ABMB301 : Agricultural Microbiology",
+      "5": "ABAE302 : Farm Machinery and Power ",
+      "6": "ABEC302 : Agricultural Finance and Cooperation",
+      "7": "ABSC301 : Environmental Studies and Disaster Management",
+      "8": "ABST301 : Statistics Method",
+      "9": "ABAH301 : Livestock and Poultry Management",
+      "10": "ABIT301 : Agricultural Informatics",
+      "Practical": {
+         "1": "ABAG303 : Crop Production Technology – I(Kharif Crop) ",
+         "2": "ABPB301 : Fundamentals of Plant Breeding",
+         "3": "ABHO303 : Production Technology of Vegetables and spices",
+         "4": "ABMB301 : Agricultural Microbiology",
+         "5": "ABAE302 : Farm Machinery and Power ",
+         "6": "ABEC302 : Agricultural Finance and Cooperation",
+         "7": "ABSC301 : Environmental Studies and Disaster Management",
+         "8": "ABST301 : Statistics Method",
+         "9": "ABAH301 : Livestock and Poultry Management",
+         "10": "ABIT301 : Agricultural Informatics"
+      }
+   },
+   "Bachelor's in Agriculture 4": {
+      "1": "ABBT401 : Fundamental of Plant Biochemistry and Biotechnology",
+      "2": "ABPB402 : Intellectual Property Rights",
+      "3": "ABPB403 : Principles of Seed Technology",
+      "4": "ABAE403 : Renewable Energy and Green Technology",
+      "5": "ABSC403 : Problematic Soils and their Management",
+      "6": "ABHO404 : Production Technology for Ornamental Crops, MAP and Land Scraping",
+      "7": "ABPD402 : Communication Skill and Personality Development",
+      "8": "ABAG404 : Crop Production Technology-II(Rabi crops)",
+      "9": "ABEL401 : Soil, Plant, Water & Seed Testing",
+      "10": "ABRM401 : Elementary Mathematics ",
+      "Practical": {
+         "1": "ABBT401 : Fundamental of Plant Biochemistry and Biotechnology",
+         "2": "ABPB403 : Principles of Seed Technology",
+         "3": "ABAE403 : Renewable Energy and Green Technology",
+         "4": "ABHO404 : Production Technology for Ornamental Crops, MAP and Land Scraping",
+         "5": "ABPD402 : Communication Skill and Personality Development",
+         "6": "ABAG404 : Crop Production Technology-II(Rabi crops)",
+         "7": "ABEL401 : Soil, Plant, Water & Seed Testing",
+         "8": "NSS/NCC/ph.d1201 : NSS/NCC/Physical Education & Yoga Practices "
+      }
+   },
+   "Bachelor's in Agriculture 5": {
+      "1": "ABIF-501 : Introduction to Forestry",
+      "2": "ABPP-502 : Principles of Integrated Pest and Disease Management",
+      "3": "ABPP-503 : Diseases of Field and Horticultural Crops and their Management –I",
+      "4": "ABPB-504 : Crop Improvement-I (Kharif Crops)",
+      "5": "ABEX-503 : Entrepreneurship Development and Business Communication",
+      "6": "ABAG-505 : Geoinformatics and Nano- technology and Precision Farming",
+      "7": "ABRH-502 : Agricultural Heritage",
+      "8": "ABEC-503 : Agriculture Marketing Trade & Prices ",
+      "9": "ABAG-507 : Introductory Agro Meteorology & Climate Change",
+      "10": "ABEL-502 : Hi-tech Horticulture ",
+      "Practical": {
+         "1": "ABIF-501 : Introduction to Forestry",
+         "2": "ABPP-502 : Principles of Integrated Pest and Disease Management",
+         "3": "ABPP-503 : Diseases of Field and Horticultural Crops and their Management –I",
+         "4": "ABPB-504 : Crop Improvement-I (Kharif Crops)",
+         "5": "ABEX-503 : Entrepreneurship Development and Business Communication",
+         "6": "ABAG-505 : Geoinformatics and Nano- technology and Precision Farming",
+         "7": "ABRH-502 : Agricultural Heritage",
+         "8": "ABEC-503 : Agriculture Marketing Trade & Prices ",
+         "9": "ABAG-507 : Introductory Agro Meteorology & Climate Change",
+         "10": "ABEL-502 : Hi-tech Horticulture "
+      }
+   },
+   "Bachelor's in Agriculture 6": {
+      "1": "ABAG-608 :Rain fed Agriculture & Watershed Management ",
+      "2": "ABAE-604 : Protected Cultivation and Secondary Agriculture",
+      "3": "ABPP-603 : Diseases of Field and Horticultural Crops and their Management-II",
+      "4": "ABHO-605 : Post-harvest Management and Value Addition of Fruits and Vegetables",
+      "5": "ABEN-603 : Management of Beneficial Insects",
+      "6": "ABPB-605 : Crop Improvement-II (Rabi crops) ",
+      "7": "ABAG-610 : Principles of Organic Farming",
+      "8": "ABEC-604 : Farm Management, Production & Resource Economics",
+      "9": "ABFN-601 : Principles of Food Science and Nutrition",
+      "10": "ABEL-603 : Agriculture waste management",
+      "Practical": {
+         "1": "ABAG-608 :Rain fed Agriculture & Watershed Management ",
+         "2": "ABAE-604 : Protected Cultivation and Secondary Agriculture",
+         "3": "ABPP-603 : Diseases of Field and Horticultural Crops and their Management-II",
+         "4": "ABHO-605 : Post-harvest Management and Value Addition of Fruits and Vegetables",
+         "5": "ABEN-603 : Management of Beneficial Insects",
+         "6": "ABPB-605 : Crop Improvement-II (Rabi crops) ",
+         "7": "ABAG-610 : Principles of Organic Farming",
+         "8": "ABEC-604 : Farm Management, Production & Resource Economics",
+         "9": "ABFN-601 : Principles of Food Science and Nutrition",
+         "10": "ABEL-603 : Agriculture waste management",
+         "11": "ABET-601 : Educational Tour"
+      }
+   },
+   "Bachelor's in Agriculture 7": {
+      "1": "ABEC-705 : Orientation and survey of village",
+      "2": "ABAG-711 : Agronomical Interventions",
+      "3": "ABEN-704 : Plant Protection Interventions",
+      "4": "ABSC-704 : Soil Improvement Interventions (Soil sampling and testing)",
+      "5": "ABHO-706 : Fruits and Vegetable Production Interventions",
+      "6": "ABAE-705 : Food Processing and Storage Interventions",
+      "7": "ABAH-702 : Animal Production Interventions ",
+      "8": "ABEX-704 : Extension and Transfer of Technology activities",
+      "9": "ABAI-701 : gro- Industrial Attachment "
+   },
+   "Bachelor's in Agriculture 8": {
+      "1": "* : ",
+      "Practical": {
+         "1": "SASP-801 : Seed Production and Technology  ",
+         "2": "SAHO-801 : Commercial Horticulture"
+      }
+   }
+}

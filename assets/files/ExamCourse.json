@@ -1,0 +1,2033 @@
+{
+    "null": [],
+    "Bachelor's in Commerce 1": {
+        "1": "3HBEL201",
+        "2": "3MBFE101",
+        "3": "3CBCH101",
+        "4": "3CHCH102",
+        "5": "3CBCH103"
+    },
+    "Bachelor's in Commerce 2": {
+        "1": "3HBHL101",
+        "2": "3CBCA201",
+        "3": "3CBCH201",
+        "4": "3CBCH202",
+        "5": "3CBCH203"
+    },
+    "Bachelor's in Commerce 3": {
+        "1": "3HBEL402",
+        "2": "3CBES501",
+        "3": "3CBCH301",
+        "4": "3CBCH302",
+        "5": "3CBCH303"
+    },
+    "Bachelor's in Commerce 4": {
+        "1": "3HBHL302",
+        "2": "3HBEL501",
+        "3": "3CBCH401",
+        "4": "3CBCH402",
+        "5": "3CBCH403"
+    },
+    "Bachelor's in Commerce 5": {
+        "1": "3CBCH501",
+        "2": "3CBCH502",
+        "3": "3CBCH503",
+        "4": "3CBCH504",
+        "5": "3CBCH505"
+    },
+    "Bachelor's in Commerce 6": {
+        "1": "3CBCH601",
+        "2": "3CBCH602",
+        "3": "3CBCH603",
+        "4": "3CBCH604",
+        "5": "3CBCH605"
+    },
+    "Master's in Commerce 1": {
+        "1": "6CMCO101",
+        "2": "6CMCO102",
+        "3": "6CMCO103",
+        "4": "6CMCO104",
+        "5": "6CMCO105"
+    },
+    "Master's in Commerce 2": {
+        "1": "6CMCO201",
+        "2": "6CMCO202",
+        "3": "6CMCO203",
+        "4": "6CMCO204",
+        "5": "6CMCO205"
+    },
+    "Master's in Commerce 3": {
+        "1": "6CMCO301",
+        "2": "6CMCO302",
+        "3": "6CMCO303",
+        "4": "*",
+        "5": "*"
+    },
+    "Master's in Commerce 4": {
+        "1": "6CMCO401",
+        "2": "6CMCO402",
+        "3": "*",
+        "4": "*",
+        "5": "*"
+    },
+    "Bachelor's in Library Science 1": {
+        "1": "3HBLS101",
+        "2": "3HBLS102",
+        "3": "3HBLS103",
+        "4": "3HBLS104",
+        "5": "3HBLS105"
+    },
+    "Bachelor's in Library Science 2": {
+        "1": "3HBLS201",
+        "2": "3HBLS202",
+        "3": "3HBLS203",
+        "4": "3HBLS204",
+        "5": "3HBLS205"
+    },
+    "Bachelor's in Library Science 3": {
+        "1": "*",
+        "2": "*",
+        "3": "*",
+        "4": "*",
+        "5": "*"
+    },
+    "Bachelor's in Library Science 4": {
+        "1": "*",
+        "2": "*",
+        "3": "*",
+        "4": "*",
+        "5": "*"
+    },
+    "Bachelor's in Library Science 5": {
+        "1": "*",
+        "2": "*",
+        "3": "*",
+        "4": "*",
+        "5": "*"
+    },
+    "Bachelor's in Library Science 6": {
+        "1": "*",
+        "2": "*",
+        "3": "*",
+        "4": "*",
+        "5": "*"
+    },
+    "Master's in Library Science  1": {
+        "1": "6HMLS101",
+        "2": "6HMLS102",
+        "3": "6HMLS103",
+        "4": "6HMLS104",
+        "5": "6HMLS105"
+    },
+    "Master's in Library Science 2": {
+        "1": "6HMLS201",
+        "2": "6HMLS202",
+        "3": "6HMLS203",
+        "4": "6HMLS204",
+        "5": "6HMLS205"
+    },
+    "Master's in Library Science 3": {
+        "1": "*",
+        "2": "*",
+        "3": "*",
+        "4": "*",
+        "5": "*"
+    },
+    "Master's in Library Science 4": {
+        "1": "*",
+        "2": "*",
+        "3": "*",
+        "4": "*",
+        "5": "*"
+    },
+    "Master's in Library Science 5": {
+        "1": "*",
+        "2": "*",
+        "3": "*",
+        "4": "*",
+        "5": "*"
+    },
+    "Master's in Library Science 6": {
+        "1": "*",
+        "2": "*",
+        "3": "*",
+        "4": "*",
+        "5": "*"
+    },
+    "Bachelor's in Arts(English) 1": {
+        "1": "3HBHL101H",
+        "2": "3CBCA201H",
+        "3": "3HBEN101H",
+        "4": "3HBEN102H",
+        "5": "3HBPS101H/3HBHY101H/3HBHS101H/3HBEC101H3HBSO101H"
+    },
+    "Bachelor's in Arts(English) 2": {
+        "1": "3HBEL201H",
+        "2": "3MBFE101H",
+        "3": "3HBEN202H",
+        "4": "3HBEN203H",
+        "5": "3HBPS202H/3HBHY202H/3HBHS202H/3HBEC202H/3HBSO202H"
+    },
+    "Bachelor's in Arts(English) 3": {
+        "1": "3HBHL302H",
+        "2": "3CBCA502H",
+        "3": "3HBEN303H",
+        "4": "3HBEN304H",
+        "5": "3HBPS303H/3HBHY303H/3HBHS303H/3HBEC303H/3HBSO303H"
+    },
+    "Bachelor's in Arts(English) 4": {
+        "1": "3HBEL402H",
+        "2": "3HBHP401H",
+        "3": "3HBEN404H",
+        "4": "3HBEN405H",
+        "5": "3HBPS404H/3HBHY404H/3HBHS404H/3HBEC404H/3HBSO404H"
+    },
+    "Bachelor's in Arts(English) 5": {
+        "1": "3HBEN505H",
+        "2": "3HBEN506H",
+        "3": "3HBEN507H",
+        "4": "3HBEN508H",
+        "5": "3HBEN509H"
+    },
+    "Bachelor's in Arts(English) 6": {
+        "1": "3HBEN606H",
+        "2": "3HBEN607H",
+        "3": "3HBEN608H",
+        "4": "3HBEN609H",
+        "5": "3HBEN610H"
+    },
+    "Bachelor's in Arts(Economics) 1": {
+        "1": "3HBHL101H",
+        "2": "3CBCA201H",
+        "3": "3HBEN101H",
+        "4": "3HBEN102H",
+        "5": "3HBPS101H/3HBHY101H/3HBHS101H/3HBEC101H3HBSO101H"
+    },
+    "Bachelor's in Arts(Economics) 2": {
+        "1": "3HBEL201H",
+        "2": "3MBFE101H",
+        "3": "3HBEN202H",
+        "4": "3HBEN203H",
+        "5": "3HBPS202H/3HBHY202H/3HBHS202H/3HBEC202H/3HBSO202H"
+    },
+    "Bachelor's in Arts(Economics) 3": {
+        "1": "3HBHL302H",
+        "2": "3CBCA502H",
+        "3": "3HBEN303H",
+        "4": "3HBEN304H",
+        "5": "3HBPS303H/3HBHY303H/3HBHS303H/3HBEC303H/3HBSO303H"
+    },
+    "Bachelor's in Arts(Economics) 4": {
+        "1": "3HBEL402H",
+        "2": "3HBHP401H",
+        "3": "3HBEN404H",
+        "4": "3HBEN405H",
+        "5": "3HBPS404H/3HBHY404H/3HBHS404H/3HBEC404H/3HBSO404H"
+    },
+    "Bachelor's in Arts(Economics) 5": {
+        "1": "3HBEN505H",
+        "2": "3HBEN506H",
+        "3": "3HBEN507H",
+        "4": "3HBEN508H",
+        "5": "3HBEN509H"
+    },
+    "Bachelor's in Arts(Economics) 6": {
+        "1": "3HBEN606H",
+        "2": "3HBEN607H",
+        "3": "3HBEN608H",
+        "4": "3HBEN609H",
+        "5": "3HBEN610H"
+    },
+    "Bachelor's in Arts(Geography) 1": {
+        "1": "3HBHL101H",
+        "2": "3CBCA201H",
+        "3": "3HBEN101H",
+        "4": "3HBEN102H",
+        "5": "3HBPS101H/3HBHY101H/3HBHS101H/3HBEC101H3HBSO101H"
+    },
+    "Bachelor's in Arts(Geography) 2": {
+        "1": "3HBEL201H",
+        "2": "3MBFE101H",
+        "3": "3HBEN202H",
+        "4": "3HBEN203H",
+        "5": "3HBPS202H/3HBHY202H/3HBHS202H/3HBEC202H/3HBSO202H"
+    },
+    "Bachelor's in Arts(Geography) 3": {
+        "1": "3HBHL302H",
+        "2": "3CBCA502H",
+        "3": "3HBEN303H",
+        "4": "3HBEN304H",
+        "5": "3HBPS303H/3HBHY303H/3HBHS303H/3HBEC303H/3HBSO303H"
+    },
+    "Bachelor's in Arts(Geography) 4": {
+        "1": "3HBEL402H",
+        "2": "3HBHP401H",
+        "3": "3HBEN404H",
+        "4": "3HBEN405H",
+        "5": "3HBPS404H/3HBHY404H/3HBHS404H/3HBEC404H/3HBSO404H"
+    },
+    "Bachelor's in Arts(Geography) 5": {
+        "1": "3HBEN505H",
+        "2": "3HBEN506H",
+        "3": "3HBEN507H",
+        "4": "3HBEN508H",
+        "5": "3HBEN509H"
+    },
+    "Bachelor's in Arts(Geography) 6": {
+        "1": "3HBEN606H",
+        "2": "3HBEN607H",
+        "3": "3HBEN608H",
+        "4": "3HBEN609H",
+        "5": "3HBEN610H"
+    },
+    "Bachelor's in Arts(Hindi) 1": {
+        "1": "3HBHL101H",
+        "2": "3CBCA201H",
+        "3": "3HBEN101H",
+        "4": "3HBEN102H",
+        "5": "3HBPS101H/3HBHY101H/3HBHS101H/3HBEC101H3HBSO101H"
+    },
+    "Bachelor's in Arts(Hindi) 2": {
+        "1": "3HBEL201H",
+        "2": "3MBFE101H",
+        "3": "3HBEN202H",
+        "4": "3HBEN203H",
+        "5": "3HBPS202H/3HBHY202H/3HBHS202H/3HBEC202H/3HBSO202H"
+    },
+    "Bachelor's in Arts(Hindi) 3": {
+        "1": "3HBHL302H",
+        "2": "3CBCA502H",
+        "3": "3HBEN303H",
+        "4": "3HBEN304H",
+        "5": "3HBPS303H/3HBHY303H/3HBHS303H/3HBEC303H/3HBSO303H"
+    },
+    "Bachelor's in Arts(Hindi) 4": {
+        "1": "3HBEL402H",
+        "2": "3HBHP401H",
+        "3": "3HBEN404H",
+        "4": "3HBEN405H",
+        "5": "3HBPS404H/3HBHY404H/3HBHS404H/3HBEC404H/3HBSO404H"
+    },
+    "Bachelor's in Arts(Hindi) 5": {
+        "1": "3HBEL505H",
+        "2": "3HBHP506H",
+        "3": "3HBHS507H",
+        "4": "3HBHS508H",
+        "5": "3HBHS509H"
+    },
+    "Bachelor's in Arts(Hindi) 6": {
+        "1": "3HBHS606H",
+        "2": "3HBHS607H",
+        "3": "3HBHS608H",
+        "4": "3HBHS609H",
+        "5": "3HBHS610H"
+    },
+    "Bachelor's in Arts(History) 1": {
+        "1": "3HBHL101H",
+        "2": "3CBCA201H",
+        "3": "3HBEN101H",
+        "4": "3HBEN102H",
+        "5": "3HBPS101H/3HBHY101H/3HBHS101H/3HBEC101H3HBSO101H"
+    },
+    "Bachelor's in Arts(History) 2": {
+        "1": "3HBEL201H",
+        "2": "3MBFE101H",
+        "3": "3HBEN202H",
+        "4": "3HBEN203H",
+        "5": "3HBPS202H/3HBHY202H/3HBHS202H/3HBEC202H/3HBSO202H"
+    },
+    "Bachelor's in Arts(History) 3": {
+        "1": "3HBHL302H",
+        "2": "3CBCA502H",
+        "3": "3HBEN303H",
+        "4": "3HBEN304H",
+        "5": "3HBPS303H/3HBHY303H/3HBHS303H/3HBEC303H/3HBSO303H"
+    },
+    "Bachelor's in Arts(History) 4": {
+        "1": "3HBEL402H",
+        "2": "3HBHP401H",
+        "3": "3HBEN404H",
+        "4": "3HBEN405H",
+        "5": "3HBPS404H/3HBHY404H/3HBHS404H/3HBEC404H/3HBSO404H"
+    },
+    "Bachelor's in Arts(History) 5": {
+        "1": "3HBHY505H",
+        "2": "3HBHY506H",
+        "3": "3HBHY507H",
+        "4": "3HBHY508H",
+        "5": "3HBHY509H"
+    },
+    "Bachelor's in Arts(History) 6": {
+        "1": "3HBHY606H",
+        "2": "3HBHY607H",
+        "3": "3HBHY608H",
+        "4": "3HBHY609H",
+        "5": "3HBHY610H"
+    },
+    "Bachelor's in Arts(Sociology) 1": {
+        "1": "3HBHL101H",
+        "2": "3CBCA201H",
+        "3": "3HBEN101H",
+        "4": "3HBEN102H",
+        "5": "3HBPS101H/3HBHY101H/3HBEN101H/3HBHS101H/3HBEC101H"
+    },
+    "Bachelor's in Arts(Sociology) 2": {
+        "1": "3HBEL201H",
+        "2": "3MBFE101H",
+        "3": "3HBEN202H",
+        "4": "3HBEN203H",
+        "5": "3HBPS202H/3HBHY202H/3HBHS202H/3HBEC202H/3HBSO202H"
+    },
+    "Bachelor's in Arts(Sociology) 3": {
+        "1": "3HBHL302H",
+        "2": "3CBCA502H",
+        "3": "3HBEN303H",
+        "4": "3HBEN304H",
+        "5": "3HBPS303H/3HBHY303H/3HBHS303H/3HBEC303H/HBSO303H"
+    },
+    "Bachelor's in Arts(Sociology) 4": {
+        "1": "3HBEL402H",
+        "2": "3HBHP401H",
+        "3": "3HBSO404H",
+        "4": "3HBSO405H",
+        "5": "3HBPS404H/3HBHY404H/3HBEN404H/3HBHS404H/3HBEC404H"
+    },
+    "Bachelor's in Arts(Sociology) 5": {
+        "1": "3HBSO505H",
+        "2": "3HBSO506H",
+        "3": "3HBSO507H",
+        "4": "3HBSO508H",
+        "5": "3HBSO509H"
+    },
+    "Bachelor's in Arts(Sociology) 6": {
+        "1": "3HBSO606H",
+        "2": "3HBSO607H",
+        "3": "3HBSO608H",
+        "4": "3HBSO609H",
+        "5": "3HBSO610H"
+    },
+
+    "Bachelor's in Arts(Political Science) 1": {
+        "1": "3HBHL101H",
+        "2": "3CBCA201H",
+        "3": "3HBPS101H",
+        "4": "3HBPS102H",
+        "5": "3HBHY101/3HBEN101/3HBH101/3HBEC101/3HBSO101"
+    },
+    "Bachelor's in Arts(Political Science) 2": {
+        "1": "3HBEL201H",
+        "2": "3MBFE101H",
+        "3": "3HBPS202H",
+        "4": "3HBPS203H",
+        "5": "3HBHY202/3HBEN202/3HBHS202/3HBEC202/3HBSO202"
+    },
+    "Bachelor's in Arts(Political Science) 3": {
+        "1": "3HBHL302H",
+        "2": "3CBCA502H",
+        "3": "3HBPS303H",
+        "4": "3HBPS304H",
+        "5": "3HBHY303/3HBEN303/3HBHS303/3HBEC303/3HBSO303"
+    },
+    "Bachelor's in Arts(Political Science) 4": {
+        "1": "3HBEL402H",
+        "2": "3HBHP401H",
+        "3": "3HBPS404H",
+        "4": "3HBPS405H",
+        "5": "3HBHY404/3HBEN404/3HBHS404/3HBEC404/3HBSO404"
+    },
+    "Bachelor's in Arts(Political Science) 5": {
+        "1": "3HBPS505H",
+        "2": "3HBPS506H",
+        "3": "3HBPS507H",
+        "4": "3HBPS508H",
+        "5": "3HBPS509H"
+    },
+    "Bachelor's in Arts(Political Science) 6": {
+        "1": "3HBPS606H",
+        "2": "3HBPS607H",
+        "3": "3HBPS608H",
+        "4": "3HBPS609H",
+        "5": "3HBPS610H"
+    },
+    "Masters in Education 1": {
+        "1": "HMED101",
+        "2": "HMED102",
+        "3": "HMED103",
+        "4": "HMED104",
+        "5": "*"
+    },
+    "Masters in Education 2": {
+        "1": "HMED201",
+        "2": "HMED202",
+        "3": "HMED203",
+        "4": "HMED204",
+        "5": "*"
+    },
+    "Masters in Education 3": {
+        "1": "HMED301",
+        "2": "HMED302",
+        "3": "***",
+        "4": "HMED303",
+        "5": "*"
+    },
+    "Masters in Education 4": {
+        "1": "HMED401",
+        "2": "HMED402",
+        "3": "HMED403",
+        "4": "HMED404",
+        "5": "*"
+    },
+    "Masters in Education 5": {
+        "1": "*",
+        "2": "*",
+        "3": "*",
+        "4": "*",
+        "5": "*"
+    },
+    "Masters in Education 6": {
+        "1": "*",
+        "2": "*",
+        "3": "*",
+        "4": "*",
+        "5": "*"
+    },
+    "Masters in Economics 1": {
+        "1": "6HMEC101",
+        "2": "6HMEC102",
+        "3": "6HMEC103",
+        "4": "6HMEC104",
+        "5": "6HMEC105"
+    },
+    "Masters in Economics 2": {
+        "1": "6HMEC201",
+        "2": "6HMEC202",
+        "3": "6HMEC203",
+        "4": "6HMEC204",
+        "5": "6HMEC205"
+    },
+    "Masters in Economics 3": {
+        "1": "6HMEC301",
+        "2": "6HMEC302",
+        "3": "6HMEC303",
+        "4": "*",
+        "5": "*"
+    },
+    "Masters in Economics 4": {
+        "1": "6HMEC401",
+        "2": "6HMEC402",
+        "3": "*",
+        "4": "*",
+        "5": "*"
+    },
+
+    "Masters in Psychology 1": {
+        "1": "PSYF01",
+        "2": "PSYC02",
+        "3": "PSYC03",
+        "4": "PSYC/P04",
+        "5": "*"
+    },
+    "Masters in Psychology 2": {
+        "1": "PSYS05A/PSYS05B",
+        "2": "PSYC06",
+        "3": "PSYC07",
+        "4": "PSYC/P08",
+        "5": "*"
+    },
+    "Masters in Psychology 3": {
+        "1": "PSYA09",
+        "2": "PSYC10",
+        "3": "PSYC11",
+        "4": "PSYC/P012",
+        "5": "*"
+    },
+    "Masters in Psychology 4": {
+        "1": "PSYE13",
+        "2": "PSYE14",
+        "3": "PSYE15",
+        "4": "PSYD16",
+        "5": "*"
+    },
+    "Masters in Social Work 1": {
+        "1": "6HMSO101",
+        "2": "6HMSO102",
+        "3": "6HMSO103",
+        "4": "6HMSO104",
+        "5": "6HMSO105"
+    },
+    "Masters in Social Work 2": {
+        "1": "6HMSO201",
+        "2": "6HMSO202",
+        "3": "6HMSO203",
+        "4": "6HMSO204",
+        "5": "6HMSO205"
+    },
+    "Masters in Social Work 3": {
+        "1": "6HMSO301",
+        "2": "6HMSO302",
+        "3": "6HMSO303",
+        "4": "*",
+        "5": "*"
+    },
+    "Masters in Social Work 4": {
+        "1": "6HMSO401",
+        "2": "6HMSO402",
+        "3": "*",
+        "4": "*",
+        "5": "*"
+    },
+    "Masters in Social Work 5": {
+        "1": "*",
+        "2": "*",
+        "3": "*",
+        "4": "*",
+        "5": "*"
+    },
+    "Masters in Social Work 6": {
+        "1": "*",
+        "2": "*",
+        "3": "*",
+        "4": "*",
+        "5": "*"
+    },
+    "Masters in Sociology 1": {
+        "1": "6HMSO101",
+        "2": "6HMSO102",
+        "3": "6HMSO103",
+        "4": "6HMSO104",
+        "5": "6HMSO105"
+    },
+    "Masters in Sociology 2": {
+        "1": "6HMSO201",
+        "2": "6HMSO202",
+        "3": "6HMSO203",
+        "4": "6HMSO204",
+        "5": "6HMSO205"
+    },
+    "Masters in Sociology 3": {
+        "1": "6HMSO301",
+        "2": "6HMSO302",
+        "3": "6HMSO303",
+        "4": "*",
+        "5": "*"
+    },
+    "Masters in Sociology 4": {
+        "1": "6HMSO401",
+        "2": "6HMSO402",
+        "3": "*",
+        "4": "*",
+        "5": "*"
+    },
+    "Masters in Sociology 5": {
+        "1": "*",
+        "2": "*",
+        "3": "*",
+        "4": "*",
+        "5": "*"
+    },
+    "Masters in Sociology 6": {
+        "1": "*",
+        "2": "*",
+        "3": "*",
+        "4": "*",
+        "5": "*"
+    },
+    "Masters in History 1": {
+        "1": "6HMHY101",
+        "2": "6HMHY102",
+        "3": "6HMHY103",
+        "4": "6HMHY104",
+        "5": "6HMHY105"
+    },
+    "Masters in History 2": {
+        "1": "6HMHY201",
+        "2": "6HMHY202",
+        "3": "6HMHY203",
+        "4": "6HMHY204",
+        "5": "6HMHY205"
+    },
+    "Masters in History 3": {
+        "1": "6HMHY301",
+        "2": "6HMHY302",
+        "3": "6HMHY303",
+        "4": "*",
+        "5": "*"
+    },
+    "Masters in History 4": {
+        "1": "6HMHY401",
+        "2": "6HMHY402",
+        "3": "*",
+        "4": "*",
+        "5": "*"
+    },
+    "Masters in History 5": {
+        "1": "*",
+        "2": "*",
+        "3": "*",
+        "4": "*",
+        "5": "*"
+    },
+    "Masters in History 6": {
+        "1": "*",
+        "2": "*",
+        "3": "*",
+        "4": "*",
+        "5": "*"
+    },
+    "Masters in Political Science 1": {
+        "1": "6HMPS101",
+        "2": "6HMPS102",
+        "3": "6HMPS103",
+        "4": "6HMPS104",
+        "5": "6HMPS105"
+    },
+    "Masters in Political Science 2": {
+        "1": "6HMPS201",
+        "2": "6HMPS202",
+        "3": "6HMPS203",
+        "4": "6HMPS204",
+        "5": "6HMPS205"
+    },
+    "Masters in Political Science 3": {
+        "1": "6HMPS301",
+        "2": "6HMPS302",
+        "3": "6HMPS303",
+        "4": "*",
+        "5": "*"
+    },
+    "Masters in Political Science 4": {
+        "1": "6HMPS401",
+        "2": "6HMPS402",
+        "3": "*",
+        "4": "*",
+        "5": "*"
+    },
+    "Masters in Political Science 5": {
+        "1": "*",
+        "2": "*",
+        "3": "*",
+        "4": "*",
+        "5": "*"
+    },
+    "Masters in Political Science 6": {
+        "1": "*",
+        "2": "*",
+        "3": "*",
+        "4": "*",
+        "5": "*"
+    },
+    "Masters in Hindi 1": {
+        "1": "6HMHL101",
+        "2": "6HMHL102",
+        "3": "6HMHL103",
+        "4": "6HMHL104",
+        "5": "6HMHL105"
+    },
+    "Masters in Hindi 2": {
+        "1": "6HMHL201",
+        "2": "6HMHL202",
+        "3": "6HMHL203",
+        "4": "6HMHL204",
+        "5": "6HMHL205"
+    },
+    "Masters in Hindi 3": {
+        "1": "6HMHL301",
+        "2": "6HMHL302",
+        "3": "6HMHL303",
+        "4": "*",
+        "5": "*"
+    },
+    "Masters in Hindi 4": {
+        "1": "6HMHL401",
+        "2": "6HMHL402",
+        "3": "*",
+        "4": "*",
+        "5": "*"
+    },
+    "Masters in Hindi 5": {
+        "1": "*",
+        "2": "*",
+        "3": "*",
+        "4": "*",
+        "5": "*"
+    },
+    "Masters in Hindi 6": {
+        "1": "*",
+        "2": "*",
+        "3": "*",
+        "4": "*",
+        "5": "*"
+    },
+    "Masters in English 1": {
+        "1": "6HMEN101",
+        "2": "6HMEN102",
+        "3": "6HMEN103",
+        "4": "6HMEN104",
+        "5": "6HMEN105"
+    },
+    "Masters in English 2": {
+        "1": "6HMEN201",
+        "2": "6HMEN202",
+        "3": "6HMEN203",
+        "4": "6HMEN204",
+        "5": "6HMEN205"
+    },
+    "Masters in English 3": {
+        "1": "6HMEN301",
+        "2": "6HMEN302",
+        "3": "6HMEN303",
+        "4": "*",
+        "5": "*"
+    },
+    "Masters in English 4": {
+        "1": "6HMEN401",
+        "2": "6HMEN402",
+        "3": "*",
+        "4": "*",
+        "5": "*"
+    },
+    "Masters in English 5": {
+        "1": "*",
+        "2": "*",
+        "3": "*",
+        "4": "*",
+        "5": "*"
+    },
+    "Masters in English 6": {
+        "1": "*",
+        "2": "*",
+        "3": "*",
+        "4": "*",
+        "5": "*"
+    },
+    "Masters in Geography 1": {
+        "1": "HMGE101",
+        "2": "HMGE102",
+        "3": "HMGE103",
+        "4": "*",
+        "5": "*"
+    },
+    "Masters in Geography 2": {
+        "1": "HMGE201",
+        "2": "HMGE202",
+        "3": "HMGE203",
+        "4": "SMGT802",
+        "5": "*"
+    },
+    "Masters in Geography 3": {
+        "1": "HMGE301",
+        "2": "HMGE302",
+        "3": "HMGE303",
+        "4": "SCIT201",
+        "5": "*"
+    },
+    "Masters in Geography 4": {
+        "1": "HMGE401",
+        "2": "HMGE402",
+        "3": "HMGE403",
+        "4": "*",
+        "5": "*"
+    },
+    "Masters in Geography 5": {
+        "1": "*",
+        "2": "*",
+        "3": "*",
+        "4": "*",
+        "5": "*"
+    },
+    "Masters in Geography 6": {
+        "1": "*",
+        "2": "*",
+        "3": "*",
+        "4": "*",
+        "5": "*"
+    },
+    "Masters in BA-Executive 1": {
+        "1": "EMBA101",
+        "2": "EMBA102",
+        "3": "EMBA103",
+        "4": "EMBA104",
+        "5": "EMBA105",
+        "6": "EMBA106",
+        "7": "EMBA107",
+        "8": "EMBA108"
+    },
+    "Masters in BA-Executive 2": {
+        "1": "EMBA201",
+        "2": "EMBA202",
+        "3": "#",
+        "4": "#",
+        "5": "#",
+        "6": "#",
+        "7": "#",
+        "8": "#"
+    },
+    "Masters in BA-Executive 3": {
+        "1": "*",
+        "2": "*",
+        "3": "*",
+        "4": "*",
+        "5": "*",
+        "6": "*",
+        "7": "*",
+        "8": "*"
+    },
+    "Masters in BA-Executive 4": {
+        "1": "*",
+        "2": "*",
+        "3": "*",
+        "4": "*",
+        "5": "*",
+        "6": "*",
+        "7": "*",
+        "8": "*"
+    },
+    "Masters in BA-Executive 5": {
+        "1": "*",
+        "2": "*",
+        "3": "*",
+        "4": "*",
+        "5": "*",
+        "6": "*",
+        "7": "*",
+        "8": "*"
+    },
+    "Masters in BA-Executive 6": {
+        "1": "*",
+        "2": "*",
+        "3": "*",
+        "4": "*",
+        "5": "*",
+        "6": "*",
+        "7": "*",
+        "8": "*"
+    },
+    "Masters in Business Administration 1": {
+        "1": "6MMBA101",
+        "2": "6MMBA102",
+        "3": "6MMBA103",
+        "4": "6MMBA104",
+        "5": "6MMBA105",
+        "6": "6MMBA106",
+        "7": "6MMBA107",
+        "8": "6MMBA108"
+    },
+    "Masters in Business Administration 2": {
+        "1": "6MMBA201",
+        "2": "6MMBA202",
+        "3": "6MMBA203",
+        "4": "6MMBA204",
+        "5": "6MMBA205",
+        "6": "6MMBA206",
+        "7": "6MMBA207",
+        "8": "6MMBA208"
+    },
+    "Masters in Business Administration 3": {
+        "1": "6MMBA301",
+        "2": "#",
+        "3": "#",
+        "4": "#",
+        "5": "#",
+        "6": "#",
+        "7": "#",
+        "8": "#"
+    },
+    "Masters in Business Administration 4": {
+        "1": "6MMBA401",
+        "2": "#",
+        "3": "#",
+        "4": "#",
+        "5": "#",
+        "6": "#",
+        "7": "#",
+        "8": "#"
+    },
+    "Masters in Business Administration 5": {
+        "1": "*",
+        "2": "*",
+        "3": "*",
+        "4": "*",
+        "5": "*",
+        "6": "*",
+        "7": "*",
+        "8": "*"
+    },
+    "Masters in Business Administration 6": {
+        "1": "*",
+        "2": "*",
+        "3": "*",
+        "4": "*",
+        "5": "*",
+        "6": "*",
+        "7": "*",
+        "8": "*"
+    },
+    "Bachelor's in Business Administration 1": {
+        "1": "3MBFE101",
+        "2": "3MBBA102",
+        "3": "3MBBA103",
+        "4": "3MBBA104",
+        "5": "3MBBA105"
+    },
+    "Bachelor's in Business Administration 2": {
+        "1": "3HBHL101",
+        "2": "3MBBA202",
+        "3": "3MBBA203",
+        "4": "3MBBA204",
+        "5": "3MBBA205"
+    },
+    "Bachelor's in Business Administration 3": {
+        "1": "3HBEL402",
+        "2": "3MBBA302",
+        "3": "3MBBA303",
+        "4": "3MBBA304",
+        "5": "3MBBA305"
+    },
+    "Bachelor's in Business Administration 4": {
+        "1": "3HBEL501",
+        "2": "3MBBA402",
+        "3": "3MBBA403",
+        "4": "3MBBA404",
+        "5": "3MBBA405"
+    },
+    "Bachelor's in Business Administration 5": {
+        "1": "3HBHP401",
+        "2": "3MBBA502",
+        "3": "3MBBA503",
+        "4": "#",
+        "5": "#"
+    },
+    "Bachelor's in Business Administration 6": {
+        "1": "3HBHP601",
+        "2": "3MBBA602",
+        "3": "#",
+        "4": "#",
+        "5": "#"
+    },
+    "PGDRD 1": {
+        "1": "MPGDRD101",
+        "2": "MPGDRD102",
+        "3": "MPGDRD103",
+        "4": "*",
+        "5": "*"
+    },
+    "PGDRD 2": {
+        "1": "MPGDRD201",
+        "2": "MPGDRD202",
+        "3": "MPGDRD203",
+        "4": "*",
+        "5": "*"
+    },
+    "PGDRD 3": {
+        "1": "*",
+        "2": "*",
+        "3": "*",
+        "4": "*",
+        "5": "*"
+    },
+    "PGDRD 4": {
+        "1": "*",
+        "2": "*",
+        "3": "*",
+        "4": "*",
+        "5": "*"
+    },
+    "PGDRD 5": {
+        "1": "*",
+        "2": "*",
+        "3": "*",
+        "4": "*",
+        "5": "*"
+    },
+    "PGDRD 6": {
+        "1": "*",
+        "2": "*",
+        "3": "*",
+        "4": "*",
+        "5": "*"
+    },
+    "Masters in Journalism & Mass Communication 1": {
+        "1": "MJMC01",
+        "2": "MJMC02",
+        "3": "MJMC03",
+        "4": "MJMC04",
+        "5": "*"
+    },
+    "Masters in Journalism & Mass Communication 2": {
+        "1": "MJMC-05",
+        "2": "MJMC-06",
+        "3": "MJMC-07",
+        "4": "MJMC-08",
+        "5": "*"
+    },
+    "Masters in Journalism & Mass Communication 3": {
+        "1": "*",
+        "2": "*",
+        "3": "*",
+        "4": "*",
+        "5": "*"
+    },
+    "Masters in Journalism & Mass Communication 4": {
+        "1": "*",
+        "2": "*",
+        "3": "*",
+        "4": "*",
+        "5": "*"
+    },
+    "Masters in Journalism & Mass Communication 5": {
+        "1": "*",
+        "2": "*",
+        "3": "*",
+        "4": "*",
+        "5": "*"
+    },
+    "Masters in Journalism & Mass Communication 6": {
+        "1": "*",
+        "2": "*",
+        "3": "*",
+        "4": "*",
+        "5": "*"
+    },
+    "Bachelor's in Computer Application 1": {
+        "1": "3MBFE101",
+        "2": "3IBCA101",
+        "3": "3IBCA102",
+        "4": "3IBCA103",
+        "5": "3IBDM101"
+    },
+    "Bachelor's in Computer Application 2": {
+        "1": "3HBHL101",
+        "2": "3IBEC201",
+        "3": "3IBCA201",
+        "4": "3IBCA202",
+        "5": "3IBCA203"
+    },
+    "Bachelor's in Computer Application 3": {
+        "1": "3HBEL401",
+        "2": "3IBCA301",
+        "3": "3IBCA302",
+        "4": "3IBCA303",
+        "5": "3IBCA304"
+    },
+    "Bachelor's in Computer Application 4": {
+        "1": "3HBEL501",
+        "2": "3IBCA401",
+        "3": "3IBCA402",
+        "4": "3IBCA403",
+        "5": "3IBCA404"
+    },
+    "Bachelor's in Computer Application 5": {
+        "1": "3HBHP401",
+        "2": "3IBCA501",
+        "3": "3IBCA502",
+        "4": "3IBCA503",
+        "5": "3IBCA504"
+    },
+    "Bachelor's in Computer Application 6": {
+        "1": "3IBCA601",
+        "2": "3IBCA602",
+        "3": "3IBCA603",
+        "4": "3IBCA604",
+        "5": "*"
+    },
+    "Masters in Computer Application 1": {
+        "1": "6IMCA101",
+        "2": "6IMCA102",
+        "3": "6IMCA103",
+        "4": "6IMCA104",
+        "5": "6IMCA105"
+    },
+    "Masters in Computer Application 2": {
+        "1": "6IMCA201",
+        "2": "6IMCA202",
+        "3": "6IMCA203",
+        "4": "6IMCA204",
+        "5": "6IMCA205"
+    },
+    "Masters in Computer Application 3": {
+        "1": "6IMCA301",
+        "2": "6IMCA302",
+        "3": "6IMCA303",
+        "4": "6IMCA304",
+        "5": "6IMCA305"
+    },
+    "Masters in Computer Application 4": {
+        "1": "6IMCA40",
+        "2": "6IMCA40",
+        "3": "6IMCA40",
+        "4": "6IMCA403",
+        "5": "6IMCA404"
+    },
+    "Masters in Computer Application 5": {
+        "1": "*",
+        "2": "*",
+        "3": "*",
+        "4": "*",
+        "5": "*"
+    },
+    "Masters in Computer Application 6": {
+        "1": "*",
+        "2": "*",
+        "3": "*",
+        "4": "*",
+        "5": "*"
+    },
+    "Bachelor's in Journalism & Mass Communication 1": {
+        "1": "MSBJMC101",
+        "2": "MSBJMC102",
+        "3": "MSBJMC103",
+        "4": "MSBJMC104",
+        "5": "*"
+    },
+    "Bachelor's in Journalism & Mass Communication 2": {
+        "1": "MSBJMC201",
+        "2": "MSBJMC202",
+        "3": "MSBJMC203",
+        "4": "MSBJMC204",
+        "5": "*"
+    },
+    "Bachelor's in Journalism & Mass Communication 3": {
+        "1": "*",
+        "2": "*",
+        "3": "*",
+        "4": "*",
+        "5": "*"
+    },
+    "Bachelor's in Journalism & Mass Communication 4": {
+        "1": "*",
+        "2": "*",
+        "3": "*",
+        "4": "*",
+        "5": "*"
+    },
+    "Bachelor's in Journalism & Mass Communication 5": {
+        "1": "*",
+        "2": "*",
+        "3": "*",
+        "4": "*",
+        "5": "*"
+    },
+    "Bachelor's in Journalism & Mass Communication 6": {
+        "1": "*",
+        "2": "*",
+        "3": "*",
+        "4": "*",
+        "5": "*"
+    },
+    "PGDCA 1": {
+        "1": "4TPDC-101",
+        "2": "4TPDC-102",
+        "3": "4TPDC-103",
+        "4": "4TPDC-104",
+        "5": "4TPDC-105"
+    },
+    "PGDCA 2": {
+        "1": "4TPDC-201",
+        "2": "4TPDC-202",
+        "3": "4TPDC-205",
+        "4": "4TPDC-203",
+        "5": "4TPDC-204"
+    },
+    "PGDCA 3": {
+        "1": "*",
+        "2": "*",
+        "3": "*",
+        "4": "*",
+        "5": "*"
+    },
+    "PGDCA 4": {
+        "1": "*",
+        "2": "*",
+        "3": "*",
+        "4": "*",
+        "5": "*"
+    },
+    "PGDCA 5": {
+        "1": "*",
+        "2": "*",
+        "3": "*",
+        "4": "*",
+        "5": "*"
+    },
+    "PGDCA 6": {
+        "1": "*",
+        "2": "*",
+        "3": "*",
+        "4": "*",
+        "5": "*"
+    },
+    "Masters in Performing Arts 1": {
+        "1": "6PAMVM101(T)",
+        "2": "6PAMVM102(T)",
+        "3": "6PAMVM103(T)",
+        "4": "*",
+        "5": "*"
+    },
+    "Masters in Performing Arts 2": {
+        "1": "6PAMVM201(T)",
+        "2": "6PAMVM202(T)",
+        "3": "6PAMVM203(T)",
+        "4": "*",
+        "5": "*"
+    },
+    "Masters in Performing Arts 3": {
+        "1": "6PAMVM301(T)",
+        "2": "6PAMVM302(T)",
+        "3": "6PAMVM303(T)",
+        "4": "*",
+        "5": "*"
+    },
+    "Masters in Performing Arts 4": {
+        "1": "6PAMVM401(T)",
+        "2": "6PAMVM402(T)",
+        "3": "6PAMVM403(T)",
+        "4": "*",
+        "5": "*"
+    },
+    "Masters in Performing Arts 5": {
+        "1": "*",
+        "2": "*",
+        "3": "*",
+        "4": "*",
+        "5": "*"
+    },
+    "Masters in Performing Arts 6": {
+        "1": "*",
+        "2": "*",
+        "3": "*",
+        "4": "*",
+        "5": "*"
+    },
+    "Bachelor's in Information Technology 1": {
+        "1": "3MBFE101",
+        "2": "3IBIT101",
+        "3": "3IBIT103",
+        "4": "3IBEC101",
+        "5": "3IBMA101"
+    },
+    "Bachelor's in Information Technology 2": {
+        "1": "3HBHL101",
+        "2": "3IBIT202",
+        "3": "3IBIT201",
+        "4": "3IBMA201",
+        "5": "3IBEC201"
+    },
+    "Bachelor's in Information Technology 3": {
+        "1": "3HBEL401",
+        "2": "3IBIT301",
+        "3": "3IBIT303",
+        "4": "3IBIT304",
+        "5": "3IBMA301"
+    },
+    "Bachelor's in Information Technology 4": {
+        "1": "3HBEL501",
+        "2": "3IBIT401",
+        "3": "3IBIT402",
+        "4": "3IBIT403",
+        "5": "3IBEC401"
+    },
+    "Bachelor's in Information Technology 5": {
+        "1": "3HBHP401",
+        "2": "3IBIT501",
+        "3": "3IBIT502",
+        "4": "3IBIT503",
+        "5": "3IBIT504"
+    },
+    "Bachelor's in Information Technology 6": {
+        "1": "3IBIT601",
+        "2": "3IBIT602",
+        "3": "3IBIT603",
+        "4": "3IBIT604",
+        "5": "*"
+    },
+    "Diploma in Information Technology 1": {
+        "1": "2TDCA101",
+        "2": "2TDCA102",
+        "3": "2TDCA103",
+        "4": "2TDCA104",
+        "5": "2TDCA105"
+    },
+    "Diploma in Information Technology 2": {
+        "1": "2TDCA201",
+        "2": "2TDCA202",
+        "3": "2TDCA203",
+        "4": "2TDCA204",
+        "5": "*"
+    },
+    "Diploma in Information Technology 3": {
+        "1": "*",
+        "2": "*",
+        "3": "*",
+        "4": "*",
+        "5": "*"
+    },
+    "Diploma in Information Technology 4": {
+        "1": "*",
+        "2": "*",
+        "3": "*",
+        "4": "*",
+        "5": "*"
+    },
+    "Diploma in Information Technology 5": {
+        "1": "*",
+        "2": "*",
+        "3": "*",
+        "4": "*",
+        "5": "*"
+    },
+    "Bachelor's in Fine Arts 1": {
+        "1": "3HBHL101H",
+        "2": "3FABVA101(T)",
+        "3": "3FABVA102(T)",
+        "4": "3FABVA103(T)",
+        "5": "*"
+    },
+    "Bachelor's in Fine Arts 2": {
+        "1": "3CBCA201(T)",
+        "2": "3FABVA201(T)",
+        "3": "3FABVA202(T)",
+        "4": "3FABVA203(T)",
+        "5": "*"
+    },
+    "Bachelor's in Fine Arts 3": {
+        "1": "3HBEL201(T)",
+        "2": "3FABVA301(T)",
+        "3": "3FABVA302(T)",
+        "4": "3FABVA303(T)",
+        "5": "*"
+    },
+    "Bachelor's in Fine Arts 4": {
+        "1": "*",
+        "2": "*",
+        "3": "*",
+        "4": "*",
+        "5": "*"
+    },
+    "Bachelor's in Fine Arts 5": {
+        "1": "*",
+        "2": "*",
+        "3": "*",
+        "4": "*",
+        "5": "*"
+    },
+    "Masters in Information Technology 1": {
+        "1": "6IMIT101",
+        "2": "6IMIT102",
+        "3": "6IMIT103",
+        "4": "6IMIT104",
+        "5": "*"
+    },
+    "Masters in Information Technology 2": {
+        "1": "6IMIT201",
+        "2": "6IMIT202",
+        "3": "6IMIT203",
+        "4": "6IMIT204",
+        "5": "*"
+    },
+    "Masters in Information Technology 3": {
+        "1": "6IMIT301",
+        "2": "6IMIT302",
+        "3": "6IMIT303",
+        "4": "6IMIT304",
+        "5": "*"
+    },
+    "Masters in Information Technology 4": {
+        "1": "6IMIT401",
+        "2": "6IMIT402",
+        "3": "6IMMA401",
+        "4": "*",
+        "5": "*"
+    },
+    "Masters in Information Technology 5": {
+        "1": "*",
+        "2": "*",
+        "3": "*",
+        "4": "*",
+        "5": "*"
+    },
+    "Masters in Information Technology 6": {
+        "1": "*",
+        "2": "*",
+        "3": "*",
+        "4": "*",
+        "5": "*"
+    },
+    "Bachelor's in Performing Arts 1": {
+        "1": "3HBHL101H",
+        "2": "3PABVM101(T)",
+        "3": "3PABVM102(T)",
+        "4": "3PABVM103(T)",
+        "5": "*"
+    },
+    "Bachelor's in Performing Arts 2": {
+        "1": "3CBCA201(T)",
+        "2": "3PABVM201(T)",
+        "3": "3PABVM202(T)",
+        "4": "3PABVM203(T)",
+        "5": "*"
+    },
+    "Bachelor's in Performing Arts 3": {
+        "1": "3HBEL201(T)",
+        "2": "3PABVM301(T)",
+        "3": "3PABVM302(T)",
+        "4": "3PABVM303(T)",
+        "5": "*"
+    },
+    "Bachelor's in Performing Arts 4": {
+        "1": "3HBYO401(T)",
+        "2": "3PABVM401(T)",
+        "3": "3PABVM402(T)",
+        "4": "3PABVM403(T)",
+        "5": "*"
+    },
+    "Bachelor's in Performing Arts 5": {
+        "1": "3SBES501H(T)",
+        "2": "3PABVM501(T)",
+        "3": "3PABVM502(T)",
+        "4": "3PABVM503(T)",
+        "5": "*"
+    },
+    "Bachelor's in Performing Arts 6": {
+        "1": "3MBFE101(T)",
+        "2": "3PABVM601(T)",
+        "3": "3PABVM602(T)",
+        "4": "3PABVM603(T)",
+        "5": "*"
+    },
+    "Bachelor's in Performing Arts 7": {
+        "1": "3PABVM701(T)",
+        "2": "3PABVM702(T)",
+        "3": "*",
+        "4": "*",
+        "5": "*"
+    },
+    "Bachelor's in Performing Arts 8": {
+        "1": "3PABVM801(T)",
+        "2": "3PABVM802(T)",
+        "3": "*",
+        "4": "*",
+        "5": "*"
+    },
+    "Bachelor's in Psychology 1": {
+        "1": "3CBCA201",
+        "2": "3HBHL101",
+        "3": "3HBPSY101",
+        "4": "3HBPSY102",
+        "5": "3HBPSY103",
+        "6": "3HBPS101/3HBHY101/3HBEN101/3HBHS01/3HBEC101"
+    },
+    "Bachelor's in Psychology 2": {
+        "1": "3HBEL201",
+        "2": "3MBFE101",
+        "3": "3HBPSY201",
+        "4": "3HBPSY202",
+        "5": "3HBPSY203",
+        "6": "3HBPS202/3HBHY202/3HBEN202/3HBHS202/3HBEC202"
+    },
+    "Bachelor's in Psychology 3": {
+        "1": "3HBHL302H",
+        "2": "3CBCA502H",
+        "3": "3HBPSY301",
+        "4": "3HBPSY302",
+        "5": "3HBPSY303",
+        "6": "3HBPS303H/3HBGG303H/3HBHT303H/3HBEC303H"
+    },
+    "Bachelor's in Psychology 4": {
+        "1": "3HBSO303H",
+        "2": "3MBFE401",
+        "3": "3HBPSY401",
+        "4": "3HBPSY402",
+        "5": "3HBPSY403",
+        "6": "*"
+    },
+    "Bachelor's in Psychology 5": {
+        "1": "3HBPSY501",
+        "2": "3HBPSY502",
+        "3": "3HBPSY503",
+        "4": "3HBPSY504",
+        "5": "*",
+        "6": "*"
+    },
+    "Bachelor's in Psychology 6": {
+        "1": "3HBPSY601",
+        "2": "3HBPSY602",
+        "3": "3HBPSY603",
+        "4": "3HBPSY604",
+        "5": "*",
+        "6": "*"
+    },
+    "Bachelor's in Botany 1": {
+        "1": "3HBHL101H",
+        "2": "3CBCA201H",
+        "3": "3SBBO103H",
+        "4": "3SBBO106H",
+        "5": "*"
+    },
+    "Bachelor's in Botany 2": {
+        "1": "3HBEL201H",
+        "2": "3MBFE101H",
+        "3": "3SBBO203H",
+        "4": "3SBBO206H",
+        "5": "*"
+    },
+    "Bachelor's in Botany 3": {
+        "1": "3HBHL302H",
+        "2": "3CBCA502H",
+        "3": "3SBBO303H",
+        "4": "3SBBO306H",
+        "5": "*"
+    },
+    "Bachelor's in Botany 4": {
+        "1": "3HBEL402H",
+        "2": "3HBHP401H",
+        "3": "3SBBO403H",
+        "4": "3SBBO406H",
+        "5": "*"
+    },
+    "Bachelor's in Botany 5": {
+        "1": "*",
+        "2": "*",
+        "3": "*",
+        "4": "*",
+        "5": "*"
+    },
+    "Bachelor's in Botany 6": {
+        "1": "*",
+        "2": "*",
+        "3": "*",
+        "4": "*",
+        "5": "*"
+    },
+    "Bachelor's in Mathematics 1": {
+        "1": "3HBHL101H",
+        "2": "3CBCA201H",
+        "3": "3SBMA105H",
+        "4": "3SBMA106H",
+        "5": "*"
+    },
+    "Bachelor's in Mathematics 2": {
+        "1": "3HBEL201H",
+        "2": "3MBFE101H",
+        "3": "3SBMA205H",
+        "4": "3SBMA206H",
+        "5": "*"
+    },
+    "Bachelor's in Mathematics 3": {
+        "1": "3HBHL302H",
+        "2": "3CBCA502H",
+        "3": "3SBMA305H",
+        "4": "3SBMA306H",
+        "5": "*"
+    },
+    "Bachelor's in Mathematics 4": {
+        "1": "3HBEL402H",
+        "2": "3HBHP401H",
+        "3": "3SBMA405H",
+        "4": "3SBMA406H",
+        "5": "*"
+    },
+    "Bachelor's in Mathematics 5": {
+        "1": "3SBPH501H",
+        "2": "3SBPH502H",
+        "3": "3SBPH503H",
+        "4": "**",
+        "5": "***"
+    },
+    "Bachelor's in Mathematics 6": {
+        "1": "3SBPH601H",
+        "2": "3SBPH602H",
+        "3": "3SBPH603H",
+        "4": "**",
+        "5": "***"
+    },
+    "Bachelor's in Chemistry 1": {
+        "1": "3HBHL101H",
+        "2": "3CBCA201H",
+        "3": "3SBCH104H",
+        "4": "3SBCH106H",
+        "5": "*"
+    },
+    "Bachelor's in Chemistry 2": {
+        "1": "3HBEL201H",
+        "2": "3MBFE101H",
+        "3": "3SBCH204H",
+        "4": "3SBCH206H",
+        "5": "*"
+    },
+    "Bachelor's in Chemistry 3": {
+        "1": "3HBHL302H",
+        "2": "3CBCA502H",
+        "3": "3SBCH304H",
+        "4": "3SBCH306H",
+        "5": "*"
+    },
+    "Bachelor's in Chemistry 4": {
+        "1": "3HBEL402H",
+        "2": "3HBHP401H",
+        "3": "3SBCH404H",
+        "4": "3SBCH406H",
+        "5": "*"
+    },
+    "Bachelor's in Chemistry 5": {
+        "1": "3SBCH501H",
+        "2": "3SBCH502H",
+        "3": "3SBCH503H",
+        "4": "*",
+        "5": "*"
+    },
+    "Bachelor's in Chemistry 6": {
+        "1": "3SBCH601H",
+        "2": "3SBCH602H",
+        "3": "3SBCH603H",
+        "4": "*",
+        "5": "*"
+    },
+    "Bachelor's in Zoology 1": {
+        "1": "3HBHL101H",
+        "2": "3CBCA201H",
+        "3": "3SBZO105H",
+        "4": "3SBZO106H",
+        "5": "*"
+    },
+    "Bachelor's in Zoology 2": {
+        "1": "3HBEL201H",
+        "2": "3MBFE101H",
+        "3": "3SBZO205H",
+        "4": "3SBZO206H",
+        "5": "*"
+    },
+    "Bachelor's in Zoology 3": {
+        "1": "3HBHL302H",
+        "2": "3CBCA502H",
+        "3": "3SBZO305H",
+        "4": "3SBZO306H",
+        "5": "*"
+    },
+    "Bachelor's in Zoology 4": {
+        "1": "3HBEL402H",
+        "2": "3HBHP401H",
+        "3": "3SBZO405H",
+        "4": "3SBZO406H",
+        "5": "*"
+    },
+    "Bachelor's in Zoology 5": {
+        "1": "3SBZO501H",
+        "2": "3SBZO502H",
+        "3": "3SBZO503H",
+        "4": "3SBZO504H",
+        "5": "3SBZO505H"
+    },
+    "Bachelor's in Zoology 6": {
+        "1": "3SBZO601H",
+        "2": "3SBZO602H",
+        "3": "3SBZO603H",
+        "4": "3SBZO604H",
+        "5": "3SBZO605H"
+    },
+    "Bachelor's in Physics 1": {
+        "1": "3HBHL101H",
+        "2": "3CBCA201H",
+        "3": "3SBPH103H",
+        "4": "3SBPH106H",
+        "5": "*"
+    },
+    "Bachelor's in Physics 2": {
+        "1": "3HBEL201H",
+        "2": "3MBFE101H",
+        "3": "3SBPH203H",
+        "4": "3SBPH206H",
+        "5": "*"
+    },
+    "Bachelor's in Physics 3": {
+        "1": "3HBHL302H",
+        "2": "3CBCA502H",
+        "3": "3SBPH303H",
+        "4": "3SBPH306H",
+        "5": "*"
+    },
+    "Bachelor's in Physics 4": {
+        "1": "3HBEL402H",
+        "2": "3HBHP401H",
+        "3": "3SBPH403H",
+        "4": "3SBPH406H",
+        "5": "*"
+    },
+    "Bachelor's in Physics 5": {
+        "1": "3SBPH501H",
+        "2": "3SBPH502H",
+        "3": "3SBPH503H",
+        "4": "**",
+        "5": "***"
+    },
+    "Bachelor's in Physics 6": {
+        "1": "3SBPH601H",
+        "2": "3SBPH602H",
+        "3": "3SBPH603H",
+        "4": "**",
+        "5": "***"
+    },
+    "Masters in Botany 1": {
+        "1": "6SMBO101",
+        "2": "6SMBO102",
+        "3": "6SMBO103",
+        "4": "6SMBO104",
+        "5": "*"
+    },
+    "Masters in Botany 2": {
+        "1": "6SMBO201",
+        "2": "6SMBO202",
+        "3": "6SMBO203",
+        "4": "6SMBO204",
+        "5": "*"
+    },
+    "Masters in Botany 3": {
+        "1": "6SMBO301",
+        "2": "6SMBO302",
+        "3": "****",
+        "4": "****",
+        "5": "*"
+    },
+    "Masters in Botany 4": {
+        "1": "*",
+        "2": "*",
+        "3": "*",
+        "4": "*",
+        "5": "*"
+    },
+    "Masters in Botany 5": {
+        "1": "*",
+        "2": "*",
+        "3": "*",
+        "4": "*",
+        "5": "*"
+    },
+    "Masters in Botany 6": {
+        "1": "*",
+        "2": "*",
+        "3": "*",
+        "4": "*",
+        "5": "*"
+    },
+    "Masters in Chemistry 1": {
+        "1": "6SMCH101",
+        "2": "6SMCH102",
+        "3": "6SMCH103",
+        "4": "6SMCH104",
+        "5": "*"
+    },
+    "Masters in Chemistry 2": {
+        "1": "6SMCH201",
+        "2": "6SMCH202",
+        "3": "6SMCH203",
+        "4": "6SMCH204",
+        "5": "*"
+    },
+    "Masters in Chemistry 3": {
+        "1": "6SMCH301",
+        "2": "6SMCH302",
+        "3": "****",
+        "4": "****",
+        "5": "*"
+    },
+    "Masters in Chemistry 4": {
+        "1": "*",
+        "2": "*",
+        "3": "*",
+        "4": "*",
+        "5": "*"
+    },
+    "Masters in Chemistry 5": {
+        "1": "*",
+        "2": "*",
+        "3": "*",
+        "4": "*",
+        "5": "*"
+    },
+    "Masters in Chemistry 6": {
+        "1": "*",
+        "2": "*",
+        "3": "*",
+        "4": "*",
+        "5": "*"
+    },
+    "Masters in Physics 1": {
+        "1": "6SMPH101",
+        "2": "6SMPH102",
+        "3": "6SMPH103",
+        "4": "6SMPH104",
+        "5": "*"
+    },
+    "Masters in Physics 2": {
+        "1": "6SMPH201",
+        "2": "6SMPH201",
+        "3": "6SMPH203",
+        "4": "6SMPH204",
+        "5": "*"
+    },
+    "Masters in Physics 3": {
+        "1": "6SMPH301",
+        "2": "6SMPH302",
+        "3": "****",
+        "4": "****",
+        "5": "*"
+    },
+    "Masters in Physics 4": {
+        "1": "*",
+        "2": "*",
+        "3": "*",
+        "4": "*",
+        "5": "*"
+    },
+    "Masters in Physics 5": {
+        "1": "*",
+        "2": "*",
+        "3": "*",
+        "4": "*",
+        "5": "*"
+    },
+    "Masters in Physics 6": {
+        "1": "*",
+        "2": "*",
+        "3": "*",
+        "4": "*",
+        "5": "*"
+    },
+    "Masters in Maths 1": {
+        "1": "6SMMA101",
+        "2": "6SMMA102",
+        "3": "6SMMA103",
+        "4": "6SMMA104",
+        "5": "6SMMA105"
+    },
+    "Masters in Maths 2": {
+        "1": "6SMMA201",
+        "2": "6SMMA202",
+        "3": "6SMMA203",
+        "4": "6SMMA204",
+        "5": "6SMMA205"
+    },
+    "Masters in Maths 3": {
+        "1": "6SMMA301",
+        "2": "6SMMA302",
+        "3": "6SMMA303",
+        "4": "****",
+        "5": "****"
+    },
+    "Masters in Maths 4": {
+        "1": "6SMMA401",
+        "2": "**",
+        "3": "**",
+        "4": "***",
+        "5": "**"
+    },
+    "Masters in Maths 5": {
+        "1": "*",
+        "2": "*",
+        "3": "*",
+        "4": "*",
+        "5": "*"
+    },
+    "Masters in Maths 6": {
+        "1": "*",
+        "2": "*",
+        "3": "*",
+        "4": "*",
+        "5": "*"
+    },
+    "Bachelor's in Agriculture 1": {
+        "1": "ABAG101",
+        "2": "ABSC101",
+        "3": "ABEN101",
+        "4": "ABAE101",
+        "5": "ABHO101",
+        "6": "ABEX101",
+        "7": "HBEN101",
+        "8": "ABPD101",
+        "9": "*",
+        "10": "*"
+    },
+    "Bachelor's in Agriculture 2": {
+        "1": "ABAG202",
+        "2": "ABGP201",
+        "3": "ABHO202",
+        "4": "ABSC202",
+        "5": "ABCP201",
+        "6": "ABPP201",
+        "7": "ABEC201",
+        "8": "ABEX202",
+        "9": "ABEN202",
+        "10": "*"
+    },
+    "Bachelor's in Agriculture 3": {
+        "1": "ABAG303",
+        "2": "ABPB301",
+        "3": "ABHO303",
+        "4": "ABMB301",
+        "5": "ABAE302",
+        "6": "ABEC302",
+        "7": "ABSC301",
+        "8": "ABST301",
+        "9": "ABAH301",
+        "10": "ABIT301"
+    },
+    "Bachelor's in Agriculture 4": {
+        "1": "ABBT401",
+        "2": "ABPB402",
+        "3": "ABPB403",
+        "4": "ABAE403",
+        "5": "ABSC403",
+        "6": "ABHO404",
+        "7": "ABPD402",
+        "8": "ABAG404",
+        "9": "ABEL401",
+        "10": "ABRM401"
+    },
+    "Bachelor's in Agriculture 5": {
+        "1": "ABIF-501",
+        "2": "ABPP-502",
+        "3": "ABPP-503",
+        "4": "ABPB-504",
+        "5": "ABEX-503",
+        "6": "ABAG-505",
+        "7": "ABRH-502",
+        "8": "ABEC-503",
+        "9": "ABAG-507",
+        "10": "ABEL-502"
+    },
+    "Bachelor's in Agriculture 6": {
+        "1": "ABAG-608",
+        "2": "ABAE-604",
+        "3": "ABPP-603",
+        "4": "ABHO-605",
+        "5": "ABEN-603",
+        "6": "ABPB-605",
+        "7": "ABAG-610",
+        "8": "ABEC-604",
+        "9": "ABFN-601",
+        "10": "ABEL-603"
+    },
+    "Bachelor's in Agriculture 7": {
+        "1": "ABEC-705",
+        "2": "ABAG-711",
+        "3": "ABEN-704",
+        "4": "ABSC-704",
+        "5": "ABHO-706",
+        "6": "ABAE-705",
+        "7": "ABAH-702",
+        "8": "ABEX-704",
+        "9": "ABAI-701",
+        "10": "*"
+    },
+    "Bachelor's in Agriculture 8": {
+        "1": "*",
+        "2": "*",
+        "3": "*",
+        "4": "*",
+        "5": "*",
+        "6": "*",
+        "7": "*",
+        "8": "*",
+        "9": "*",
+        "10": "*"
+    }
+}

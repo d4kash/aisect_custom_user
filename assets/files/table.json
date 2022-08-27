@@ -1,0 +1,75 @@
+{
+  "id": "1",
+  "B.sc1": {
+    "name": "Aryan",
+    "semester": "1",
+    "UserId": "aryan",
+    "password": "aryan"
+  },
+  "B.sc2": {
+    "name": "Aryan",
+    "semester": "2",
+    "UserId": "aryan",
+    "password": "aryan"
+  },
+  "B.sc3": {
+    "name": "Aryan",
+    "semester": "3",
+    "UserId": "aryan",
+    "password": "aryan"
+  },
+  "B.sc4": {
+    "name": "Aryan",
+    "semester": "4",
+    "UserId": "aryan",
+    "password": "aryan"
+  },
+  "B.sc5": {
+    "name": "Aryan",
+    "semester": "5",
+    "UserId": "aryan",
+    "password": "aryan"
+  },
+  "B.sc6": {
+    "name": "Aryan",
+    "semester": "5",
+    "UserId": "aryan",
+    "password": "aryan"
+  },
+  "M.sc1": {
+    "name": "Aryan",
+    "semester": "5",
+    "UserId": "aryan",
+    "password": "aryan"
+  },
+  "M.sc2": {
+    "name": "Aryan",
+    "semester": "5",
+    "UserId": "aryan",
+    "password": "aryan"
+  },
+  "M.sc3": {
+    "name": "Aryan",
+    "semester": "5",
+    "UserId": "aryan",
+    "password": "aryan"
+  },
+  "M.sc4": {
+    "name": "Aryan",
+    "semester": "5",
+    "UserId": "aryan",
+    "password": "aryan"
+  },
+  "M.sc5": {
+    "name": "Aryan",
+    "semester": "5",
+    "UserId": "aryan",
+    "password": "aryan"
+  },
+  "M.sc6": {
+    "name": "Aryan",
+    "semester": "5",
+    "UserId": "aryan",
+    "password": "aryan"
+  }
+}

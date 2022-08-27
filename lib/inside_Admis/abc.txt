@@ -1,0 +1,52 @@
+ cons.formText(
+                  _name,
+                  const Icon(Icons.person, color: Colors.black),
+                  "Name",
+                  [FilteringTextInputFormatter.allow(RegExp(r'[a-zA-Z]+|\s'))],
+                  RequiredValidator(errorText: "Required"),
+                  20,
+                  TextInputType.name,
+                  Colors.amber[300]),
+
+              cons.formText(
+                  _phoneno,
+                  const Icon(Icons.person, color: Colors.black),
+                  "Phone Number",
+                  [FilteringTextInputFormatter.allow(RegExp(r'[0-9]'))],
+                  RequiredValidator(errorText: "starts with 6"),
+                  20,
+                  TextInputType.number,
+                  Colors.amber[300]),
+              cons.formText(
+                  _question,
+                  const Icon(Icons.person, color: Colors.black),
+                  "Question",
+                  [
+                    FilteringTextInputFormatter.allow(
+                        RegExp(r'[a-zA-Z0-9]+|\s'))
+                  ],
+                  RequiredValidator(errorText: "Required"),
+                  12,
+                  TextInputType.name,
+                  Colors.amber[300]),
+
+
+                   -keepclassmembers class * {
+    @android.webkit.JavascriptInterface <methods>;
+}
+
+-keepattributes JavascriptInterface
+-keepattributes *Annotation*
+
+-dontwarn com.razorpay.**
+-keep class com.razorpay.** {*;}
+
+-optimizations !method/inlining/*
+
+-keepclasseswithmembers class * {
+  public void onPayment*(...);
+}
+-ignorewarnings
+-keep class * {
+    public private *;
+}
