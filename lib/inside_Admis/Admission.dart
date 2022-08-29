@@ -1,4 +1,6 @@
 import 'dart:async';
+import 'package:aisect_custom/admissionOnStart/drawer/widget/navigation_drawer_widget_admiss.dart';
+import 'package:aisect_custom/drawer/widget/navigation_drawer_widget.dart';
 import 'package:aisect_custom/inside_Admis/course.dart';
 import 'package:aisect_custom/services/constant.dart';
 import 'package:aisect_custom/widget/appBar.dart';
@@ -34,14 +36,31 @@ class _AdmissionHomeState extends State<AdmissionHome> {
   Widget build(BuildContext context) {
     return Scaffold(
       backgroundColor: const Color(0xffe7f0fd),
-      appBar: AppBarScreen(
-        title: "Admission",
+      appBar: AppBar(
+        backgroundColor: Colors.transparent,
+        elevation: 0,
+        title: Text("Aisect University",
+            style: TextStyle(
+              fontSize: Constant.height / 32,
+            )),
+        toolbarHeight: Constant.height / 7,
+        centerTitle: true,
+        flexibleSpace: Container(
+          decoration: BoxDecoration(
+            borderRadius: const BorderRadius.only(
+                bottomLeft: Radius.circular(20),
+                bottomRight: Radius.circular(20)),
+            gradient: LinearGradient(
+                colors: [Colors.pink, Colors.yellow.shade200],
+                begin: Alignment.bottomCenter,
+                end: Alignment.topCenter),
+          ),
+        ),
       ),
+      drawer: NavigationDrawerWidgetAdmission(),
 
-      body: Hero(
-        tag: "ADMISSION",
-        child: containerBox(context),
-      ),
+      body: containerBox(context),
+
       // ),
     );
   }

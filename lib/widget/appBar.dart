@@ -6,8 +6,9 @@ class AppBarScreen extends StatelessWidget with PreferredSizeWidget {
   @override
   final Size preferredSize;
   final String title;
+  final Widget? drawer;
 
-  AppBarScreen({Key? key, required this.title})
+  AppBarScreen({Key? key, required this.title, this.drawer})
       : preferredSize = Size.fromHeight(Constant.height / 7),
         super(key: key);
 

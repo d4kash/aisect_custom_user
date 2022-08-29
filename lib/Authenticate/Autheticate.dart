@@ -1,10 +1,12 @@
 import 'dart:async';
 
+import 'package:aisect_custom/Authenticate/CreateAccount.dart';
 import 'package:aisect_custom/Authenticate/LoginScree.dart';
 import 'package:aisect_custom/Home/CompleteProfile.dart';
 import 'package:aisect_custom/Home/buttomnav/custombottomnav.dart';
 import 'package:aisect_custom/Network/connectivity_provider.dart';
 import 'package:aisect_custom/Network/no_internet.dart';
+import 'package:aisect_custom/admissionOnStart/AdmissionOnStart.dart';
 import 'package:aisect_custom/firebase_helper/FirebaseConstants.dart';
 import 'package:aisect_custom/inside_Admis/Admission.dart';
 import 'package:aisect_custom/routes/app_routes.dart';
@@ -100,8 +102,10 @@ class _AuthenticateState extends State<Authenticate> {
       print("checkUserExist(); navigate in else");
       Timer(
           Duration(milliseconds: 40),
-          () => Navigator.of(context).pushReplacement(
-              MaterialPageRoute(builder: (context) => LoginScreen())));
+          () => Navigator.of(context).pushReplacement(MaterialPageRoute(
+              builder: (context) => LoginScreen(
+                    isAdmission: false,
+                  ))));
     }
   }
 
@@ -130,6 +134,7 @@ class _AuthenticateState extends State<Authenticate> {
             .doc(constuid)
             .get();
         print(querySnapshot.id);
+        print('im in admission section');
         if (querySnapshot.exists) {
           Timer(
               Duration(milliseconds: 30),
@@ -138,20 +143,24 @@ class _AuthenticateState extends State<Authenticate> {
                       builder: (context) => AdmissionHome()), //BiometricAuth
                   (route) => false));
         } else {
-          print(" called completeProfile; navigate in else 1 ");
+          print(" called AplicationONStart; navigate in else 1 ");
           Timer(
               Duration(milliseconds: 30),
               () => Navigator.of(context).pushAndRemoveUntil(
                   MaterialPageRoute(
-                      builder: (context) => LoginScreen()), //AplicationONStart
+                      builder: (context) => CreateAccount(
+                            isAdmission: true,
+                          )), //AplicationONStart
                   (route) => false));
         }
       } else {
-        print("checkUserExist(); navigate in else");
+        print("checkAdmissionUserExist navigate in else");
         Timer(
             Duration(milliseconds: 40),
-            () => Navigator.of(context).pushReplacement(
-                MaterialPageRoute(builder: (context) => LoginScreen())));
+            () => Navigator.of(context).pushReplacement(MaterialPageRoute(
+                builder: (context) => LoginScreen(
+                      isAdmission: true,
+                    ))));
       }
 //       for (int i = 0; i < querySnapshot.docs.length; i++) {
 //         Userid = querySnapshot.docs[i];

@@ -1,6 +1,8 @@
 import 'package:aisect_custom/Home/buttomnav/custombottomnav.dart';
 import 'package:aisect_custom/Network/connectivity_provider.dart';
 import 'package:aisect_custom/Network/no_internet.dart';
+import 'package:aisect_custom/admissionOnStart/AdmissionOnStart.dart';
+import 'package:aisect_custom/inside_Admis/Admission.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:provider/provider.dart';
@@ -9,6 +11,12 @@ import 'ForgotPassword.dart';
 import 'Methods.dart';
 
 class LoginScreen extends StatefulWidget {
+  final isAdmission;
+
+  const LoginScreen({
+    Key? key,
+    this.isAdmission,
+  }) : super(key: key);
   @override
   _LoginScreenState createState() => _LoginScreenState();
 }
@@ -140,7 +148,7 @@ class _LoginScreenState extends State<LoginScreen> {
             SizedBox(
               height: size.height / 10,
             ),
-            customButton(size),
+            customButton(size, widget.isAdmission),
             Container(
                 height: size.height / 14,
                 width: size.width / 1.2,
@@ -187,7 +195,10 @@ class _LoginScreenState extends State<LoginScreen> {
                       ),
                     ),
                     InkWell(
-                      onTap: () => Get.to(() => CreateAccount(),
+                      onTap: () => Get.to(
+                          () => CreateAccount(
+                                isAdmission: widget.isAdmission,
+                              ),
                           transition: Transition.cupertino),
                       child: const Text(
                         " SIGNUP",
@@ -206,7 +217,7 @@ class _LoginScreenState extends State<LoginScreen> {
     );
   }
 
-  Widget customButton(Size size) {
+  Widget customButton(Size size, bool isAdmission) {
     return GestureDetector(
       onTap: () {
         if (_email.text.isNotEmpty && _password.text.isNotEmpty) {
@@ -214,29 +225,57 @@ class _LoginScreenState extends State<LoginScreen> {
           isLoading.value = true;
           // });
 
-          logIn(_email.text.trim(), _password.text.trim()).then((user) {
-            if (user != null) {
-              print("Login Sucessfull");
-              ScaffoldMessenger.of(context).showSnackBar(const SnackBar(
-                content: Text("welcome to your house!"),
-              ));
-              // setState(() {
-              isLoading.value = false;
-              // });
-              Navigator.pushReplacement(
+          if (isAdmission == false) {
+            logIn(_email.text.trim(), _password.text.trim()).then((user) {
+              if (user != null) {
+                print("Login Sucessfull");
+                ScaffoldMessenger.of(context).showSnackBar(const SnackBar(
+                  content: Text("welcome to your house!"),
+                ));
+                // setState(() {
+                isLoading.value = false;
+                // });
+                Navigator.pushReplacement(
+                    context,
+                    MaterialPageRoute(
+                        builder: (_) => HomePageNav())); //HomePageNav
+              } else {
+                print("Login Failed");
+                ScaffoldMessenger.of(context).showSnackBar(const SnackBar(
+                  content: Text("you are not identified by our member!"),
+                ));
+                // setState(() {
+                isLoading.value = false;
+                // });
+              }
+            });
+          } else {
+            logInAdmission(_email.text.trim(), _password.text.trim())
+                .then((user) {
+              if (user != null) {
+                print("Login Sucessfull Admission");
+                ScaffoldMessenger.of(context).showSnackBar(const SnackBar(
+                  content: Text("welcome to your house!"),
+                ));
+                // setState(() {
+                isLoading.value = false;
+                // });
+                Navigator.pushAndRemoveUntil(
                   context,
-                  MaterialPageRoute(
-                      builder: (_) => HomePageNav())); //HomePageNav
-            } else {
-              print("Login Failed");
-              ScaffoldMessenger.of(context).showSnackBar(const SnackBar(
-                content: Text("you are not identified by our member!"),
-              ));
-              // setState(() {
-              isLoading.value = false;
-              // });
-            }
-          });
+                  MaterialPageRoute(builder: (_) => AdmissionHome()),
+                  (route) => false,
+                ); //HomePageNav
+              } else {
+                print("Login Failed");
+                ScaffoldMessenger.of(context).showSnackBar(const SnackBar(
+                  content: Text("you are not identified by our member!"),
+                ));
+                // setState(() {
+                isLoading.value = false;
+                // });
+              }
+            });
+          }
         } else {
           print("Please fill form correctly");
           ScaffoldMessenger.of(context).showSnackBar(const SnackBar(

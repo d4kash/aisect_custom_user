@@ -4,6 +4,7 @@ import 'package:aisect_custom/Home/buttomnav/custombottomnav.dart';
 import 'package:aisect_custom/Network/connectivity_provider.dart';
 import 'package:aisect_custom/Network/no_internet.dart';
 import 'package:aisect_custom/auth/finger_auth/LoadingScreen.dart';
+import 'package:aisect_custom/inside_Admis/Admission.dart';
 import 'package:aisect_custom/onboarding/screens/onboard/onboard.dart';
 import 'package:aisect_custom/services/LocalData.dart';
 import 'package:animated_text_kit/animated_text_kit.dart';
@@ -89,7 +90,12 @@ class _SplashScreenState extends State<SplashScreen> {
 
   Future initializeUser() async {
     _user = _auth.currentUser;
-    navigateUser();
+    var isAdmission = await LocalData.getName();
+    if (isAdmission == "admission") {
+      await navigateUserAdmission();
+    } else {
+      await navigateUser();
+    }
   }
 
   Future navigateUser() async {
@@ -137,6 +143,63 @@ class _SplashScreenState extends State<SplashScreen> {
         }
       } else {
         print("checkUserExist(); navigate in else");
+        if (onBoardVisited == true) {
+          Timer(
+              const Duration(seconds: 3),
+              () => Navigator.of(context).pushAndRemoveUntil(
+                  MaterialPageRoute(builder: (context) => SignUpWidget()),
+                  (route) => false));
+        } else {
+          //navigating too OnBoard
+          Timer(
+              const Duration(seconds: 3),
+              () => Navigator.of(context).pushAndRemoveUntil(
+                  MaterialPageRoute(builder: (context) => Onboard()),
+                  (route) => false));
+        } //this leads to phoneauth for students
+      }
+    } catch (e) {
+      print(e);
+    }
+  }
+
+  Future navigateUserAdmission() async {
+    try {
+      // var onBoardVisited = false;
+      var onBoardVisited = await LocalData.checkForFirst();
+      print("onBoarding check = $onBoardVisited");
+      print("checkUserExist(); Admission in navigate user");
+      if (_auth.currentUser != null) {
+        String uid = _auth.currentUser!.uid.toString();
+        final snapShot = await FirebaseFirestore.instance
+            .collection('New_Admission_Request')
+            .doc(uid)
+            .get();
+        print(snapShot.id);
+        if (snapShot.exists) {
+          Timer(
+              const Duration(seconds: 3),
+              () => Navigator.of(context).pushAndRemoveUntil(
+                  MaterialPageRoute(builder: (context) => AdmissionHome()),
+                  (route) => false));
+        } else {
+          if (onBoardVisited == true) {
+            Timer(
+                const Duration(seconds: 3),
+                () => Navigator.of(context).pushAndRemoveUntil(
+                    MaterialPageRoute(builder: (context) => SignUpWidget()),
+                    (route) => false));
+          } else {
+            //navigating too OnBoard
+            Timer(
+                const Duration(seconds: 3),
+                () => Navigator.of(context).pushAndRemoveUntil(
+                    MaterialPageRoute(builder: (context) => Onboard()),
+                    (route) => false));
+          }
+        }
+      } else {
+        print("checkUserExist(); aadmission navigate in else");
         if (onBoardVisited == true) {
           Timer(
               const Duration(seconds: 3),

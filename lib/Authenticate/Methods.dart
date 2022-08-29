@@ -36,6 +36,39 @@ Future<User?> createAccount(
   }
 }
 
+Future<User?> createAccountForAdmission(
+    String name, String email, String password, String phone) async {
+  FirebaseAuth _auth = FirebaseAuth.instance;
+
+  FirebaseFirestore _firestore = FirebaseFirestore.instance;
+
+  try {
+    UserCredential userCrendetial = await _auth.createUserWithEmailAndPassword(
+        email: email, password: password);
+
+    print("Account created on Admission section Succesfull");
+
+    userCrendetial.user!.updateDisplayName(name);
+
+    await _firestore
+        .collection('New_Admission_Request')
+        .doc(_auth.currentUser!.uid)
+        .set({
+      'full name': name,
+      'Phone No': phone,
+      'email': phone,
+      'isAdmissionDone': false,
+      'role': 'For Admission',
+      "admission - section": true
+    });
+
+    return userCrendetial.user;
+  } catch (e) {
+    print(e);
+    return null;
+  }
+}
+
 Future resetPassword(String email) async {
   FirebaseAuth _auth = FirebaseAuth.instance;
 
@@ -61,7 +94,31 @@ Future<User?> logIn(String email, String password) async {
         .collection('Raw_students_info')
         .doc(_auth.currentUser!.uid)
         .get()
-        .then((value) => userCredential.user!.updateDisplayName(value['name']));
+        .then((value) =>
+            userCredential.user!.updateDisplayName(value['full name']));
+
+    return userCredential.user;
+  } catch (e) {
+    print(e);
+    return null;
+  }
+}
+
+Future<User?> logInAdmission(String email, String password) async {
+  FirebaseAuth _auth = FirebaseAuth.instance;
+  FirebaseFirestore _firestore = FirebaseFirestore.instance;
+
+  try {
+    UserCredential userCredential = await _auth.signInWithEmailAndPassword(
+        email: email, password: password);
+
+    print("Login Sucessfull");
+    _firestore
+        .collection('New_Admission_Request')
+        .doc(_auth.currentUser!.uid)
+        .get()
+        .then((value) =>
+            userCredential.user!.updateDisplayName(value['full name']));
 
     return userCredential.user;
   } catch (e) {

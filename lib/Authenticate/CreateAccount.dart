@@ -2,7 +2,9 @@ import 'package:aisect_custom/Authenticate/Methods.dart';
 import 'package:aisect_custom/Home/buttomnav/custombottomnav.dart';
 import 'package:aisect_custom/Network/connectivity_provider.dart';
 import 'package:aisect_custom/Network/no_internet.dart';
+import 'package:aisect_custom/admissionOnStart/AdmissionOnStart.dart';
 import 'package:aisect_custom/firebase_helper/FirebaseConstants.dart';
+import 'package:aisect_custom/inside_Admis/Admission.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
@@ -12,6 +14,9 @@ import '../Home/HomePage copy.dart';
 import 'LoginScree.dart';
 
 class CreateAccount extends StatefulWidget {
+  final isAdmission;
+
+  const CreateAccount({Key? key, required this.isAdmission}) : super(key: key);
   @override
   _CreateAccountState createState() => _CreateAccountState();
 }
@@ -70,12 +75,6 @@ class _CreateAccountState extends State<CreateAccount> {
                   )
                 : showWidget(size, context)
             : NoInternet();
-        ;
-        return Container(
-          child: Center(
-            child: CircularProgressIndicator(),
-          ),
-        );
       }),
     );
   }
@@ -196,7 +195,7 @@ class _CreateAccountState extends State<CreateAccount> {
           SizedBox(
             height: size.height / 20,
           ),
-          customButton(size),
+          customButton(size, widget.isAdmission),
           Container(
               height: size.height / 14,
               width: size.width / 1.2,
@@ -216,8 +215,11 @@ class _CreateAccountState extends State<CreateAccount> {
                     ),
                   ),
                   InkWell(
-                    onTap: () => Get.off(LoginScreen(),
-                        transition: Transition.cupertino),
+                    onTap: () =>
+                        Navigator.of(context).pushReplacement(MaterialPageRoute(
+                            builder: (context) => LoginScreen(
+                                  isAdmission: false,
+                                ))),
                     child: Text(
                       " LOGIN",
                       style: TextStyle(
@@ -252,7 +254,29 @@ class _CreateAccountState extends State<CreateAccount> {
     }
   }
 
-  Widget customButton(Size size) {
+  static final CollectionReference _userCollectionRefForAdmission =
+      _firestore.collection("New_Admission_Request");
+  //! creating user
+  Future createUserForAdmission() async {
+    try {
+      await _userCollectionRefForAdmission.doc(constuid).set({
+        'full name': _name.text,
+        'Phone No': _phone.text,
+        'email': _phone.text,
+        'isAdmissionDone': false,
+        'role': 'For Admission',
+        "admission - section": true,
+        'ProfileUrl':
+            'https://firebasestorage.googleapis.com/v0/b/aisect-42fe7.appspot.com/o/StudentProfileImg%2FEEFEZxEPLoTm0byR3wJZVIyCIJ62%2Fimage_picker9094997287726926097.gif?alt=media&token=6c9e4b36-a9d9-4acb-b2d9-0bda4c66bb3c'
+      });
+    } catch (e) {
+      return ScaffoldMessenger.of(context).showSnackBar(const SnackBar(
+        content: Text("Something went wrong!"),
+      ));
+    }
+  }
+
+  Widget customButton(Size size, bool isAdmission) {
     return GestureDetector(
       onTap: () {
         if (_name.text.isNotEmpty &&
@@ -264,31 +288,58 @@ class _CreateAccountState extends State<CreateAccount> {
             isLoading = true;
           });
 
-          createAccount(_name.text, _email.text, _password.text, _phone.text)
-              .then((user) {
-            if (user != null) {
-              setState(() {
-                isLoading = false;
-              });
-              createUser();
-              Navigator.pushReplacement(
-                  context, MaterialPageRoute(builder: (_) =>HomePageNav()));
-              print("Account Created Sucessfull");
-              ScaffoldMessenger.of(context).showSnackBar(const SnackBar(
-                content: Text("Account created Sucessfully!"),
-              ));
-            } else {
-              ScaffoldMessenger.of(context).showSnackBar(const SnackBar(
-                content: Text("Email not valid!"),
-              ));
-              print("Login Failed");
-              setState(() {
-                isLoading = false;
-              });
-            }
-          });
+          if (isAdmission == false) {
+            createAccount(_name.text, _email.text, _password.text, _phone.text)
+                .then((user) {
+              if (user != null) {
+                setState(() {
+                  isLoading = false;
+                });
+                // createUser();
+                Navigator.pushReplacement(
+                    context, MaterialPageRoute(builder: (_) => HomePageNav()));
+                print("Account Created Sucessfull");
+                ScaffoldMessenger.of(context).showSnackBar(const SnackBar(
+                  content: Text("Account created Sucessfully!"),
+                ));
+              } else {
+                ScaffoldMessenger.of(context).showSnackBar(const SnackBar(
+                  content: Text("Email not valid!"),
+                ));
+                print("Login Failed");
+                setState(() {
+                  isLoading = false;
+                });
+              }
+            });
+          } else {
+            createAccountForAdmission(
+                    _name.text, _email.text, _password.text, _phone.text)
+                .then((user) {
+              if (user != null) {
+                setState(() {
+                  isLoading = false;
+                });
+                // createUser();
+                Navigator.pushReplacement(context,
+                    MaterialPageRoute(builder: (_) => AdmissionHome()));
+                print("Account Created For admission Sucessfull");
+                ScaffoldMessenger.of(context).showSnackBar(const SnackBar(
+                  content: Text("Account created Sucessfully!"),
+                ));
+              } else {
+                ScaffoldMessenger.of(context).showSnackBar(const SnackBar(
+                  content: Text("Email not valid!"),
+                ));
+                print("Login Failed");
+                setState(() {
+                  isLoading = false;
+                });
+              }
+            });
+          }
         } else {
-          print("Please enter Fields");
+          print("Please Fill all Fields");
           ScaffoldMessenger.of(context).showSnackBar(const SnackBar(
             content: Text("Please Fill all feilds correctly!"),
           ));

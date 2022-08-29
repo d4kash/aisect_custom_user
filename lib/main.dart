@@ -1,6 +1,7 @@
 import 'dart:io';
 import 'dart:math';
 
+import 'package:aisect_custom/admissionOnStart/drawer/provider/navigation_provider.dart';
 import 'package:aisect_custom/drawer/provider/navigation_provider.dart';
 import 'package:aisect_custom/firebase_helper/FirebaseConstants.dart';
 import 'package:aisect_custom/firebase_helper/jsontofirebase.dart';
@@ -181,6 +182,9 @@ class MyApp extends StatelessWidget {
         ),
         ChangeNotifierProvider<NavigationProvider>(
           create: (context) => NavigationProvider(),
+        ),
+        ChangeNotifierProvider<NavigationProviderAdmission>(
+          create: (context) => NavigationProviderAdmission(),
         ),
       ],
       child: FirebasePhoneAuthProvider(
